@@ -1,0 +1,114 @@
+URL: https://www.uni-greifswald.de/en/study/prior-to-studies/study-opportunities/courses-and-degrees/d/data-science/
+TITLE: Data Science - University of Greifswald
+
+Skip to main content
+Skip to footer
+Deutsch
+Login
+Prospective Students
+Students
+Researchers
+HIS/LSF
+Groupware
+Accounts
+Telephone Directory
+Media
+International Office
+Search
+Submit
+Home
+Study
+Prior to Studies
+Courses and Degrees
+Data Science
+Data Science
+Master
+© Jan Hilgendorf
+Admission requirements
+The master's degree course 'Data Science' can only be started in winter semester. Admission requirements are:
+Basic knowledge of linear algebra, calculus, statistics, and programming
+Bachelor’s degree or a comparable qualification
+Proof of English language skills at B2 CEFR level or a comparable qualification*
+German language skills at DSH 1 level (equivalent to B2 CEFR)*
+Further information on admission and language proficiency requirements for foreign applicants is available on this page.
+This master’s degree course is about…
+The master’s degree course Data Science takes an interdisciplinary approach, recognising that data-driven solutions are applicable across a wide range of fields and industries. By combining core principles from statistics, computer science, mathematics, and domain-specific knowledge, this degree course equips students with the tools and expertise needed to tackle complex problems in various domains such as healthcare, finance, business, engineering, and social sciences.
+What students can expect
+Compulsory modules
+Mathematics of Artificial Intelligence
+Machine Learning
+Fundamentals of Artificial Intelligence and Data Science
+Databases
+Bayesian Modelling
+Interdisciplinary Data Science
+Interdisciplinary Projects
+Master's Thesis
+Compulsory Elective Modules
+Deep Learning and Generative Artificial Intelligence
+Machine Learning for Time Series
+Fundamentals of Natural Language Processing
+Software Engineering for Data Science
+Bayesian Econometrics
+Computational Physics
+Multivariate Statistics
+Data Structures and Efficient Algorithms
+NoSQL Databases
+Natural Language Processing
+Software Engineering
+Biometry
+Algorithms and Programming
+Overview
+Standard period of study:
+4 Semester
+Study type:
+international course,
+part time,
+full time
+Subject type:
+One-Subject Degree Course
+Restricted admission:
+without admission restriction
+Main teaching language:
+English
+Additional teaching languages:
+German
+Study field:
+Mathematics, Natural Sciences
+Faculty:
+Faculty of Mathematics and Natural Sciences
+Start of studies:
+Winter semester
+Knowledge of the German language:
+Intermediate knowledge of the German language at DSH1 level (equivalent to B2 CEFR)
+Useful links
+Degree-seeking students
+Dates and deadlines for foreign applicants
+Subject advisor
+Examination and Study Regulations
+Institute of Data Science
+Any more questions?
+International Office
+Study and Application Enquiries
+Domstraße 8
+17489 Greifswald
+Tel.: +49 3834 420 1116
+bew_infouni-greifswaldde
+Students can take other modules on offer at the Faculty of Mathematics and Natural Sciences or other faculties at the university, provided they are related to data science.
+Graduates of this degree course
+Graduates are equipped with a diverse set of skills that prepare them for work in academia, at research institutions, or tech companies.
+Some potential lines of employment are:
+- Healthcare optimisation, disease prediction, drug development;
+- Climate change studies, sustainable development, energy optimisation;
+- AI in education
+- Natural language processing, intelligent tutoring systems, or recommendation systems;
+- Development of intelligent systems, urban planning, or agricultural optimisation;
+- Computational biology and bioinformatics;
+- Computational social science
+General information about the degree course
+The degree course is designed to educate experts not only in data science but also to integrate the knowledge from their undergraduate studies, enabling them to apply data science techniques effectively within their specific field of expertise.
+What is special about studying Data Science in Greifswald?
+The degree course provides students with the opportunity to realise projects in collaboration with leading local non-university research institutes, such as the Friedrich-Loeffler-Institut, the Max-Planck Institute (IPP), the Leibniz Institute for Plasma Research and Technology (INP), and the Helmholtz Institute for One Health. Students also benefit from access to specialised labs and high-performance computing resources, enhancing their research capabilities.
+Further links
+datascience.uni-greifswald.de
+The short link to this page is: uni-greifswald.de/en/subject/data-science
+back to top

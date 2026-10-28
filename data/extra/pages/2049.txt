@@ -1,0 +1,135 @@
+URL: https://www.uni-mannheim.de/en/academics/before-your-studies/programs/mannheim-master-in-data-science/
+TITLE: Mannheim Master in Data Science | University of Mannheim
+
+Skip to main navigation
+Skip to page content
+Skip to footer
+Credit: Gorodenkoff – stock.adobe.com AdobeStock
+Credit: Leonie Kopetzki
+The Mannheim Master in Data Science program encourages people with a background not related to computer science like me to pursue a career in the new field of Data Science. It is a very innovative program, which offers a combination of courses in statistics, math, data management, and data analytics. The professors are doing exciting research and my research position offered me great insights into the field, which has allowed me to continue learning outside the classroom.
+Rohit Gupta, Mannheim Master in Data Science
+Program facts and information
+Degree: Master of Science (M.Sc.)
+Standard period of study: 4 semesters (2 years)
+ECTS credits: approx. 120
+Language of instruction: English
+Language requirements: English; for information on the required proof of language proficiency see “Admission requirements and selection”
+Program start: Fall semester (September) and spring semester (February)
+Academic calendar
+School: School of Business Informatics and Mathematics
+Semester fee
+EUR 194 (more information)
+Tuition fees for international students from non-EU countries: EUR 1,500
+Tuition fees for a second degree: EUR 650
+Read more about the School of Business Informatics and Mathematics
+Program overview
+Machine learning, artificial intelligence,and big data play a central role in modern information systems. The Mannheim Master in Data Science equips students with advanced expertise in machine learning, artificial intelligence, and large-scale data management. The program blends an extensive course selection with practical projects and research opportunities. Students acquire skills in collecting, organizing, and mining large amounts of data, and learn to apply these skills for data-driven problem-solving in various fields.
+The curriculum comprises fundamentals in machine learning, data mining, data security, and data management, as well as a wide range of elective courses in areas such as deep learning, text analytics, computer vision, process mining, data integration, reinforcement learning, and optimization, among many others.
+Why study the Mannheim Master in Data Science program?
+The Mannheim Master in Data Science offers a wide variety of courses that students can choose from, and a large degree of freedom to compile a curriculum based on individual interests. The course offerings include technical courses in the area of data analytics and data management, as well as courses on applying machine learning techniques to different types of data and within different application domains.
+Thanks to close interdisciplinary collaborations between the School of Business Informatics and Mathematics and the School of Social Science, the School of Business, and the School of Humanities, MMDS students can also choose from various methodological as well as applied courses offered by these schools.
+Mannheim is located in the Rhine Neckar metropolitan region, where large companies such as SAP, ABB, BASF, Roche, and Heidelberg Materials have their headquarters. Moreover, hundreds of innovative startups are located in the area. Every semester, hands-on projects with partner companies are offered in the study program, allowing students to get in touch with businesses and enhance their networks. Many students eventually choose to write their master’s thesis in one of those companies.
+With 40 places per year, the class size of this program of study is rather small. Students in the master’s program Mannheim Master in Data Science thus benefit from a low student-to-teacher ratio and individual and personal contacts to the teaching staff.
+The University of Mannheim is part of a global network. The university’s ties to more than 450 partner universities all over the world do not only impact life on campus, but also open numerous doors to those students who wish to study abroad for a semester. In addition, the Engage.EU network allows students to attend online courses at partner universities all across Europe.
+Scholarships and funding
+The university offers various funding opportunities. Around 200 Mannheim students receive scholarships every year, which are intended to give them the freedom to focus on their academic achievements or to continue their voluntary work alongside their studies. Find out more about the funding opportunities:
+Scholarship overview Funding opportunities for international degree-seeking students
+Career opportunities
+The amount of data collected, as well as the progress of data mining and artificial intelligence methods have led to a growing interest in data-driven problem solving in companies, civil service institutions, and in research. As this development is ongoing and is even accelerated by the current boom in artificial intelligence, the job opportunities for data scientists are excellent and are also expected to stay excellent for the time to come. Graduates of the Mannheim Master in Data Science can thus choose from a wide range of opportunities in industry, civil service, and academia.
+No matter whether you aim at working as a data scientist or AI specialist in a company, a civil service organization, or plan to follow the path to a PhD as an academic researcher, the Mannheim Master in Data Science provides you with an excellent study program to support your future career.
+Read more about career prospects and career opportunities
+Required interests and skills
+Students in the master’s program Mannheim Master in Data Science should
+be interested in IT and programming,
+have a general understanding of statistics and mathematics,
+be innovative,
+be capable of analytical thinking.
+Program structure
+Note: this page describes the updated structure of the MMDS for students starting from HWS 2024. Students who started earlier find information on their study program here .
+The master’s program comprises seven blocks:
+Data Science Fundamentals (27 ECTS)
+Data Management (6–24 ECTS)
+Data Analytics Methods (12–36 ECTS)
+Responsible Data Science (3–7 ECTS)
+Data Science Applications (0–12 ECTS)
+Projects and Seminars (14–18 ECTS)
+Master’s Thesis (30 ECTS)
+The data science fundamentals block comprises four mandatory courses in data mining, machine learning, large-scale data management, and data security and privacy. The data management block teaches data management methods from database query optimization to blockchains. The data analytics methods teaches data mining methods for different kinds of data, such as text, image, process, and social network data. In the responsible data science block, students learn to judge the societal impact of data science and AI. The data science applications block comprises courses offered by different schools, such as business, humanities, and social science, which discuss data-driven methods in different application areas. Finally, in projects and seminars, and in the master’s thesis, students conduct their own research projects, both individually and in teams.
+A complete list of courses can be found in the module catalog.
+Studying abroad
+The University of Mannheim is partners with 450 universities around the world. In collaboration with the International Office, the school can help you plan a period of study abroad. In the master's program Mannheim Master in Data Science, studying abroad is optional.
+Internships
+Examination regulations for the master’s program do not provide for a mandatory internship. If you would like to do a voluntary internship, the School of Business Informatics and Mathematics, thanks to its strong business contacts, will be in the best position to to assist you with the organization.
+Continuing education
+Certificate programs
+Strengthen your potential, deepen your knowledge, find solutions for challenges we will face tomorrow – there are many good reasons to think outside the box, get to know and try out new things even during your studies.
+At the University of Mannheim, you can do this in the “Studium Oecologicum” which focuses on sustainability. In our certificate program, you will acquire interdisciplinary expert knowledge which can help you to act ethically and to make holistic decisions.
+Continuing education services in academics
+Language courses
+Making language learning easier: No matter if you want to learn Japanese, Hebrew, Spanish or Norwegian, take the Graduate Record Examination Test (GRE), The European Language Certificates (telc) or the TOEFL test – each semester, the University of Mannheim offers language courses and language certificates in more than 16 languages for students and non-university members, online and on campus!
+Language courses at the University of Mannheim
+Studium Generale
+Are you interested in IT or communication trainings or theater, music, or drawing courses? Studium Generale has a vast range of courses available to all.
+Current Studium Generale program
+Doctorates
+Graduates of the master’s program Mannheim Master in Data Science qualify for a doctoral program either as research assistants or external doctoral candidates at a chair.
+Doctoral programs and opportunities at the School of Business Informatics and Mathematics
+General information on doctoral studies at the University of Mannheim
+Admission requirements and selection
+In our selection process, we take numerous criteria into account. For more details, please check the selection statutes (see below).
+Admission requirements
+If you have not yet completed your bachelor’s degree, you may still apply for a master’s program as long as will provide a proof that you have obtained at least 130 ECTS credits.
+a bachelor’s degree with a minimum grade of 2.5 in computer science or mathematics or a related program (in particular bio-/geo-/financial/business informatics/mathematics, technical/applied informatics/mathematics) or a computer science-related engineering program (in particular computer or software engineering) or a program recognized as equivalent by the admissions committee from a German or foreign higher education institution (including Berufsakademie) with at least 180 ECTS credits or a standard period of study of at least three years. The degree is considered equivalent if the program of study includes courses equivalent to at least 70 ECTS credits in informatics, mathematics, or statistics.
+Proof of proficiency in English (may be submitted until 15 August or 15 January, respectively)
+If you are not part of one of the following groups:
+Applicants with German citizenship
+Applicants from countries of the European Union and the European Economic Area
+Applicants who hold a German university entrance qualification
+The German Feststellungsprüfung or a completed bachelor’s program in Germany is not considered as German university entrance qualification
+Applicants who are in the final semester of a bachelor's program in Germany or completed a bachelor's program in Germany
+Stateless applicants
+you must also provide proof of a Graduate Record Examination (GRE) score of at least 162 points in the area of quantitative reasoning and at least 151 points in the area of verbal reasoning. The results must not be older than five years. The cut-off date is the definitive deadline for application for the program of study.
+Selection criteria
+The final grade or—for students still completing their degree – the grade average of the bachelor’s program
+Semester abroad
+Relevant professional activities
+Please note:
+The only selection criterion for applicants who must provide proof of the Graduate Record Examination (GRE) is the GRE score in the area of quantitative reasoning and verbal reasoning.
+Selection statutes
+Under “Admission requirements and selection” we have compiled the most important selection criteria of the program for you. For more detailed explanations of the selection process and the legally binding requirements of the degree program, please refer to the selection statutes.
+Application
+Application deadlines
+The application deadlines for fall semesters for our master's programs vary. Please refer to our overview.
+For spring semesters, application is possible from 15 October until 15 November.
+Apply now!
+Receive information material on the degree program now!
+Contact
+Credit: Emilie Orgler
+Lisa Wessa, M.A. (she/her)
+Program Manager Teacher Education High School Level, B.Sc. Business Mathematics, B.Sc. Business Informatics, Mannheim Master in Data Science and Mannheim Master in Social Data Science
+University of Mannheim
+School of Business Informatics and Mathematics
+B 6, 26
+Gebäudeteil B – Room B1.04
+68159 Mannheim
+Phone: +49 621 181-2441
+E-mail: lisa.wessauni-mannheim.de
+Consultation hour(s):
+You can reach me Mondays 12:00 a.m – 13:00 p.m. via phone or via E-Mail.
+Credit: Anna Logue
+Admissions Office
+University of Mannheim
+L 1, 1 – Room 157, 158
+68161 Mannheim
+E-mail: bewerbunguni-mannheim.de
+Web: www.uni-mannheim.de/en/academics/before-your-studies/applying/contacting-the-admissions-office
+Our students have voted:
+The University of Mannheim ranks first on the Studycheck.de portal
+and is the "Most Popular University with 5,000 – 15,000 students” in Germany!
+In order to improve performance and enhance the user experience for the visitors to our website, we use cookies and store anonymous usage data. For more information please read our privacy policy.
+Allow
+Reject
+Tracking cookies are currently allowed.
+Do not allow tracking cookies
+Tracking cookies are currently not allowed.
+Allow tracking cookies

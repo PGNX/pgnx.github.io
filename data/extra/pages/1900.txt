@@ -1,0 +1,152 @@
+URL: https://www.uni-bremen.de/en/studies/orientation-application/offered-study-program/dbs/study/artificial-intelligence-and-intelligent-systems-master
+TITLE: Artificial Intelligence and Intelligent Systems (Master) - Universität Bremen
+
+DBS
+Artificial Intelligence and Intelligent Systems (Master)
+Fachbereich 03
+Artificial Intelligence and Intelligent Systems (Master)
+© Universität Bremen
+Title on graduation
+Master of Science
+(M.Sc.)
+Standard course length
+4 Semester
+Language of delivery
+English
+Application period (beginner)
+winter semester: 01.02. - 15.03.
+Restricted admission
+Apply now
+Study description
+The international Master’s program ,,Artificial Intelligence and Intelligent Systems“ (AIIS) offers students a broad variety of research-based courses in a vibrant interdisciplinary environment benefitting from renowned researchers in the field of AI, cognitive systems, and robotics.
+AIIS students receive comprehensive training in theoretical, practical, and applied AI while specializing in “Cognition-Enabled Robotics” and “Machine Learning & Cognitive Systems”, choosing one of the two as major and the other as minor.
+Other features of AIIS are the Guided Research module – an independent student research project with individual supervision by a professor – and the Master Project module. The latter is a specialty of Bremen's computer science programs. There, topics of practical importance are worked on intensively in groups over a longer period of time.
+Short overview
+More detailed overview
+FAQs
+Information Document
+Master_Flyer_EN.pdf
+Does my bachelor's degree qualify for this master's program?
+Academic Advising
+Additional Information
+Courses
+Uni-Start portal
+Decision Consulting
+Additional advisory services
+Study details
+Basic data
+Title on graduation:
+Master of Science
+(M.Sc.)
+Standard course length:
+4 Semester
+Language of instruction:
+English
+System accreditation:
+Yes, through the
+Accreditation Council
+Costs:
+Semester fee including semester ticket approx. 425 Euro. €
+ECTS-Credits:
+120CP
+Application and enrolment
+Applications via
+moin.uni-bremen.de
+Application Information
+Information about the study place application
+Application period (beginner)
+01.02. - 15.03. to the winter semester
+Application period (advanced)
+01.02. - 15.03. to the winter semester, 01.12. - 15.01. to the summer semester
+Admission for freshmen
+restricted admission
+Admission for advanced students
+At this time, advanced students cannot be accepted.
+Admission requirements
+For inclusion in a master's degree is the completion of studies at the Bachelor's level requirement.
+The subject-specific entry requirements are set out in the current Aufnahme-/Zulassungsordnung (admission regulations).
+It also includes the different deadlines for the provision of evidence.
+If proof of German language skills is required: Information on German language skills.
+Admission regulations
+of
+05.07.2023:
+Summary-admission-requirements-Artificial-Intelligence-07-2023
+[pdf]
+(50.5 KB)
+of
+12.02.2024:
+AO-Artificial-Intelligence-07-23_berichtigt.pdf
+[pdf]
+(124.3 KB)
+Objectives and contents of program
+Course Schedule
+AIIS is a four-term program comprising 120 credit points (CP). Courses will be taught in English and international students are very welcome.
+The study program is designed for a standard period of study of four semesters (full-time study) and ends with the degree "Master of Science" (M.Sc.). - Those who do not pursue their studies full-time (e.g. for family or health reasons or due to parallel employment) must plan for a correspondingly longer study period.
+The study program is modular. There are only a few modules with compulsory courses. For the other modules, students can choose between different courses. Each course is assigned a point value (credit points, CP), which is a measure of the relative average amount of work that must be done for the individual courses. A total of 120 CP must be achieved for the successful completion of the Master's program.
+The program is completed with the master's thesis. Students thus demonstrate that they have acquired the thorough specialist knowledge required for professional practice, have an overview of the interrelationships of their subject, and possess the ability to apply scientific methods and findings in the area of Artificial Intelligence and Intelligent Systems.
+Course schedule document
+Module Guide
+Major Fields
+The major fields of study are:
+Foundations: Advanced Methods of AI, Advanced Machine Learning, Integrated Intelligent Systems, AI Algorithms: Theory and Engineering, Cross-Disciplinary Foundations
+Major/Minor: Cognition-Enabled Robotics, Machine Learning and Cognitive Systems
+Research: Master Project, Master Seminar, Guided Research
+Typical Course Types
+Courses are held in the following forms, among others:
+Course or lecture with exercise/tutorial
+Seminar
+Project
+Formalities
+Exams Forms
+Forms of examination performance include
+- Oral examinations
+- Exercises with technical discussion
+- Processing of practical/laboratory tasks with technical discussion
+- Oral presentation with written elaboration (paper), optionally with technical discussion
+- Extensive written elaboration (term paper) with technical discussion
+- Project report
+- Master thesis
+Unofficial translation of Admission Regulations
+Examination regulations
+of
+08.04.2026:
+AT-MPO-04-26_Lesefassung.pdf [pdf] (555.7 KB)
+Examination regulations
+of
+08.11.2023:
+MPO-Artificial-Intelligence-11-23.pdf [pdf] (181.1 KB)
+PhD and career paths
+Subsequent non-teaching occupational fields
+AIIS is designed to prepare students for research and development positions in academia or industry in the fast-growing field of AI such as scientist, research engineer, data scientist, or AI consultant. Throughout their studies, AIIS students will have the opportunity to connect with top-notch researchers of the University of Bremen, as well as with leaders of technology companies in and around Bremen, e.g. through internships and Master’s projects.
+The master's degree can be followed seamlessly by a PhD thesis at the university of Bremen.
+Research and teaching
+Expertise
+The department of computer science covers research and teaching topics from a variety of areas such as robotics, computer graphics, virtual reality, cognitive systems, data bases, logistics, neuro-informatics, efficient algorithms, information management, artificial intelligence, computer networks, cyber-physical systems, distributed systems and software engineering.
+Teaching Staff
+There are currently 20 full-time professorships in computer science, which together with a large number of scientific employees offer courses in computer science. Additional courses are offered by lecturers, retired university professors, cooperation and honorary professors, lecturers from other subjects and, if necessary, lecturers.
+Collaborations
+Computer Science in Bremen has a wide range of contacts with other computer science research institutions in Germany and worldwide. Computer science working groups are involved in the Bremen location of the German Research Center for Artificial Intelligence (DFKI), among others. In the field of transfer, there are intensive contacts to business, industry and public administration - among others through the Technology Center for Informatics (TZI) and the Institute for Information Management Bremen (ifib).
+Contact and counselling
+Homepage
+Studies centre
+Studienzentrum Informatik
+Building: MZH
+E-Mail: sziprotect me ?!uni-bremenprotect me ?!.de
+Fon: 0421/218-63532
+Academic Advising
+Prof. Dr. Tanja Schultz
+Building: Cartesium,
+Office: 2.041
+E-Mail: aiis-infoprotect me ?!uni-bremenprotect me ?!.de
+Fon: +49 421 218-64270
+Faculty
+Faculty 03 Mathematics/Computer Science
+Status
+12.05.2026
+,
+Author:
+Kerstin Bonnet
+Updated by: Datenbank Studium
+RSS
+Print page
+Scroll to the bottom of the pageScroll to the top of the page

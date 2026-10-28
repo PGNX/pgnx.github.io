@@ -1,0 +1,99 @@
+URL: https://www.uni-augsburg.de/en/studium/studienangebot/uebersicht/geoinformatics-msc/
+TITLE: Geoinformatics (M.Sc.)
+
+University
+Study
+Programmes
+Programmes
+Geoinformatics (M.Sc.)
+Study content:
+The Master's programme in Geoinformatics introduces students to scientific work, taking into account English as the scientific language in geoinformatics. The aim of this degree programme is the intelligent processing of geographical information in the context of geographical issues. This includes the development of (computer-aided) methods for geodata analysis - from data acquisition & storage, processing, data enrichment to advanced explorative visualisation and cartographic
+communication. The acquired knowledge and competences are also to be applied in projects before the degree programme is completed with a scientific Master's thesis.
+Go to degree programme
+Details about the application process
+Career prospects:
+Urban and regional planning
+Waste management
+Logistics
+Navigation and traffic
+Telecommunications
+Marketing and Tourism
+Agriculture and forestry
+Landscape planning
+Disaster management
+Water and energy supply
+Insura
+About the Programme
+Programme:
+Geoinformatics
+Official Designation:
+Geoinformatik
+Degree:
+Master of Science
+(M.Sc.)
+Study mode:
+Full-time
+Language of instruction:
+German
+Start of studies:
+winter semester, summer semester
+Standard study duration:
+4 semesters
+Admission type:
+Open admission
+Minimum German language skills:
+C 1
+Please note:
+Admission requirements according to § 6 of the exam regulations in der current edition. Introductory events take place closely before the start of the lecture period: https://www.uni-aug…. Start of the lecture period: https://www.uni-aug…
+Application deadline for the summer semester:
+15. January
+Application deadline for the winter semester:
+15. July
+Further information
+Exam regulations
+Module catalogue
+Online application
+Application Documents
+Application documents for applicants with a German degree
+Bachelor's certificate or equivalent degree
+including a Transcript of Records
+Transcript of Records (if the Bachelor's certificate or equivalent degree is not yet available), stating the average grade achieved to date
+If the Bachelor’s degree (or equivalent qualification) is not yet available and the average grade is not shown on the Transcript of Records, please also provide a certificate of average grade.
+Tabular curriculum vitae
+English-language letter of motivation with your reasons to study Geoinformatics at the University of Augsburg
+Table with completed courses in Geoinformatics, GIS, Cartography, Modelling and Computer Science with ECTS
+If applicable, proof of practical experience with applications of geoinformatics, use of GIS in companies
+If applicable, evidence of language skills in English (course certificates, stays abroad, language certificates, etc.)
+If applicable, evidence of programming languages (course certificates, brief assessment of your skills, naming the programming and/or scripting languages).
+Please note: Good knowledge of English and programming languages is indispensable for the success of the Master's degree programme in Geoinformatics.
+Application documents for applicants with a foreign degree
+Bachelor's certificate or equivalent degree
+including a Transcript of Records
+[if the originals are not in German or English: Submission of a certified copy or a certified translation by a translator sworn in Germany]
+APS certificate: For applicants from China, India and Vietnam
+Transcript of Records (if the Bachelor's certificate or equivalent degree is not yet available), stating the average grade achieved to date
+If the Bachelor’s degree (or equivalent qualification) is not yet available and the average grade is not shown on the Transcript of Records, please also provide a certificate of average grade.
+Proof of German language skills at level C1 CEFR
+Tabular curriculum vitae
+English-language letter of motivation with your reasons for studying Geoinformatics at the University of Augsburg
+Table with completed courses in Geoinformatics, GIS, Cartography, Modelling and Computer Science with ECTS
+If applicable, proof of practical experience with applications of geoinformatics, use of GIS in companies
+If applicable, evidence of language skills in English (course certificates, stays abroad, language certificates, etc.)
+If applicable, evidence of programming languages (course certificates, brief assessment of your skills, naming the programming and/or scripting languages)
+Please note: Good knowledge of English and programming languages is indispensable for the success of the Master's programme in Geoinformatics.
+More information on
+application with international bachelor's degree certificates.
+The application documents must be submitted as an upload with the online application.
+To the online application
+Contact the study advisory service
+Prof. Dr. Jukka M. Krisp
+professor
+Applied Geoinformatics
+Phone:
++49 821 598 - 2756
+Homepage:
+Email:
+jukka.krisp@geo.uni-augsburggeo.uni-augsburg.de
+()
+Search
+Enter search term

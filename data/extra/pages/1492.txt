@@ -1,0 +1,161 @@
+URL: https://www.tf.uni-freiburg.de/en/study-programs/embedded-systems-engineering/m-sc-embedded-systems-engineering
+TITLE: Embedded Systems Engineering (Master of Science) — Faculty of Engineering
+
+Search Site
+only in current section
+Advanced Search…
+You are here:
+Home
+›
+Study Programs
+›
+Embedded Systems …
+›
+Embedded Systems Engineering …
+Bicycle pedal for the 21st century
+Info
+Embedded Systems Engineering (Master of Science)
+Embedded systems are among the key technologies. Whether in medical technology, the automotive industry, in aerospace or in the telecommunications, media and entertainment technology - embedded systems play a central role in the latest technological developments. The systems that "feel" with sensors, "think" through intelligent programming, and "act" on signals and actuators perform a wide variety of tasks.
+Connection between engineering and computer science
+In the master's program, we provide you with versatile know-how in computer science and engineering. For your future as a research scientist or project leader in a company, you are well equipped to understand and bring together the "language" of both worlds of technology.
+You will gain knowledge about the design of microelectronic, micro-mechanic and software-based components as well as their integration into complete systems. An extensive selection of courses allows you to set an individual focus or specialize in one of the following areas:
+Artificial Intelligence
+Cyber-Physical Systems
+Circuits and Systems
+Materials and Fabrication
+Biomedical Engineering
+Photonics
+Prerequisites
+Bachelor's degree in mechatronics, information technology, electronics or electrical engineering, computer science or similar. Previous knowledge in mathematics, computer engineering, physics and electrical engineering
+English language proficiency level C1 (to find out which language certificates are accepted, please go to Application / English language proficiency).
+Facts and Figures
+Scope:
+120 ECTS credit points
+Standard program duration:
+4 semesters = 2 years
+Language of instruction:
+English
+Intakes:
+winter semester (October) or summer semester (April)
+Fees and Cost
+German and EU nationals
+103 € to support the services offered by Studierendenwerk (SWFR)
+80 € administrative fee
+7 € to support the student council
+Altogether 190 € per semester to be paid to the university.
+Non-EU nationals
+1500 € tuition fees
+103 € to support the services offered by Studierendenwerk (SWFR)
+80 € administrative fee
+7 € to support the student council
+Altogether 1690 € per semester to be paid to the university.
+The living cost in Freiburg amounts to approximately 900-1000 € per month.
+Application
+Application:
+Applications will be done electronically. These are the documents needed:
+original undergraduate diploma or certified copy (bachelors or equivalent) - if already available,
+original undergraduate transcript of records or certified copy, showing all courses and credits taken and all grades/marks obtained as well as the final/current overall average grade,
+if applicable: letter or certificate issued by your university, stating one of the following: registration, submission or completion of your final thesis, or expected graduation date (see below),
+your English proficiency test result (for details, see below),
+your Curriculum Vitae or résumé,
+APS certificate (only for applicants who have studied in China, India or Vietnam).
+Please note: It is not possible to submit the APS certificate after the application deadline.
+Optional documents that can be useful to submit:
+letter of motivation
+letter of recommendation
+description of those subjects of your bachelor's degree that covered maths, computer science and electronics
+GRE score (all three sections are important)
+certificate about your class rank
+certificate about the average grade of your class
+University entrance exam result from your home country (if applicable)
+GATE result (only applicable for Indian students)
+Academic publications you may have authored
+Undergraduate diploma and transcript of records: If you have completed your studies, but not yet received the bachelors diploma, the transcript of records has to show the total number of credit points, final grade and the remark "degree conferred" or "degree awarded". If not, please submit an additional confirmation letter from the university stating the total number of credit points, the final grade and that the degree has been conferred.
+If you have not yet completed your undergraduate studies, please submit a letter or certificate issued by your university, stating one of the following: registration, submission or completion of your final thesis, or expected graduation date.
+English language proficiency:
+The following English language certificates are accepted: Academic IELTS, including IELTS Online Academic (minimum 7.0), TOEFL, including TOEFL ibT home edition and TOEFL Essentials (minimum ibT score 95 or 5.0 according to the new TOEFL scale 2026), Cambridge CAE or CPE, Pearson PTE Academic (minimum score 76), telc University, TOEIC, OOPT. Only native speakers from the USA, the UK, Australia, New Zealand and Canada or students having completed their bachelor's degree in one of these countries are exempted from submitting a test score. A confirmation that the medium of instruction at your university was English is not sufficient.
+Please note: Incomplete applications will not be considered. Certificates issued in a language other than German or English must be accompanied with a translation by an authorized translator.
+The online application is not always intuitive. If you are unsure, follow the instructions for the online application.
+Start application
+Admissions:
+The admissions committee will verify whether you fulfill the special prerequisites outlined in the admissions regulations. This is a courtesy translation of the admission regulations.
+Please note: University admission requirements may be subject to change prior to the start of the application period.
+Application periods:
+March 1 - May 15 (non-EU nationals), March 1 - July 15 (EU nationals) for the winter semester
+November 1 - December 15 (non-EU nationals), November 1 - January 15 (EU nationals) for the summer semester
+Faculty affiliation:
+Faculty of Engineering
+Curriculum
+Students can compile their own personal skill profile by either selecting a wide range of different courses from either Computer Science or Microsystems Engineering to broaden their expertise. Or they can choose to focus on a specialization in either one of the Computer Science areas (Artificial Intelligence or Cyber-Physical Systems) or one of the MSE concentrations (Circuits and Systems, Materials and Fabrication, Biomedical Engineering and Photonics).
+The course structure is quite versatile and the exam regulations only provide the framework, which students fill with individually chosen lectures, seminars and other courses.
+There are 4 compulsory areas where students are expected to complete courses with at least 18 ECTS credits in each area:
+2 areas cover essential courses for the topic of Embedded Systems divided in Computer Science respectively Microsystems Engineering; 2 more areas contain specialization and concentration courses in both the Elective area of Computer Science as well as MSE concentration areas. The remaining 18 ECTS credits can be divided up as the students wish, by either adding more courses in one of the 4 areas mentioned above or completing some courses in the Customized Course Selection. The program concludes with a master's thesis.
+The following graphic summarizes the structure:
+This example of an individually structured study plan for an assumed start in the winter semester can provide a starting aid for building your own study plan.
+Students who want to obtain a Master of Science degree in Embedded Systems Engineering with a specialization in one of the areas, have to choose courses amounting to at least 30 ECTS credits as well as the topic of their master thesis from the respective field.
+For Cyber-Physical Systems (CPS), the related courses are listed here:
+Lectures Specialization CPS - Vorlesungen Spezialisierung CPS (PDF)
+For Artificial Intelligence (AI), the related courses are listed here:
+Lectures Specialization AI - Vorlesungen Spezialisierung KI (PDF)
+For a specialization in one of the MSE areas (Circuits and Systems, Materials and Fabrication, Biomedical Engineering or Photonics), students can choose from the modules assigned to the respective area.
+Possible occupational fields
+Graduates of the Master's program in Embedded Systems Engineering can either apply for a PhD position or work as an engineer in a company. Potential employers are companies from the following fields:
+Automotive industry
+Bio- and medical engineering (e.g. prosthetics or implants)
+Automation
+Energy
+Communication
+Security
+Multimedia
+Syllabus and Examination Regulations
+Please note: Only the latest versions are listed here. Older versions can be found in Module Handbooks and Exam Regulations under Studies and Teaching.
+Online version of the module handbook in HISinOne (Please note, loading might take some time)
+Detailed PDF version of the module handbook (as of April 2025)
+(Please note: the PDF version is updated only once per semester)
+Exam and admission regulations (in German)
+The web pages of the legal department contain all statutes (admission and examination regulations). The latest version applies to you, i.e. the one without further explanation/restriction in brackets.
+Students who started their studies before WS 2021/22 can find the respective information under Module Handbooks and Exam Regulations under Studies and Teaching
+Exam regulations (unofficial version in English - not binding)
+Please check out our dates and deadlines for course registration or exam registration.
+Contact Persons
+Do you have any questions concerning the application and admission procedure? Please contact the program coordinator:
+Georges-Köhler-Allee 101
+Room 101 02 013a
+Phone: +49 761 203 8340
+E-Mail: studienkoordination@tf.uni-freiburg.de
+Ms. Ursula Epe
+For questions pertaining to the curriculum, please contact the academic advisors:
+E-Mail: studienberatung@ese.uni-freiburg.de
+Further contact information (telephone number, consulting hours, address) at
+https://www.tf.uni-freiburg.de/en/study-programs/counseling
+Ms. Martina Nopper
+Georges-Köhler-Allee 102 01 217
+Phone: +49 761 203 7496
+E-Mail: studienberatung@ese.uni-freiburg.de
+Dr. Frank Goldschmidtböing
+Testimonial
+"I have always been fascinated by smart systems. Freiburg University's ESE program, offered by it's Computer Science and Microsystems Engineering departments was the perfect fit for me. It's broad range of modules helped me tailor my specialisation courses to fit my areas of interest. The mentorship and guidance by experts and highly skilled staff greatly enriched my study experience. This program boasts strong ties to industry and research institutes and has highly sought after graduates."
+Titus Busulwa
+Particularities about this study program
+Numerous lab courses
+The students can choose from a big variety of lab courses within the MSE Concentration areas or in the Customized Course Selection (in the area of Computer Science), thus acquiring important practical skills for their future career.
+A Mentor for each Student
+Each professor is in charge of a number of students whom s/he mentors. These mentors help you to organize your studies and are ready to answer your questions about studying abroad, finding a job, and more.
+Certification of English Medium of Instruction Competencies
+The instructors of the MSc. program have been certified for instruction in English.
+Smart, Micro, Green – Engineering in Freiburg
+Green - Freiburg is renowned worldwide as a Green City. Since 2015, the Faculty of Engineering has had its own Department of Sustainable Systems Engineering. The researchers of this department build systems that hardly need any energy, have a long life cycle, and adapt themselves easily to difficult environmental conditions.
+Smart - stands for autonomously acting robots, computers that learn to interpret pictures, or algorithms that become more and more intelligent and fast. In summary: At the Faculty of Engineering, smart stands for computer science.
+Micro - Our researchers design tiny technical systems that handle complex tasks needed in medicine or in production plants. Nowadays each of us uses such systems on a daily basis - often without even noticing. Developing microsystems is an exciting and challenging job - not only for students but also for companies. Our study programs are the best preparation for a career in this field.
+Studying engineering in Freiburg means that you will benefit from these three research areas, no matter which study field you choose. Smart, micro and green ideas will increasingly be needed. We offer to teach you the skills needed for developing these kinds of systems.
+Further Information
+How to prepare your stay in Freiburg - Information for admitted students
+Website of the Department of Microsystems Engineering
+Website of the Department of Computer Science
+Overview with some important (administrative) informations for new students
+Quelle:
+Embedded Systems Engineering (Master of Science) — Faculty of Engineering
+https://www.tf.uni-freiburg.de/en/study-programs/embedded-systems-engineering/m-sc-embedded-systems-engineering
+(
+Oct 28, 2026
+)

@@ -1,0 +1,204 @@
+URL: https://www.tuhh.de/tuhh/studium/vor-dem-studium/studienangebot/international-study-programs/computational-engineering
+TITLE: TUHH: Computational Methods and Machine Learning in Engineering at Hamburg University of Technology (TUHH) Master's program
+
+DE
+EN
+DE
+EN
+TUHH >
+Studium und Lehre >
+Für Studieninteressierte >
+Studienangebot >
+Computational Engineering
+Computational Methods and Machine Learning in Engineering, Master of Science
+Computational Methods and Machine Learning in Engineering is a multidisciplinary field that combines principles from engineering, computer science, and applied mathematics to develop and apply computational models and simulations for solving complex real-world problems. It involves the use of algorithms, numerical methods, and high-performance computing to analyze and optimize physical systems, processes, and designs across various domains such as aerospace, automotive, energy, and biomedical engineering. By replacing or enhancing physical experiments with virtual simulations, computational engineering enables faster, safer, and more cost-effective innovation and decision-making in engineering practice.
+Fact sheet
+Study Program:
+Computational Methods and Machine Learning in Engineering
+Degree:
+Master of Science (M.Sc.)
+Study duration:
+4 semesters
+Credit points according to ECTS:
+120
+Language:
+English
+Type of study:
+Full-time study
+Start of study:
+Winter semester (October)
+Application period:
+December 1 - February 1
+(mandatory pre-check available from December 1 - February 1)
+Admission requirements:
+See "What are the requirements?"
+Dual study program
+Yes
+What characterizes this study program?
+The Computational Methods and Machine Learning in Engineering study program is characterized by its strong interdisciplinary focus, combining core elements of mathematics, computer science, and classical engineering disciplines.
+Students develop skills in numerical modeling, simulation techniques, algorithm development, and high-performance computing, enabling them to analyze and solve complex physical problems virtually.
+The program emphasizes both theoretical foundations — such as differential equations and numerical analysis— and practical application through programming. A hallmark of the program is its focus on applying computational methods to real-world engineering challenges, preparing graduates for roles in research, development, and industry innovation.
+Hamburg is not only a highly dynamic region with excellent growth and career opportunities - it is also a vibrant metropolis with a high quality of life. Culture, sports, the river Elbe with its beach, long nights - Hamburg offers much more than just studying. In addition to the many opportunities for partying, Hamburg is also known for its wide range of cultural activities and the numerous sights that are waiting to be discovered. Hamburg also is an excellent starting point for your journey to other contries within Europe.
+How is the program structured?
+The program starts on October 1st each year and is organized as a two-year course (four semesters). It includes three semesters of lectures and a project work plus one semesters focusing on the Master’s thesis. The “Master of Science” degree will be awarded upon successful completion. Language of the program is English.
+Oral exams are offered optionally in English or German, upon the student’s individual case-by-case choice.
+Numerical Simulation
+Finite Element Methods
+Nonlinear Structural Analysis
+High Order FEM
+Numerical Algorithms in Structural Mechanics
+Innovative CFD Approaches
+Math
+Matrix Algorithms
+Numerical Methods for Ordinary Differential Equations
+Solvers for Sparse Linear Systems
+Numerical Methods for Partial Differential Equations
+Machine Learning
+Machine Learning for Physical Systems
+Probabilistic Machine Learning
+Advanced Machine Learning
+Applications
+Logistic, Mobility & Infrastructure
+Finite element modeling of structures
+Computational Structural Dynamics
+Modern discretization methods in structural mechanics
+Aviation & Maritime Systems
+Structural Mechanics of Fibre Reinforced Composites
+Computational fluid dynamics II
+Technical Acoustics I
+Technical Acoustics II
+Cyber Physical & Medical Systems
+Computational Methods in Bio Mechanics
+Advanced Materials & (Bio) Processes
+Special Topics on Fluid Mechanics
+Applied optimization in energy and process engineering
+Computational Fluid Dynamics in Process Engineering
+Numerical Simulation and Lagrangian Transport
+What job can I take?
+Computational Methods and Machine Learning in Engineering is a multidisciplinary field and hence, graduates are well-equipped for a wide range of careers across industries. Some prominent job roles include:
+Simulation Engineer – Develops and runs simulations to test designs in fields like aerospace, automotive, or civil engineering, reducing the need for physical prototypes.
+Computational Fluid Dynamics (CFD) Engineer – Specializes in simulating fluid flows, often working in aerospace, automotive, or energy industries.
+Structural Analyst – Uses numerical methods to analyze the structural integrity of buildings, vehicles, or machinery.
+Software Developer – Designs and develops scientific and engineering software, particularly tools that perform simulations or data analysis.
+Machine Learning Engineer – Builds and deploys machine learning models, benefiting from strong programming and mathematical modeling skills.
+High-Performance Computing (HPC) Specialist – Works on optimizing software to run efficiently on supercomputers, often in research or national labs.
+Research Scientist – Conducts academic or industrial research using computational methods to investigate scientific or engineering problems.
+These roles exist in industries such as aerospace, automotive, biomedical engineering, energy, defense, tech, and academia. A strong foundation in coding, numerical methods, and domain-specific knowledge makes computational engineering graduates valuable assets in both technical and research-driven environments.
+Top 10 employers of TUHH graduates:
+Airbus
+Lufthansa Technik
+NXP
+Siemens Gamesa
+Tesa
+Nordex
+Beiersdorf
+DLR
+Siemens
+DNV
+[source: Alumni Report 2024]
+What our industrial partners say:
+“Simulation and modeling methods are used on a daily basis at tesa. Our expertise in continuum mechanics, finite element analysis, mathematical optimization, and machine learning allows us to develop exceptional solutions for our customers, contributing to tesa’s success.” - Dr. Nils Hendrik Kröger, Lab Manager Simulation at tesa.
+“Mathematics is the backbone of innovation in my work. It enables the development of advanced simulation and optimization algorithms, which are essential for creating precise and efficient solutions to complex engineering challenges.” - Dr. Iryna Kulchytska-Ruchka, Research Engineer at Robert Bosch GmbH
+What are the requirements?
+The course is aimed at you as a Bachelor’s graduate in engineering, in particular mechanical engineering, civil engineering, applied math (Technomathematik) or, of course, computational engineering (science). You should have a strong background in mechanics and math, at least basic prgramming skills, but above all, curiosity about numerical simulation that we will present to you and to which we will lead you.
+Your native language is German? Welcome to our International Masters program! In our experience, a German university entrance qualification such as Abitur or a German bachelor degree provide you with sufficient immersion to English language contexts for a successful participation in our courses. Throughout this Masters program, all exams can be taken in either language, English or German, upon the student's individual choice. Make benefit from the enhanced career opportunities with an International Masters certificate!
+Useful links:
+General application guideline and English language requirements
+Master of Computational Engineering: program-specific requirement
+How do I apply?
+Your application process for starting your studies at TUHH in the winter term - beginning of October of each year - is combined of two steps: 1) a mandatory online preliminary assessment test (pre-check) and 2) the subsequent application. Both steps are conducted online.
+Step 1: Online preliminary assessment test (Pre-check)
+The online preliminary assessment test (pre-check) is open from December 1st through February 1st. If you pass the pre-check, you are provided with a code that you can use to apply. Based on the data you enter during the pre-check we can confirm whether or not you meet the program-specific requirements as well as language requirements.
+If you pass the pre-check you will be provided with a code that you can use to submit your application for the program.
+Step 2: Application (only after having passed the pre-check)
+With the code you are provided with after having successfully passed the pre-check, you can submit your official application.
+The application period runs from December 1st to February 1st.
+Useful links:
+General application guideline and English language requirements
+Master of Computational Engineering: program-specific requirements
+Link to online pre-check (pre-check portal only available during pre-check period December 1st through February 1st)
+Link to application platform (application platform is only available during application period December 1st through February 1st)
+Apply now
+Further questions?
+How to start?
+To make it easier for you to start your studies at the TUHH, you will find various offers here:
+Information for people interested in becoming an (international) master student at TUHH
+Can I study in the dual program?
+Yes, you can! All Master of Science degree programs at the TU Hamburg can be studied in the dual format. Since 2003, the Technical University of Hamburg has also offered its Bachelor's and Master's degree programs in a dual study variant in cooperation with more than 50 cooperating companies.
+The study concept combines complete university studies with professional practice in the engineering field. The students are employed by one of our cooperating companies and, as cohorts across study programs, represent the entire spectrum of engineering sciences.
+The program is rounded off by seminars on the development of social skills, so that graduates can face the challenges of the working world in a responsible manner.
+If you are interested in the dual study programm, you can find further information here: Homepage of dual study program
+What are my options to do a PhD?
+Our research-intensive study program brings you into contact with our internationally visible research at the TUHH in the field of computational engineering. The lecturers in the master program are engaged in basic research funding of the German Research Foundation (Deutsche Forschungsgemeinschaft, DFG) and frequently search for new PhD students in the field of numerical simulations.
+Can I include a semester abroad?
+Your studies are THE opportunity for a stay abroad - get to know your subject from a different perspective, learn languages and, above all, experience foreign cultures. The lecturers on the course will be happy to advise and support you in organizing a semester abroad.
+How do I start my career?
+The TUHH Career Center supports students and graduates in the transition from university to career. The services include company contact fairs, the TUHH-PraxisPlus internship program for prospective TUHH Master's students, case study workshops and application training. The TU&YOU alumni network offers a variety of events such as research afternoons, homecoming events and anniversaries, giving students the opportunity to make contact with former TU members.
+www.tuhh.de/careercenter
+www.tuandyou.de
+Where can I find the relevant regulations (admission, module handbook, ... )?
+All modalities for admission to the Master's program are regulated in the Statutes on Studies.
+The framework conditions for examinations at TUHH are defined by the General Study and Examination Regulations (ASPO) and the Subject-Specific Study and Examination Regulations (FSPO). The Module Handbook describes the concrete design of the modules provided for in the curriculum and their learning objectives. They also provide information on content, recommended prior knowledge and literature for preparation.
+All regulations relevant to the study program can be found here from end of 2025 onwards.
+Useful links til then:
+Statute on studies
+General Study and Examination Regulations for Bachelor and Master degree programs at Hamburg University of Technology (ASPO)
+Whom can I contact?
+If you have any questions about your studies, you can always contact the Central Student Advisory Service or the academic program coordinator and the academic program advisor!
+Please inquire with study@tuhh.de regarding the admission requirements and application procedure.
+TUHH
+STUDIS - Studierendenservice / Admission and Registration
+21071 Hamburg
+Germany
+How is campus life?
+The TU Hamburg is one of the youngest universities in Germany. On the clearly arranged and cozy campus you will quickly get to know your new fellow students and in spring and summer numerous seating areas and green spaces invite you to linger together in the fresh air. In an almost familiar atmosphere, we celebrate our summer festival every year in June, where our TU's own beer brewing group "Campusperle" also offers its creations. Of course, you can also get involved in our numerous AGs, which also organize regular events, e.g. screenings of the cinema AG, concerts of SingING or SymphonING. Of particular interest to Data Science students are also the HULKs, who regularly participate in international robot soccer championships, for example.
+Why Hamburg?
+If you decide to study at TUHH, you also decide to study in Hamburg, the metropolis on the Elbe, Germany's second largest city and certainly its most beautiful. Hamburg combines urbanity and maritime life and is also Germany's greenest city with over a million inhabitants. You will never get bored here: rowing on the canals during the day or jogging in the city park, sunset on the Elbe, a concert in the Elbphilharmonie or a pub night on the Schanze and the fish market at dawn. Here you will find everything for the adventurous, but also numerous quiet places to pause. Together with your fellow students, you will certainly explore Hamburg and its treasures quickly and get to know your new favorite place.
+Just check out the following videos and you will get an idea, why Hamburg is sometimes considered "the most beautiful city in the world".
+Hamburg. Almost everything is considered right here.
+We live the moment. That's why. Hamburg.
+Academic program coordinator and academic advisor
+The academic program coordinator Prof. Benedikt Kriegesmann is happy to give you advice regarding structure and academic content of the program Computational Engineering.
+The academic program coordinator Prof. Kriegesmann is not available for any kind of questions regarding admission, admission prerequisites, application deadlines, language requirements, necessary documents and certificates, pre-checks or any other administrative topics. Please contact the TUHH Student Service (STUDIS) for your requests in these areas.
+Requests of solely administrative nature will not be answered by the academic program coordinator.
+Prof. Dr.-Ing. Benedikt Kriegesmann
+M-24 Strukturmechanik im Leichtbau
+Strukturmechanik im Leichtbau
+Eißendorfer Straße 40 (N),
+21073 Hamburg
+Gebäude N, Raum 1088
+Tel: +49 40 30601 4857
+E-Mail:
+benedikt.kriegesmann(at)tuhh(dot)de
+Persönliche Homepage
+The study program is associated with the research field Methods of Research in Science an Engineering.
+Hamburg - the most beautiful city in the world.
+Hamburg. Almost everything is right here.
+Um diesen Inhalt sehen zu können, müssen Sie die Einbindung externer Inhalte akzeptieren. Mehr erfahren in unserer Datenschutzerklärung
+akzeptieren
+We live the moment. That's why. Hamburg.
+Um diesen Inhalt sehen zu können, müssen Sie die Einbindung externer Inhalte akzeptieren. Mehr erfahren in unserer Datenschutzerklärung
+akzeptieren
+TU Hamburg
+Technische Universität
+Hamburg (TU Hamburg)
+Am Schwarzenberg-Campus 1
+21073 Hamburg
+Soziale Netzwerke
+Weiterführende Links
+Impressum
+Barrierefreiheit
+Datenschutz
+Datenschutz für Studienbewerber*innen und Studierende
+Kontakt
+Anfahrt
+Presse und Medien
+Merchandise-Shop
+Cookie-Einstellungen
+Verwendung von Cookies
+Wir nutzen Cookies und Tools zur Bereitstellung unserer Webseite sowie zum Einbinden von Medieninhalten. Mit dem Klick auf „Akzeptieren“ erlauben Sie uns dies. Ihre Einwilligung erstreckt sich auch auf die Datenübermittlung an Anbieter in den USA. Wir weisen darauf hin, dass nach der Rechtsprechung des Europäischen Gerichtshofs die USA derzeit kein mit der EU vergleichbares Datenschutzniveau haben und das Risiko der unbemerkten Datenverarbeitung durch staatliche Stellen besteht. Ihre Zustimmung können Sie jederzeit in den Cookie-Einstellungen widerrufen oder abstufen. Nähere Informationen:
+Datenschutzerklärung |
+Impressum
+akzeptieren
+Einstellungen
+ablehnen

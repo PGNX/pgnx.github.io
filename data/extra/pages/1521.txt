@@ -1,0 +1,112 @@
+URL: https://www.haw-hamburg.de/en/master-information-and-communications-engineering/
+TITLE: HAW-Hamburg: Information and Communications Engineering (M.Sc.) – Information for prospective students
+
+Information and Communications Engineering
+Master of Science (M.Sc.)
+back
+Systems from information and communications technology are ubiquitous across working and social life around the world. Being in touch via smartphone, satellite videoconferencing, working on the move on your laptop, surfing the web – it’s all dependent on the efficient transfer and exchange, and the intelligent processing, of information. And then there are all the systems working away in the background, which most of the time we don’t even notice.
+This Master’s degree course in Information and Communication Technology links up key subdisciplines from electrical engineering, electronics, information engineering and IT, and pinpoints and illuminates exciting research questions at their points of intersection.
+Please note that turning on the video will result in the transmission of data to the third-party provider.
+Turn on video.
+Good reasons to study Information and Communication Technology at HAW Hamburg
+................................................................................................................................................................................................
+The degree course places a firm emphasis on real-world application and features a number of advantages for you as a student:
+A quarter of the time across almost all taught modules is reserved for lab practicals
+Students undertake two required projects tackling issues analogous to those found in real-life industrial settings – sometimes businesses propose projects to us
+Projects and labs make use of up-to-the-minute measurement technology and software in widespread use in industrial environments
+Students do their Master's theses on topics related to real R&D projects taking place in the Department of Information and Electrical Engineering
+The right course for you?
+................................................................................................................................................................................................
+This degree course is designed for those who hold a Bachelor’s or Diplom (or non-German equivalent) degree in electrical or information engineering or IT/computer science.
+You will be expected to have the following knowledge and skills:
+Programming in ANSI C
+Signal and system theory (analogue and discrete time)
+Electrical engineering (basic knowledge)
+Matlab/Simulink (basic knowledge)
+The in-depth expertise you will acquire during this Master’s degree will open up career prospects for you in development and planning roles in businesses of all sizes, enabling you to hit the ground running wherever you land – be it in industrial (e.g. automation technology) or non-industrial settings (such as management consultancies and other areas relying heavily on communications technology). Qualified specialists are in particular demand in SMEs (small and medium-sized enterprises), which need expertise in state-of-the-art development tools and methodologies in order to cope with the increasing complexity of products and systems and remain efficient, relevant and competitive.
+Course content and structure
+................................................................................................................................................................................................
+The modules taught in this degree course take an in-depth look at various aspects of information and communications technology, including communications networks, mobile communications, digital signal processing, high-frequency and microwave technology, and distributed applications such as smart homes and smart grids.
+One of the distinctive features of this degree course is its significant focus on applying the content taught in team projects and lab practicals, which take up approximately 40 per cent of the teaching time devoted to required modules. A core component of this work is the practical implementation of algorithms from digital signal processing with the aim of solving problems in communications engineering.
+The third and final semester of the degree course is dedicated to the Master’s project, which centres around a task usually set from within the department and related to R&D projects in progress there; this enables you to take part in an active research project while demonstrating your capacity for independent scientific work.
+This Master’s degree course is run in cooperation with the Master’s degree course in Microelectronic Systems (MES), also in the department.
+Admission requirements
+................................................................................................................................................................................................
+Essential:
+A completed Bachelor's or Diplom or equivalent degree in Electrical Engineering and Information technology, Information Engineering, Renewable Energy Systems, Computer Science for Technical Systems and Energy Management, or Mechatronics or in a comparable subject
+You are also required to provide proof of proficiency in English at the B2 level of the Common European Framework of Reference
+Diploma Supplement/Transcript of Records
+Submitting additional documents increases your chances of being selected:
+CV, including any continuing education courses you have taken, with proof of your qualifications and experience where relevant; in particular, please submit any written references from employers
+A letter of recommendation
+Proof of a successfully completed year of study at a German university
+Applicants whose (six-semester) Bachelor’s degrees are equivalent to 180 credit points are required to attain a further 30 credit points within the first two semesters on the course in order to enrol fully. If this applies to you and your application is successful, your studies will generally take one semester longer.
+Our point of contact for subject-related queries (see contact information below) will be happy to advise you of the modules and examinations you will need to undertake. You may be exempt from this requirement if you have acquired relevant work experience of at least six months – or have completed a relevant one-semester internship – after completing your Bachelor’s degree.
+Applicants whose first degrees were in other subjects may be required to acquire specific knowledge or skills by taking modules from Bachelor’s degree courses. Our point of contact for subject-related queries (see below) will be happy to give you advice. Please feel free to contact him before you apply.
+Application process
+................................................................................................................................................................................................
+The degree course admits students for the winter and the summer semesters. Application periods: 1 June–15 July (winter semester) and 1 December–15 January (summer semester).
+Applications for all Master's courses must be submitted online. The online application system is only activated during the application period. It is not possible to apply outside of the application periods. You do not need to submit hard copies of your application. You can find more information at Applying for a Master's degree course.
+Alternatively, you can contact master-application(@)haw-hamburg.de
+Questions about applications, admissions and degree courses
+................................................................................................................................................................................................
+Applications and admissions:
+HAW Master's Degree Course Admissions Office
+Stiftstrasse 69, 20099 Hamburg (Berliner Tor Campus)
+Tel.: + 49 40 21904 11770
+master-application (at) haw-hamburg (dot) de
+The Information Point is open at the following times:
+Monday–Thursday: 10:00 am–1:00 pm
+Friday: closed
+In-person office hours:
+Monday and Tuesday 11:00 am–1:00 pm
+Thursday: 2:00 pm–4:00 pm
+Telephone office hours:
+Monday and Tuesday: 9:00 am–10:00 am
+Thursday: 9:00 am–11:00 am
+For general queries about degree courses:
+Student Counselling Team (Zentrale Studienberatung)
+Stiftstrasse 69, 1st floor, room 122
+20099 Hamburg
+T +49 40 21904 11990
+Contact form
+Office hours
+Contact person for applicants with disabilities or chronic health conditions:
+Meike Butenob
+Stiftstraße 69, room 37
+T +49 40 21904 2778
+inklusion (at) haw-hamburg (dot) de
+Contact the department
+................................................................................................................................................................................................
+Specifically subject-related queries:
+Prof. Matthias Kronauge
+Berliner Tor 7, Raum 10.03, 20099 Hamburg
+Telefon: +49.40.428 75-83 30
+info-master-ice (at) haw-hamburg (dot) de
+Downloads
+Module handbook
+Degree course and examination regulations
+Admissions policy
+Auf einen Blick
+Degree
+Master of Science (M.Sc.)
+Faculty
+Electrical Engineering, Media and Information Technology
+No. of semesters
+3 semesters
+Application Period
+For the summer semester: 1 December–15 January
+For the winter semester: 1 June–15 July
+Language of instruction
+English
+Fees / charges
+Semester contribution €397 including semester ticket and Germany-wide rail pass
+Full / part-time
+Part-time status possible
+Full-time degree course
+Location
+Berliner Tor Campus, Berliner Tor 7, 20099 Hamburg
+Apply now
+Webredaktion Studienberatung
+/ last change 05.11.2025
+x

@@ -1,0 +1,84 @@
+URL: https://www.haw-landshut.de/en/study/degree-programmes/international-business/
+TITLE: Error 404 - University of Applied Sciences Landshut
+
+Skip to main content
+Error 404
+Please use the main navigation bar or visit our homepage www.haw-landshut.de
+If you have any questions, please contact:
+read aloud
+Privacy settings
+We use cookies on our website. Some of them are technically necessary, while others help us to improve this website or provide additional functionalities.
+Necessary cookies
+Analytics
+External media
+Select all
+or
+Deny
+Save
+Necessary cookies
+_shibsession_*
+Name:
+_shibsession_*
+Purpose:
+Saves the status of the Shibboleth login
+Cookie duration:
+Duration of the session
+fe_typo_user
+Name:
+fe_typo_user
+Purpose:
+Saves the status of the TYPO3 frontend login
+Cookie duration:
+Duration of the session
+cookie_consent
+Name:
+cookie_consent
+Purpose:
+Saves the selection in the Consent Banner
+Cookie duration:
+1 year
+Analytics
+Google Analytics
+Name:
+ga_
+Provider:
+Google
+Purpose:
+Used to differentiate between individual users.
+Cookie duration:
+2 years
+Matomo _pk_id.*
+Name:
+_pk_id.*
+Purpose:
+Collects data about the visitor's use of the website, including the frequency of visits, the average time spent on the site and the content viewed.
+Cookie duration:
+1 year
+Matomo MATOMO_SESSID
+Name:
+MATOMO_SESSID
+Purpose:
+Used by the Matomo Analytics platform to track the user's page views during their session.
+Cookie duration:
+Session
+Matomo _pk_testcookie
+Name:
+_pk_testcookie
+Purpose:
+determines whether the browser used by the visitor allows the use of cookies.
+Cookie duration:
+1 year
+Matomo _pk_ses.*
+Name:
+_pk_ses.*
+Purpose:
+Used by the Matomo Analytics platform to track the user's page views during their session.
+Cookie duration:
+1 year
+External media
+OpenStreetMap
+Provider:
+OpenStreetMap
+Purpose:
+Display of Open Street Map maps
+Imprint | Datapolicy

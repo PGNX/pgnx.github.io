@@ -1,0 +1,179 @@
+URL: https://www.whz.de/english/study/incomings/courses-of-study/embedded-and-autonomous-systems-master/
+TITLE: Embedded and Autonomous Systems (Master) auf Westsächsische Hochschule Zwickau
+
+Webinhalte der WHZ durchsuchen
+Suchwort
+Suche starten
+Facilities / Organizations
+University Library
+International Office
+University IT Services (ZKI)
+University Sport
+WHZ eSports
+Student Council
+Studentenwerk (Student Services)
+University Web Services
+Email/Web Services
+WHZ WebApp
+QM Portal for Studies and Teaching
+Student Services Portal
+Plans for studies
+Module database modulux
+Organization Handbook
+ZKI-Service Portal
+Other Services
+Phone Directory
+Glossary
+English Glossary
+Emergencies
+Job Platform for Students
+Menus
+Campus Shop
+Corporate Design
+HIER bewerben!
+English
+Study
+Research
+University
+Faculties
+Study at the University of Applied Sciences Zwickau
+The International Office
+Incomings
+Courses of Study
+Application
+Degree Seeking International Full-Time Studies
+Your Application
+Study in Germany. Study in Zwickau.
+Exchange Students
+Application as exchange student
+After Your semester abroad
+During your time in Zwickau
+Information for Ukrainian Refugees
+Допомога Україні
+National Applicants
+International Degree Programmes
+Staff and Lecturers
+Students
+Organisation of Studies
+Campus Life
+Student participation
+Student clubs
+University sports
+Student activities and groups
+Student accommodation
+University shop
+Student Services
+International Office
+Student Council
+Job Board
+Student Dormitories
+Student Canteens and Cafeterias
+Studying with children/family
+Career Service
+Individual Consultation
+Career Service Online
+International Students
+Opportunities for companies
+Practical projects
+About Us
+Alumni International
+Login WHZ Alumni-Network
+Services for Alumni
+Job, Career, Training
+Alumni Meeting & Anniversary Celebration
+News and Information
+Top Benefits
+Support from Alumni
+Donate and Support
+Network and Cooperation
+WHZ-Shop | Merchandising
+Embedded and Autonomous Systems (Master)
+Imagine a world where vehicles navigate autonomously, machines make independent decisions, and networked systems collaborate seamlessly. In the master's program "Embedded and Autonomous Systems" at West Saxon University of Applied Sciences Zwickau, you will become part of this future. Immerse yourself in the fascinating world of embedded and autonomous systems and play an active role in shaping the technologies of tomorrow.
+Characteristics
+degreeMaster of Science (M.Sc.)
+type of programme full-time programme, consecutive
+semester start winter semester
+no. of semesters / ECTS-Credits 4 semester / 120 ECTS
+admission requirements
+Completed bachelor's degree in electrical engineering with at least 180 ECTS points
+Proof of English language skills at level B2
+Proof of German language skills at level A1
+Self-assessment of subject-specific competencies
+admission restriction restricted entry
+tuition fees no tuition fees / semester fee only
+course languageenglish
+Perspectives
+After successfully completing the master's program Embedded and Autonomous Systems, a wide range of career opportunities will be open to you. You will be well prepared for roles in research and development, project management, or leadership positions in international technology companies. Whether in the automotive industry, aerospace, or robotics – your expertise will be in high demand.
+Additionally, the degree offers the opportunity to pursue a doctorate and paves the way for an academic career. Start your career now in a cutting-edge field and become part of the next generation of engineers and developers shaping the world of tomorrow.
+study schedule
+1. Semester
+Digital Signal Processing
+System Engineering
+Software Engineering
+Methods and Tools of Scientific Work
+Language Skills and Interdisciplinary Competencies I
+Measurement & Systems Technology
+2. Semester
+Electric Drive Systems
+Programming of Embedded Systems
+Distributed Systems
+Language Skills and Interdiscipilnary Competencies II
+Vehicle Dynamics & Control
+Elective courses*
+3. Semester
+Model-Driven Software Egineering
+Software Project
+Language Skills and Interdisciplinary Competencies III
+Algorithms for Autonomous Systems
+Research Project for Autonomous Systems
+Elective courses*
+4. Semester
+Master Thesis
+*elective courses
+Selected Topics in Embedded Systems - Software, Tools and Algorithms
+Selected Topics in Embedded Hardware and System Design
+Cicuit Design and Simulation
+Artificial Intelligance
+Large Scale Data Processing
+Responsible Computing: Ethics, Society and Security
+Please note that the study schedule shown above is a simplified representation. You can find the detailed schedule, the module list as well as study and examination regulations in the Modulux database of the University of Applied Sciences Zwickau.
+to Modulux-Database
+current status: 02/2025
+Further information
+course-flyer (in german language)
+to the faculty website
+application
+Allgemeine Studienberatung
+Christina Schelcher
+Ansprechpartnerin für Bewerbung, Zulassung und Studienberatung
+Büro: PKB 223a
++49 375 536-1184
+studieren[at]whz.de
+Daniel Bonitz
+Ansprechpartner für Allgemeine Studienberatung
+Büro: PKB 223 b
++49 375 536-1161
+studienberatung[at]whz.de
+Beratung jetzt auch per Whatsapp: +491723944715
+Erreichbarkeiten
+persönlich vor OrtDienstag und Donnerstag
+8:30 Uhr bis 11:30 Uhr
+12:30 Uhr bis 15:00 Uhr (während Lehrveranstaltungszeit)
+oder nach individueller Vereinbarung
+telefonischunter den genannten Telefonnummern
+per E-Mailbitte nehmen Sie vorrangig Kontakt per E-Mail auf
+per Videochatnach individueller Vereinbarung
+Postanschrift
+Westsächsische Hochschule Zwickau
+Dezernat Studienangelegenheiten
+PF 20 10 37
+08012 Zwickau
+Besucheradresse
+Westsächsische Hochschule Zwickau
+Dezernat Studienangelegenheiten
+Paul-Kirchhoff-Bau (PKB)
+Dr.-Friedrichs-Ring 2 A
+08056 Zwickau
+Studienfachberatung
+Die Studienfachberater der Fakultäten beraten zu inhaltlichen Fragen zum jeweiligen Studiengang (Modulinhalte, Prüfungsleistungen etc.).
+Zur Studienfachberatung

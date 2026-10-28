@@ -1,0 +1,108 @@
+# University-verified programmes (from studiumde CSV, checked on official sites)
+
+Checked: 99 | Added to site: 73 | Excluded: 26
+
+## Added
+
+- Electrical and Computer Engineering (M.Eng.) | Anhalt University of Applied Sciences (Hochschule Anhalt) | confidence medium | https://www.hs-anhalt.de/met
+- Data Science (M.Sc.) | Bielefeld University | confidence high | https://www.uni-bielefeld.de/fakultaeten/wirtschaftswissenschaften/studium-und-lehre/studieninteressierte/master_ds/
+- Mechanical Engineering (M.Eng.) | Brandenburg University of Applied Sciences (TH Brandenburg) | confidence medium | https://technik.th-brandenburg.de/studium/masterstudiengaenge/mechanical-engineering
+- Interactive Media (M.Sc.) | Brandenburg University of Applied Sciences (Technische Hochschule Brandenburg) | confidence medium | https://informatik.th-brandenburg.de/studium/masterstudiengaenge/interactive-media/
+- Engineering of Socio-Technical Systems | Carl von Ossietzky University of Oldenburg | confidence medium | https://uol.de/en/course-of-study/engineering-socio-technical-systems-master-610
+- Intelligent Manufacturing | Clausthal University of Technology (TU Clausthal) | confidence medium | https://www.studiengaenge.tu-clausthal.de/en/study-at-the-tu-clausthal/masters-programs/intelligent-manufacturing-master
+- Embedded Systems Engineering | Dortmund University of Applied Sciences and Arts (Fachhochschule Dortmund) | confidence medium | https://www.fh-dortmund.de/ese?loc=en-US
+- Sustainable Energy – Specialisation in Development (SEDev) (M.Eng.) | Europa-Universität Flensburg (jointly with Flensburg University of Applied Sciences) | confidence high | https://www.uni-flensburg.de/en/academics/prospective-students/master/meng-sustainable-energy/meng-sustainable-energy-development-specialisation
+- Information Systems (M.Sc.) | FH Aachen – University of Applied Sciences | confidence low | https://fh-aachen.de/en/studies/degree-programmes/information-systems-msc
+- Digital Business and Innovation Management (Master) | FH Münster University of Applied Sciences | confidence medium | https://www.fh-muenster.de/en/studiengaenge/digital-business-and-innovation-management-master
+- Leadership and Psychology (M.A.) | Frankfurt University of Applied Sciences | confidence low | https://www.frankfurt-university.de/en/studies/master-programs/leadership-ma/
+- Data Science (M.Sc.) | Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) | confidence high | https://www.fau.eu/degree-program/data-science-m-sc/
+- Artificial Intelligence and Data Science for Digital Business Management (AIM) | Furtwangen University (Hochschule Furtwangen, HFU) | confidence medium | https://www.hs-furtwangen.de/en/study/programmes/artificial-intelligence-and-data-science-for-digital-business-management-master
+- Human Technology in Sports and Medicine (M.Sc.) | German Sport University Cologne | confidence high | https://www.dshs-koeln.de/en/studying/before-starting-university/masters-degree-programme/human-technology-in-sports-and-medicine
+- Information and Communications Engineering (M.Sc.) | Hamburg University of Applied Sciences (HAW Hamburg) | confidence high | https://www.haw-hamburg.de/en/master-information-and-communications-engineering/
+- Microelectronic Systems | Hamburg University of Applied Sciences (HAW Hamburg) | confidence medium | https://haw-hamburg.de/en/master-microelectronic-systems/
+- Computational Methods and Machine Learning in Engineering (M.Sc.) (formerly Computational Engineering) | Hamburg University of Technology (TUHH) | confidence high | https://www.tuhh.de/tuhh/studium/vor-dem-studium/studienangebot/international-study-programs/computational-engineering
+- Computer Science (M.Sc.) | Hamburg University of Technology (TUHH) | confidence high | https://www.tuhh.de/tuhh/en/studying/before-studying/degree-courses/masters-programs/computer-science
+- Electrical Engineering and Information Technology (M.Sc.) | Hamburg University of Technology (TUHH) | confidence high | https://www.tuhh.de/tuhh/en/studying/before-studying/degree-courses/masters-programs/electrical-engineering-and-information-technology
+- Data and Computer Science | Heidelberg University | confidence medium | https://www.uni-heidelberg.de/en/study/all-subjects/computer-science/data-and-computer-science-master
+- International Master of Technical Innovation (M.Sc.) | Heilbronn University of Applied Sciences | confidence high | https://www.hs-heilbronn.de/en/international-master-of-technical-innovation
+- International Business Management (M.A.) | Hochschule Bielefeld – University of Applied Sciences and Arts (HSBI) | confidence medium | https://www.hsbi.de/en/academics/academic-programs/international-business-management
+- International Master of Business Administration (MBA) - Double Degree | Hochschule Bremen - City University of Applied Sciences (International Graduate Center) | confidence medium | https://www.hs-bremen.de/studieren/studiengang/international-master-of-business-administration/
+- Non-Destructive Testing (NDT) | Kaiserslautern University of Applied Sciences (Hochschule Kaiserslautern) | confidence high | https://hs-kl.de/en/angewandte-ingenieurwissenschaften/studiengaenge/master/non-destructive-testing-ndt
+- Biomedical Engineering (M.Sc.) | Karlsruhe Institute of Technology (KIT) | confidence high | https://www.sle.kit.edu/english/vorstudium/master-biomedical-engineering.php
+- Computational and Data Science | Karlsruhe Institute of Technology (KIT) | confidence high | https://cds.math.kit.edu/english/master.php
+- Computer Science (M.Sc.) – international English-taught track | Karlsruhe Institute of Technology (KIT) | confidence high | https://www.informatik.kit.edu/english/mastercomputerscience.php
+- Financial Engineering (HECTOR School, work-integrated M.Sc.) | Karlsruhe Institute of Technology (KIT) – HECTOR School of Engineering and Management | confidence high | https://www.hectorschool.kit.edu/master-financial-engineering.php
+- Geodata Science (formerly Geomatics) | Karlsruhe University of Applied Sciences (Hochschule Karlsruhe, HKA) | confidence high | https://www.h-ka.de/en/geodata-science
+- Industrial Engineering (M.Sc.) | Kiel University of Applied Sciences (HAW Kiel, formerly FH Kiel) | confidence medium | https://www.haw-kiel.de/en/degree-courses/courses/industrial-engineering
+- Biodiversity Sciences (M.Sc., 120 CP) | Martin Luther University Halle-Wittenberg | confidence medium | https://www.biologie.uni-halle.de/studium/studiengaenge/msc_bs/application
+- Advanced Semiconductor Nanotechnologies (M.Sc.) | Otto von Guericke University Magdeburg | confidence medium | https://www.ovgu.de/en/-p-131942.html
+- Simulation Sciences (M.Sc.) | RWTH Aachen University | confidence high | https://www.mss.rwth-aachen.de/cms/mss/studium/studium/masterstudiengaenge/~bfaych/sisc-masterprogramm/?lidx=1
+- AI and Advanced Information Technologies | RheinMain University of Applied Sciences (Hochschule RheinMain) | confidence medium | https://www.hs-rm.de/en/engineering/degree-programs/masters-degrees/ai-and-advanced-information-technologies
+- Quantum Engineering (M.Sc.) | Saarland University | confidence high | https://www.uni-saarland.de/en/study/programmes/master/quantum-engineering.html
+- Applied Computer Science (M.Sc.) | Schmalkalden University of Applied Sciences (Hochschule Schmalkalden) | confidence high | https://www.hs-schmalkalden.de/en/studying/programmes/master-degree-courses/applied-computer-science-msc
+- Master of Science in Finance (M.Sc.) | Schmalkalden University of Applied Sciences (Hochschule Schmalkalden) | confidence low | https://www.hs-schmalkalden.de/studium/studienangebot-hs-schmalkalden/master-studiengaenge/master-of-science-in-finance-msc
+- Mechatronics and Robotics (M.Eng.) | Schmalkalden University of Applied Sciences (Hochschule Schmalkalden) | confidence medium | https://www.hs-schmalkalden.de/en/studying/programmes/master-degree-courses/mechatronics-and-robotics
+- Communication Systems and Networks | TH Köln – University of Applied Sciences | confidence medium | https://www.th-koeln.de/en/academics/communication-systems-and-networks-master_6840.php
+- Applied Entrepreneurship | TH OWL University of Applied Sciences and Arts (Technische Hochschule Ostwestfalen-Lippe) | confidence high | https://www.th-owl.de/en/llg/study/degree-programs/detail/applied-entrepreneurship/
+- Data Science in Sports and Health | TU Dortmund University | confidence low | https://www.tu-dortmund.de/en/studies/degree-programs/data-science-in-sports-and-health-926
+- Process Systems Engineering (M.Sc.) | TU Dortmund University | confidence low | https://www.tu-dortmund.de/en/study-program-details/process-systems-engineering-661/
+- International Master of Research and Innovation (M.Sc.) | Technical University of Applied Sciences Augsburg (THA) | confidence medium | https://www.tha.de/en/university/faculties/school-of-business/academic-programs/international-master-of-research-and-innovation/
+- IT Security (M.Sc.) | Technical University of Darmstadt | confidence high | https://www.informatik.tu-darmstadt.de/studium_fb20/im_studium/studiengaenge_liste/itsecurity_msc.en.jsp
+- Logistics and Supply Chain Management (M.Sc.) | Technical University of Darmstadt | confidence medium | https://www.tu-darmstadt.de/studieren/studieninteressierte/studienangebot_studiengaenge/studiengang_255424.en.jsp
+- Computer Science (M.Sc.) | Technical University of Darmstadt (TU Darmstadt) | confidence medium | https://www.tu-darmstadt.de/studieren/studieninteressierte/studienangebot_studiengaenge/studiengang_334656.en.jsp
+- Entrepreneurship and Innovation Management | Technical University of Darmstadt (TU Darmstadt) | confidence medium | https://www.tu-darmstadt.de/studieren/studieninteressierte/studienangebot_studiengaenge/studiengang_255360.en.jsp
+- Geodesy and Geoinformation Science (M.Sc.) | Technische Universität Berlin | confidence medium | https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/geodesy-and-geoinformation-science-m-sc
+- Innovation Management, Entrepreneurship, and Sustainability (M.Sc.) | Technische Universität Berlin | confidence medium | https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/innovation-management-entrepreneurship-and-sustainability-m-sc
+- Cartography (M.Sc.) – Erasmus Mundus joint master (TUM, TU Wien, TU Dresden, University of Twente) | Technische Universität Dresden (partner; applications and enrolment via Technical University of Munich) | confidence medium | https://tu-dresden.de/studium/vor-dem-studium/studienangebot/sins/sins_studiengang?autoid=1898&set_language=en
+- Artificial Intelligence and Intelligent Systems (M.Sc.) | University of Bremen | confidence high | https://www.uni-bremen.de/en/studies/orientation-application/offered-study-program/dbs/study/artificial-intelligence-and-intelligent-systems-master
+- Electrochemical Engineering for Sustainability (M.Sc.) | University of Bremen | confidence high | https://www.uni-bremen.de/en/studies/orientation-application/offered-study-program/dbs/study/electrochemical-engineering-for-sustainability-master
+- Sustainable Systems Engineering | University of Freiburg | confidence high | https://www.tf.uni-freiburg.de/en/study-programs/sustainable-systems-engineering/m-sc-sustainable-systems-engineering
+- Software Engineering (M.Sc.) – International Master's programme | University of Hildesheim | confidence high | https://www.uni-hildesheim.de/en/studium/studieninteressierte/studiengaenge/masterstudium/software-engineering-msc/
+- Functional Safety Engineering (FUSE) (M.Sc.) | University of Kassel | confidence medium | https://www.uni-kassel.de/uni/en/study/functional-safety-engineering-master.html
+- IT Security | University of Lübeck | confidence high | https://www2.uni-luebeck.de/en/studium/informatik-und-mathematik/it-security/masters-degree-program-it-security/
+- Robotics and Autonomous Systems | University of Lübeck | confidence high | https://www2.uni-luebeck.de/en/study-program/technology/robotics-and-autonomous-systems/masters-degree-program-robotics-and-autonomous-systems/
+- Mannheim Master in Data Science | University of Mannheim | confidence high | https://www.uni-mannheim.de/en/academics/before-your-studies/programs/mannheim-master-in-data-science/
+- Mannheim Master in Management (MMM) | University of Mannheim | confidence high | https://www.uni-mannheim.de/en/academics/before-your-studies/programs/mannheim-master-in-management/
+- Master's Program in Business Informatics (Mannheim Master in Business Informatics) | University of Mannheim | confidence high | https://www.uni-mannheim.de/en/academics/before-your-studies/programs/masters-program-in-business-informatics/
+- Mannheim Full-Time MBA | University of Mannheim (Mannheim Business School) | confidence high | https://www.mannheim-business-school.com/en/mba-master/mannheim-full-time-mba/
+- Information Systems | University of Münster | confidence high | https://www.wi.uni-muenster.de/prospective-students/our-courses-study/master-science-information-systems
+- Information Systems (M.Sc.) | University of Passau | confidence high | https://www.uni-passau.de/en/msc-infosys
+- Digital Health (M.Sc.) at the Hasso Plattner Institute | University of Potsdam (Hasso Plattner Institute) | confidence high | https://hpi.de/en/studies/digital-health-msc/
+- Electrical Engineering (M.Sc.) – English-taught specialisations Communications Technology / Electronics Design and Technology | University of Siegen | confidence medium | https://www.uni-siegen.de/en/study/master/electrical-engineering
+- Engineering of Hydro-Environmental Extremes (M.Sc.) | University of Siegen | confidence medium | https://www.uni-siegen.de/en/study/master/engineering-of-hydro-environmental-extremes
+- Artificial Intelligence & Robotics (M.Sc.) | University of Technology Nuremberg (UTN) | confidence medium | https://www.utn.de/en/study/ai-robotics-en/
+- Smart Materials and Systems | University of Wuppertal (Bergische Universität Wuppertal) | confidence medium | https://fk6.uni-wuppertal.de/en/studies/degree-programs/electrical-engineering/masters-degree-program-smart-materials-and-systems/
+- Data Science and Artificial Intelligence (M.Sc.) | Universität Hamburg (University of Hamburg) | confidence high | https://www.inf.uni-hamburg.de/en/studies/master/dsai.html
+- Microelectronic Systems (M.Sc.) | West Coast University of Applied Sciences (FH Westküste), jointly with HAW Hamburg | confidence high | https://willkommen.fh-westkueste.de/en/microelectronic-systems
+- Embedded and Autonomous Systems (M.Sc.) | West Saxon University of Applied Sciences Zwickau (Westsächsische Hochschule Zwickau) | confidence medium | https://www.whz.de/english/study/incomings/courses-of-study/embedded-and-autonomous-systems-master/
+- Internet of Things and Smart Systems | West Saxon University of Applied Sciences Zwickau (Westsächsische Hochschule Zwickau) | confidence medium | https://www.whz.de/english/study/incomings/courses-of-study/internet-of-things-and-smart-systems-master/
+- Management and Information Technology (M.Sc., Double Degree) | West Saxon University of Applied Sciences Zwickau (Westsächsische Hochschule Zwickau) | confidence medium | https://www.whz.de/english/study/incomings/courses-of-study/management-and-computer-science/
+
+## Excluded (with reason)
+
+- Digital Business & AI | Friedrich-Alexander University Erlangen-Nürnberg | other: part-time, fee-based executive MBA for working professionals (requires at least one year of relevant work experience; lectures Fridays/Saturdays), not a regular full-time Master's
+- Global Business Management | Friedrich-Alexander University Erlangen-Nürnberg | other: fee-based executive MBA for working professionals (1+ year work experience); applicants without a German-medium degree must pass DSH-2 German
+- Information and Communications Engineering | Berlin University of Applied Sciences and Technology (HTW Berlin) | german-taught
+- Satellite Technology | University of Würzburg | discontinued: official SaTec page states the programme 'is ending soon' and recommends the new Master's in Aerospace Informatics; last listed intake winter 2026/27 with deadline 15 March 2026 (passed)
+- Sustainable Transportation and Electric Power Systems (STEPS) | Kiel University | not-found: STEPS is an Erasmus Mundus joint master's coordinated by the University of Oviedo (Kiel is only one mobility partner); no official Kiel University programme page could be found
+- International Business Administration | University of Applied Sciences Landshut | other: bilingual programme requiring German C1 as well as English C1 (first-semester module taught in German)
+- IT Law and Intellectual Property Law | Leibniz University Hannover | other: official LUH page lists language of instruction as German and English, with German C1 required for the German-taught part; not a fully English-taught programme
+- International Business Administration (IBA) | Ludwigshafen University of Applied Sciences | other: the only matching master's is an online distance-learning MBA 'International Business Management' (€2,250 per semester, work experience required); 'International Business Administration' at HWG LU is a bachelor's
+- International Area Studies - Global Change Geography | Martin Luther University of Halle-Wittenberg | other: official university server unreachable (connection refused on studienangebot.uni-halle.de and geo.uni-halle.de); search snippets of the official study regulations describe the programme as bilingual English/German, so English-only delivery could not be confirmed
+- European Master's degree in Embedded Computing Systems (EMECS) | Rhineland-Palatinate TU Kaiserslautern-Landau | discontinued
+- Social Informatics | Rhineland-Palatinate TU Kaiserslautern-Landau | german-taught
+- Electrical and Electronic Engineering and Information Engineering | RWTH Aachen University | discontinued
+- Language and Communication Technologies M.Sc./M.A. | Saarland University | discontinued
+- Global Management | Ingolstadt University of Applied Sciences (THI) | other: part-time online executive MBA for working professionals (€9,900 per semester, at least one year of work experience required) – not a regular full-time master's
+- Business Administration (BBA) | University of Applied Sciences Mittelhessen (THM) | not-found
+- Pharmaceutical and Molecular Biotechnology | University of Ulm | german-taught
+- Geo-informatics | University of Augsburg | german-taught
+- Business Analytics & AI | University of Cologne | other: part-time executive-education programme (weekend and block lectures, EUR 26,500 tuition, 1 year work experience required) run by the University of Cologne Business School; not a regular full-time master's
+- Energy Science | University of Duisburg-Essen | other: courses taught in German or English (mixed, not an English-taught programme); one-year add-on master requiring a 240-credit Energy Science bachelor's (UDE's own) or equivalent
+- Bioeconomy | University of Greifswald | other: international applicants must prove German at DSH-2 level in addition to English B2 (bilingual programme)
+- Data Science | University of Greifswald | other: German at DSH-1 level (equivalent to B2 CEFR) is an admission requirement and German is listed as an additional teaching language
+- Executive Master of Business Administration | University of Mannheim | other: Mannheim Executive MBA (part-time) at Mannheim Business School requires at least 8 years of postgraduate work experience and costs EUR 58,500; not a regular student master's programme
+- Data Science in Business and Economics | University of Tübingen | other: bilingual German/English programme; official page says applicants must be fluent in German and English and non-German applicants need DSH-2 or TestDaF 4x4x4x4
+- General Management | University of Tübingen | german-taught
+- International Business | University of Tübingen | german-taught
+- Leading Business Transformation | Saarland University of Applied Sciences (htw saar) | other: part-time 100% online distance MBA (with zfh) costing EUR 12,000 (EUR 2,400 per semester) plus semester fee; not a campus programme

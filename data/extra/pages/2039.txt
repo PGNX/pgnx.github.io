@@ -1,0 +1,151 @@
+URL: https://www2.uni-luebeck.de/en/studium/informatik-und-mathematik/it-security/masters-degree-program-it-security/
+TITLE: Master's degree program IT Security | University LübeckProgress Bars
+
+The aim of the Master's degree program in IT Security is to enable students to understand and deal with a wide range of information processing problems by teaching methods and knowledge as well as practicing skills in the most important areas of computer science and IT security. In contrast to the Bachelor's program, the emphasis is on the acquisition of skills for scientific work.
+The Master's program in IT Security is research-oriented and consecutive to the Bachelor's program in IT Security. It focuses in particular on the analysis, description, construction and validation of secure and reliable information processing systems.
+Graduates of the Master's degree program receive a special scientific qualification that enables them to work on basic topics or to develop particularly complex systems in management positions, placing particular emphasis on security and reliability.
+Particularly good graduates or later doctoral students from the field of IT security will also find additional interesting job opportunities in research and teaching in the research clusters of our own university and the BioMedTec Campus due to the special local character.
+Start your research career!
+Be part of the Lübeck Global Minds Masters
+Further information
+Type of Study
+Fulltime
+Standard period of study
+4 Semester
+Credits
+120 ECTS
+Course language
+English
+Admission period
+Winter Semester 01.05. - 15.07.
+Summer Semester 01.11. - 15.01.
+Non-EU applications via uni-assist:
+Summer semester: 01.09 - 15.10.
+Winter semester: 15.02. - 01.04.
+Admission Requirement
+Study program with admission requirements
+Start
+Summer semesterWinter semester
+Degree
+Master of Science (M.Sc.)
+Hints for application
+Applicants from the EU can apply directly via the application portal of the University of Lübeck. Applicants from outside the EU please use the Uni Assist Portal.
+The Master's degree program in IT Security is a research-oriented program that focuses on teaching scientific working methods and current research results. Students are enabled to conduct independent research and contribute to the further development of the subject area.
+By integrating current research results in seminars and modules such as "Communication and System Security", students gain an insight into the latest developments in IT security.
+A special feature of the Master's degree program is that it consists mainly of elective modules. These are offered in the areas of "Security and Privacy" and "Safety and Reliability". Students therefore have the freedom to largely design their studies themselves and tailor them to their individual interests and professional goals.
+In order to enable students to specialize individually, the degree course offers the opportunity to specialize in a further IT specialization. This flexibility allows students to tailor their studies to their individual interests and career goals.
+Another highlight of the Master's degree program is the integration of a case study, which enables students to deal with a specific, security-critical problem in a research institution or company. The case study offers the opportunity to deepen research methods and security concepts in a real context and thus develop a deep understanding of the complexity of modern IT security problems.
+The Master's thesis offers students the opportunity to research a complex topic in the field of IT security, privacy or reliability comprehensively and in depth. Under the guidance of experienced academic supervision, students have the opportunity to conduct independent research, analyze it critically and develop innovative solutions. The thesis should not only deepen theoretical concepts, but also demonstrate practical relevance by addressing current challenges in IT security. Through the Master's thesis, students demonstrate their ability to apply scientific methods, master complex problems and present their results in a clear and structured manner.
+Progress Bars
+All courses are listed in the recommended course of study. It indicates the semester in which a course should be attended.
+Further information on the individual modules can be found in the Master's module handbook. There are links to these in the curriculum.
+1. Semester (30KP)
+CS4701Communication and System Security (only WS)6KP (2V+1S+1Ü)
+Safety and Reliability Electives6KP
+Technical Computer Science6KP
+CS4000Algorithmics (only WS)6KP (2V+2Ü)
+Free Specialization Area12KP
+Free Specialization Area6KP
+2. Semester (30KP)
+Security and Privacy Electives6KP
+Safety and Reliability Electives6KP
+Practical Computer Science6KP
+CS4020Specification and Modelling (only SS)6KP (2V+2Ü)
+Free Specialization Area6KP
+3. Semester (30KP)
+Security and Privacy Electives6KP
+CS5195Current Topics in IT Security4KP (2V+1P)
+Advanced IT Security16KP
+Free Elective4KP
+4. Semester (30KP)
+CS5993Master Thesis IT Security30KP
+4 Exams
+5 Exams
+2 Exams
+1 Exams
+KP= Credit Points | V= Lecture | Ü=Exercise | P=Internship | S=Seminar
+IT-Sicherheit
+Informatik
+Wahlbereich (interdisziplinär)
+Curriculum (PDF)
+Find topics for final theses
+Module Manual
+Study program regulations
+Application
+Applications must be submitted via the online application portal.
+Applicants from outside the EU should use the Uni Assist portal. A list of all required documents for your application can be found here:
+https://www.uni-luebeck.de/en/university-education/international/international-students/degree-programmes/application-documents.html
+Admission
+We require the following for admission:
+A grade better than a German GPA of 2.7
+28 ECTS Mathematics
+60 ECTS Computer Science, of which at least 12 ECTS should pertain to Security
+The completion of a thesis
+The completion of our E-Test
+Detailed admission requirements can be found in the current program regulations. You can find them here.
+First semester information
+You can find all the important information about starting your first semester here.
+Is the program subject to admission restrictions?
+Yes, admission to Master's program is restricted. We require the following for admission:
+A Bachelor's degree in IT security or a related field with a grade equal or better than a German GPA of 2.7
+28 ECTS Mathematics
+60 ECTS Computer Science, of which at least 12 ECTS should pertain to Security
+The completion of a thesis
+The completion of our E-Test
+ECTS are standardized European academic credits and should equate to 30 hours of work per credit. Applicants are required to fill out an eligibility form with conversion of their workload into ECTS.
+The form and a list of all required documents for your application can be found here:
+https://www.uni-luebeck.de/en/university-education/international/international-students/degree-programmes/application-documents.html
+What can I expect from the program, and what interests should I have?
+The master's program is designed to enable students to understand and solve a wide range of problems related to secure and reliable information processing. One focus is on acquiring skills for scientific work. In the master's program, teaching moves away from the traditional school model and toward discussion, projects, and independent research. Ultimately, the master's degree is the basis for further academic qualifications, such as a doctorate, or for management positions in the field of IT security in business.
+Our master's courses are taught in English.
+Anja Rabich
+Study Program Coordinator – IT Security
+studium.itsec@uni-luebeck.de
+Frequently searched for
+Semester abroad
+Research
+Lecture times
+Moodle
+UnivIS
+Graduation
+Central University Library
+QIS
+CAS Webmail
+focus:INSIDE
+Cookie Settings
+Cookie Settings
+We use cookies on our website. Some of them are technically necessary, while others help us to improve this website or provide additional functionality.
+Allow all and confirm
+Only accept necessary cookies
+Individual Cookie Settings
+Privacy NotesImprint
+X
+Privacy settings
+Here you will find an overview of all cookies used. You can give your consent to entire categories or have further information displayed and thus select only certain cookies.
+Required Cookies
+These cookies enable basic functions and are necessary for the proper functioning of the website.
+Show Cookie Informationen
+Cookie Management
+Saves your consent to using cookies and stores the chosen tracking optin settings.
+Provider:Website
+Cookiename:waconcookiemanagement
+Runtime:1 year
+FE user
+This cookie is a standard session cookie from TYPO3. It stores the session ID in case of a user login. In this way, the logged-in user can be recognised and access to protected areas is granted.
+Provider:Website
+Cookiename:fe_typo_user
+Runtime:Session
+Cookies for external Content
+Content from video platforms and social media platforms is blocked by default. If cookies from external media are accepted, access to this content no longer requires manual consent.
+Show Cookie Informationen
+Google Maps
+A direct connection to Google’s servers will not be established until you have activated Google Maps autonomously at your end (i.e. given your consent pursuant to Art. 6 Sect. 1 lit. a GDPR). Once you have activated the service, Google Maps will store your IP address. By loading the map, you agree to Google's privacy policy.
+Provider:Google LLC
+Privacy source url:https://policies.google.com/privacy?hl=en
+YouTube Videos
+A direct connection to YouTube’s servers will not be established until you have activated videos autonomously at your end (i.e. given your consent pursuant to Art. 6 Sect. 1 lit. a GDPR). Once you have activated the service, YouTube will store your IP address. By loading the video, you agree to YouTube's privacy policy.
+Provider:YouTube / Google LLC
+Privacy source url:https://policies.google.com/privacy?hl=en
+Save
+Only accept necessary cookiesBack
+Privacy NotesImprint

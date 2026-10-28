@@ -1,0 +1,110 @@
+URL: https://www2.uni-luebeck.de/en/study-program/technology/robotics-and-autonomous-systems/
+TITLE: Robotics and Autonomous Systems | University Lübeck
+
+The consecutive Bachelor's and Master's degree program "Robotics and Autonomous Systems" is aimed at prospective students who are enthusiastic about interdisciplinary challenges at the interface of physics, mathematics, computer science, mechanical engineering and electrical engineering. The course provides a sound technical foundation, particularly in the fields of electrical engineering, mechanics and the processing of complex data. The focus is on the ability to quickly familiarize oneself with new subject areas and an understanding of technical and social problems. The profile is complemented by a clear focus on artificial intelligence (AI), which is an essential part of the course and drives innovative applications and future-oriented technologies.
+A broad range of compulsory electives enables students to specialize in areas such as medical technology, computer science and mathematics in medicine and life sciences. Particular emphasis is placed on practical training: The University of Lübeck, a leading player in robotics research for many years, offers the opportunity to participate in innovative research projects as early as the Bachelor's degree course. These projects include medical robotics, underwater robotics, service and rehabilitation robotics and medical technology.
+The degree course provides optimal preparation for the future development of autonomous systems, robotics and AI-based applications - technologies that are increasingly revolutionizing production processes (Industry 4.0) and everyday life. Anyone who wants to actively shape the future of these technologies will find the perfect foundation in this degree course.
+Bachelor Robotics and Autonomous Systems (B.Sc.)
+Standard period of study: 6 semesters
+Start: Winter semester
+Type of admission: Admission-free
+Master Robotics and Autonomous Systems (M.Sc.)
+Standard period of study: 4 semesters
+Start of studies: Winter and summer semester
+Type of admission: Degree program with admission requirements
+Good reasons for studying Robotics and Autonomous Systems in Lübeck
+Shaping the future
+Research up close
+Top career opportunity
+Personal atmosphere
+Strong team spirit
+Once you have activated the service, YouTube will store your IP address. By loading the video, you agree to YouTube's privacy policy.
+ROB - Institute for Robotics and Cognitive Systems
+ITI - Institute for Computer Engineering
+IME - Institute for Medical Electrical Engineering
+IFIS - Institute for Information Systems
+Opinions of students
+My dream is to set up my own company, with which I can simplify and expand the everyday lives of myself and my fellow human beings.
+Nico Studt
+I was already interested in robotics when I was at school, which is why I opted for this future-oriented degree course.
+Rabia Demirci
+I am convinced that robotics and autonomous systems can change the world for the better.
+Zino Volkmann
+I studied robotics because I was infected by the curiosity and joy of those involved in the subject.
+Mai Linh Edith Nguyen
+You can also reach your destination via detours. And the detours are usually much more interesting.
+Steffen Marquardt
+Introducing the Robotics and Autonomous Systems degree program
+Actively shaping the future
+On our degree course, you will shape the technologies of tomorrow. Whether intelligent robots or innovative AI solutions - you will learn how to develop these systems responsibly and use them sustainably.
+Understanding and mastering complex systems
+Today's technical challenges require interdisciplinary know-how. At the University of Lübeck, electrical engineering, mechanical engineering, computer science and artificial intelligence merge into an exciting mix that you will understand and apply in practice.
+Developing practical solutions
+You will not only acquire sound basic knowledge, but also the ability to break down complex problems into manageable subtasks. You will learn to use systemic thinking and AI-supported approaches to develop innovative solutions that are convincing in the real world.
+Using diversity as an opportunity
+Our broad range of courses in the fields of computer science, engineering and mathematics allows you to deepen your interests or combine them in a variety of ways. At the same time, you will benefit from interdisciplinary projects that include applications in care, medicine and digital transformations through AI.
+Pioneering work in a unique degree program
+Become part of the first Bachelor's program in Robotics and Autonomous Systems in Germany! This degree program opens doors to a wide range of career paths - in robotics, but also in future-oriented fields of artificial intelligence and autonomous technologies.
+Career prospects
+The job profile of graduates of the Bachelor's and Master's degree course covers a wide range of activities in the field of autonomous systems and robotics. Bachelor's graduates work, for example, as hardware or software engineers, particularly in the field of medical assistance systems, as software developers for embedded systems, test or sales engineers in the field of Industry 4.0, or as product and application engineers. They are also ideally prepared to take up a research-oriented Master's degree course. Master's graduates often take on management positions, such as development managers in specialized companies or project managers in research laboratories at public and private institutions. Other possible fields of activity include scientific positions in research laboratories of large companies, university teaching, management consultancy or science journalism. The path to a doctorate is also open to them.
+Who can I contact if I have further questions?
+For further information, you can contact the student advisory service of the Robotics and Autonomous Systems degree program. The contact details can be found on the official website of the degree program.
+What research opportunities does the university offer in the field of robotics and autonomous systems?
+The University of Lübeck is active in various research projects in the field of robotics and autonomous systems. Students have the opportunity to participate in current research projects and write their final theses in these contexts.
+For detailed information on individual projects, please visit the pages of the institutes of the degree program.
+Kontakt Studiengang RAS
++4945131011867studium.ras@uni-luebeck.de
+Uni-Prof.Dr. Philipp Rostalski
+Studiengangsleitung
++4945131016200philipp.rostalski@uni-luebeck.de
+Dr.-Ing. Kristian Ehlers
+Studiengangskoordination
++4945131016309kristian.ehlers@uni-luebeck.de
+Frequently searched for
+Semester abroad
+Research
+Lecture times
+Moodle
+UnivIS
+Graduation
+Central University Library
+QIS
+CAS Webmail
+focus:INSIDE
+Cookie Settings
+Cookie Settings
+We use cookies on our website. Some of them are technically necessary, while others help us to improve this website or provide additional functionality.
+Allow all and confirm
+Only accept necessary cookies
+Individual Cookie Settings
+Privacy NotesImprint
+X
+Privacy settings
+Here you will find an overview of all cookies used. You can give your consent to entire categories or have further information displayed and thus select only certain cookies.
+Required Cookies
+These cookies enable basic functions and are necessary for the proper functioning of the website.
+Show Cookie Informationen
+Cookie Management
+Saves your consent to using cookies and stores the chosen tracking optin settings.
+Provider:Website
+Cookiename:waconcookiemanagement
+Runtime:1 year
+FE user
+This cookie is a standard session cookie from TYPO3. It stores the session ID in case of a user login. In this way, the logged-in user can be recognised and access to protected areas is granted.
+Provider:Website
+Cookiename:fe_typo_user
+Runtime:Session
+Cookies for external Content
+Content from video platforms and social media platforms is blocked by default. If cookies from external media are accepted, access to this content no longer requires manual consent.
+Show Cookie Informationen
+Google Maps
+A direct connection to Google’s servers will not be established until you have activated Google Maps autonomously at your end (i.e. given your consent pursuant to Art. 6 Sect. 1 lit. a GDPR). Once you have activated the service, Google Maps will store your IP address. By loading the map, you agree to Google's privacy policy.
+Provider:Google LLC
+Privacy source url:https://policies.google.com/privacy?hl=en
+YouTube Videos
+A direct connection to YouTube’s servers will not be established until you have activated videos autonomously at your end (i.e. given your consent pursuant to Art. 6 Sect. 1 lit. a GDPR). Once you have activated the service, YouTube will store your IP address. By loading the video, you agree to YouTube's privacy policy.
+Provider:YouTube / Google LLC
+Privacy source url:https://policies.google.com/privacy?hl=en
+Save
+Only accept necessary cookiesBack
+Privacy NotesImprint

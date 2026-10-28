@@ -1,0 +1,67 @@
+URL: https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/geodesy-and-geoinformation-science-m-sc
+TITLE: Geodesy and Geoinformation Science M.Sc. - TU Berlin
+
+© PantherMedia/benkrut
+Geodesy and Geoinformation Science, M.Sc.
+Program overview
+Geodesy is a broad engineering discipline that is strongly focused on mathematics and natural sciences. It includes collecting, modeling, and processing measurement data in a spatial context. Analyzing, structuring, and visualizing this geo-data provides the foundation for interpreting and designing living spaces. The broad spectrum of current geodetic research includes microscopic applications in medicine, automobile navigation and environmental monitoring, planning space missions, and exploring and mapping foreign planets.
+In the English-language master’s program Geodesy and Geoinformation Science, you learn to develop and apply methods of engineering measurement, satellite geodesy, planet and Earth system research, computer vision, and 3D/4D modeling of the real world using geographic information systems.
+DegreeMaster of Science
+Standard period of study
+4 semesters
+Credit points120
+Program start
+Winter semester
+Admission
+Open admission
+Language of instruction
+English
+Admission requirements
+The formal admission requirement for the consecutive master’s program in Geodesy and Geoinformation Science is a first university degree in geodesy or a closely related subject qualifying the applicant for professional work.
+Applicants to the M.Sc. program are expected to possess a solid foundation in both mathematics and programming. In particular, prior knowledge in the following areas is assumed:
+1. Mathematics: linear algebra, statistics, mathematical analysis, calculus, and trigonometry,
+2. Programming / scientific computing: experience with programming environments such as Python and/or MATLAB/Octave.
+In case of existing deficits in these areas, students are expected to independently acquire the required knowledge through self-study in order to successfully follow the courses of the program.
+The Geodesy and Geoinformation Science master's program is taught in English. Applicants must submit proof of the following language skills:
+Native German speakers: good English skills, CEFR level B1
+Non-native German speakers: TOEFL test with at least 213 points (computer based) or equivalent
+If you are a native English speaker and have an English-language university entrance qualification certificate or an English-language bachelor’s degree, you are exempt from submitting proof of your English skills.
+Knowledge of German is useful as some courses/modules are offered in German. However, this is not a condition for admission to studies.
+Program structure
+Modules totaling 90 credit points are to be chosen from the following areas:
+Modules totaling 30 credit points in the basic area and
+Modules totaling 21 credit points from one of the four areas Geoinformation Technology, Space Geodesy and Navigation, Engineering Surveying, and Estimation Theory as well as
+Computer Vision and Remote Sensing as a concentration. A project seminar totaling at least 6 credit points is mandatory for the concentration.
+You must also complete a total of 9 credit points in each of the other three areas and 12 credit points in modules in the elective component.
+For the master’s thesis in the last semester, you will receive 30 credit points.
+The objectives and structure of the program as well as the examination requirements and details on how the examinations are carried out are set down in the study and examination regulations.
+There is a proposed course schedule for the degree program. This is a recommendation for how to complete the degree program within the standard period of study of four semesters. You can find it as an annex to the study and examination regulations. The most current version of the regulations applies to applicants.
+Study and examination regulations
+Geodesy and Geoinformation Science M.Sc. 2004
+(pdf, 750 KB, German)
+Geodesy and Geoinformation Science M.Sc. 2004
+(pdf, 872 KB)
+Content and modules
+The master’s degree program in Geodesy and Geoinformation Science consists of modules which combine curriculum content on a specific topic and often include various study and teaching formats such as lectures, practical tutorials, seminars, and practical projects. Students are required to earn a specific number of credit points and complete certain coursework and assessments in each module.
+A current overview of all modules is available in TU Berlin’s module transfer system (MTS). The MTS also provides an overview of which modules are mandatory for your degree program and which are elective. Detailed module descriptions provide information about the contents of modules, learning objectives, participation requirements, workload, types of assessment, etc. The module catalogue is based on the study and examination regulations. The most current version of the regulations applies to applicants.
+To module database
+Internships
+You are not required to complete an internship for the program.
+Stays abroad
+You can generally complete parts of the program abroad, either in the form of study abroad or internships. General information concerning stays abroad is available from the TU Berlin International Office (study abroad) or the Career Service (internships abroad).
+Acquired skills
+The objective of the master’s program Geodesy and Geoinformation Science is to enable you to conduct independent scientific research in the area of geodesy and geoinformation technology. Part of your education is working on current research projects, especially in cooperation with the German Research Centre for Geosciences (GFZ) and the German Aerospace Center (DLR). The program’s emphasis on research-focused tutorials and project work enables you to independently compile knowledge and complete complex projects that are technically and scientifically challenging. Your technical and social skills such as communication abilities and teamwork, critical thinking, and the willingness to perform and take on responsibility are strengthened with project work in small groups. You are familiar with the core methods of
+Earth system and planet research based on geodetic techniques,
+Precision navigation and locating, especially based on global navigation satellite systems and inertial navigation systems (Space Geodesy and Navigation),
+Geodetic sensors, measurement data analysis, and analysis of object movements and the formations (Engineering Surveying and Estimation Theory),
+Digital image processing, automated image analysis, and remote sensing (Computer Vision and Remote Sensing).
+After your studies
+As a graduate of the master’s program Geodesy and Geoinformation, you have many different professional opportunities. You can conduct research at national and international facilities and universities on many different topics and contribute to planning, designing, and regulating the living environment at the highest level of state institutions. In the industrial sector, you can participate in establishing and using satellite navigation systems (e.g. in telematics). After completing the degree, you can plan and implement geo-information systems, e.g. in urban planning and construction, and work to develop geodetic sensor systems. Your education will also enable you to work in international teams and successfully apply scientific methods to complex problems. Another area of professional activity is open to you in mid-sized service companies, e.g. in the area of collecting basic geo-data, data analysis and visualization, and as a consultant.
+Further information & downloads
+Website of the Degree Program
+Questions about the degree program: Course Guidance and Alumni Podcast (in German)
+Recognition of previously acquired credits: Examination Board
+Subject-specific Counseling and Services
+Office of Academic and Student Affairs of the Faculty
+General guidance and choosing the right degree program: Academic Advising Service
+Application and enrollment: Office of Student Affairs

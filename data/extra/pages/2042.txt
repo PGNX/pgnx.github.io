@@ -1,0 +1,104 @@
+URL: https://www.uni-saarland.de/en/study/programmes/master/lct.html
+TITLE: Language and Communication Technologies (M.Sc.) (phased out) | Universität des Saarlandes
+
+Skip to content
+Skip to search
+Skip to footer
+Skip to chatbot
+Saarland University
+/
+Study
+/
+Academic programmes
+/
+Master's degrees
+/
+Language and Communication Technologies
+Language and Communication Technologies (M.Sc.) (phased out)
+Please note
+This degree programme is being phased out. Application/enrolment is no longer possible.
+Saarland University is the coordinating institution for the international Master's programme 'Language and Communication Technologies'. The programme offers students from around the world high-class academic training coupled with the opportunity to improve their foreign language skills and hone their intercultural competence by selecting subject-related and geographical areas of preference.
+Description
+Students study at two of the participating universities within the consortium, which, in addition to Saarland University, includes universities in the Czech Republic, France, Italy, Malta, the Netherlands and Spain. Students can combine modules from the fields of language technology, computational linguistics, theoretical linguistics and computer science in a way that reflects their own personal academic interests. Depending on the focus of the modules and courses taken, graduates from the programme will be awarded either an M.Sc. or an M.A. degree from each of the two universities at which they studied.
+Each student receives support and guidance from two academic supervisors – one from each of the student's two chosen universities. Students work with their supervisors to develop an individual study plan, which then has to be approved by the study committee that represents the consortium. The Master's thesis project is jointly supervised and can be carried out at either or both of the chosen institutions. The Master's thesis is defended in front of a jury whose members are drawn from the two chosen universities. A number of scholarships and other funding sources are available to financially support students on the Master's programme.
+Structure
+The international Master's programme 'Language and Communication Technologies' consists of compulsory modules and advanced modules in the fields of language technology and computer science, a final-year research project and a Master's thesis, for a total of 120 ECTS credits.
+1. Compulsory modules
+The compulsory core modules and their content are described on the LCT website.
+2. Advanced modules
+Students must acquire 42 ECTS credits (42 CP) from the advanced modules offered, of which at least 4 CP must be in the area 'Language Technologies' and 4 CP in 'Computer Science'. The advanced modules offered are based on the specific research and teaching strengths of the partner institutions and thus vary from partner to partner. Of the 42 CP to be acquired in this module category, 15 CP may be earned from a student project. The research Master's thesis consists of 30 CP.
+The main areas covered in the advanced modules are:
+Language Technologies (Advanced LT-M4): at least 4 CP
+Machine translation, information and knowledge representation, information retrieval, question answering, speech recognition and generation, models of human language processing and understanding, psycholinguistics
+Computer Science (Advanced CS-M4): at least 4 CP
+Artificial intelligence, knowledge representation, automated reasoning, semantic web, intelligent and multi-modal interfaces, cognitive modelling, computational psychology, neural networks, machine learning
+3. Study plan
+Students within the double degree programme have to study at two institutions within the consortium. As such, they are jointly supervised by two lecturers (tutors), one from each institution. Each student will work with their tutor to develop a personal study plan. This plan must be submitted for approval to the Joint Committee of the consortium. Students are required to successfully complete all written and/or oral exams in the modules selected in their personal study plan.
+4. Master's thesis
+Students have to submit and defend their Master's thesis at either or both of their selected institutions. The Master's thesis can be jointly supervised. It is defended in front of a jury whose members are drawn form the two selected universities.
+Requirements & application
+Admission requirements
+Students are selected by a joint committee whose members come from all the partner institutions within the consortium. Students are chosen on the basis of their academic performance and achievements in their previous studies.
+All applications are first screened to ensure that they meet the following eligibility criteria:
+application has been submitted within the prescribed deadline
+application is correct and complete
+applicant has required English language proficiency
+applicant has a Bachelor's degree (or can state projected completion date before starting the LCT programme) or an equivalent qualification in the area of (Computational) Linguistics, Language Technology, Cognitive Sciences, Computer Science, Mathematics, Artificial Intelligence, or other relevant disciplines, subject to the consent of and approval by the consortium's Admission Committee
+All applications that meet the eligibility criteria are then assessed with respect to the following selection criteria:
+results achieved in undergraduate education: grade/class of first degree and name of programme and awarding university; time spent studying for first degree and approach taken (short and focused, or if applicant spent longer studying details of additional activities in other academic fields and disciplines, extra-curricular activities); whether student worked or studied in an interdisciplinary environment (due to structure of first degree programme or because of additional experience gained elsewhere)
+results in areas relevant for LCT, namely computer science and language technology (including formal linguistics)
+result attained in a TOEFL, IELTS or other acceptable language proficiency test (see language requirements), evidence of practical use of English in a work or study environment
+how applicant is likely to benefit from participating in the LCT programme
+personal statement of applicant's motivation and reasons for wanting to join the LCT programme (expectations, own contributions)
+All of the above criteria are equally weighted, except the English proficiency criterion, which is applied in the event that two or more applicants are otherwise equally ranked.
+Application form
+The online application form will be available shortly.
+Please submit your application via the online form. You will need to provide:
+1. a personal statement of interest written in English. Please write no more than two pages focusing on:
+your reasons for applying
+your areas of interest in relation to the various sub-disciplines within the field of language and communication technologies (language technology, computational and theoretical linguistics, and computer science)
+optional: your preferences for the host and partner universities together with the reasons for your choice. While your preferences will be taken into account, the final assignment will be made to best match with your study needs.
+2. a up-to-date Curriculum Vitae (CV), written in English
+3. certified copies of:
+your Bachelor's degree certificate
+relevant certification that you fulfil the necessary language requirements
+4. a transcript of academic records
+5. a copy of your identity document.
+Please include the names of two referees on your application form.
+At a glance
+Standard period of study4 semesters
+Degree qualificationMaster of Science (M.Sc.) or Master of Arts (M.A.) from the two chosen universities
+Language of instructionEnglish
+English language requirementsTOEFL iBT: 79, CBT: 213, PBT: 550; Cambridge Certificate in Advanced English: B; Cambridge Proficiency Exam: pass; IELTS: 6.5
+Application deadlineCurrent deadlines
+Tuition feesStudents from Europe: 4.250€/year
+Students from overseas: 8.500€/year
+Web pagewww.lct-master.org
+Contact
+Course adviser
+Dr. Alexandra Mayn (Programme Manager)
+und Amira Palisch (Project Administration)
+Telefon: +49 681 302-4352
+E-Mail: lct-admin(at)lst.uni-saarland.de
+https://lct-master.org/
+Central Student Advisory Service
+Saarbrücken Campus
+Building A4 4, Ground floor
+Phone: +49 681 302-3513
+studienberatung(at)uni-saarland.de
+www.uni-saarland.de/studienberatung
+Central Student Advisory Service
+Saarbrücken Campus
+Building A4 4, Ground floor
+Phone: +49 681 302-3513
+studienberatung(at)uni-saarland.de
+Central Student Advisory Service
+Accredited study programmes
+Saarland University was one of the first universities in Germany to achieve Quality Assurance Accreditation and has held the Accreditation Council's official quality mark continuously since 2012.
+Quality management
+×
+Cookie Configuration
+Matomo Cookie Configuration
+In addition to technically necessary cookies, this website uses the web analytics software Matomo. To help us improve user experience, we use Matomo to analyse how visitors interact with the website. Matomo runs on a university server. Your data will be stored for a period not exceeding six months and will not be disclosed to third parties. Your IP address cannot be used to identify you. For more information please refer to the university's privacy notice.
+Accept analytics cookies
+Accept only necessary cookies

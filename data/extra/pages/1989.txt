@@ -1,0 +1,157 @@
+URL: https://hpi.de/en/studies/digital-health-msc/
+TITLE: Digital Health (M.Sc.) | Hasso Plattner Institute
+
+Digital Health (M.Sc.)
+Digitizing Health
+Do you want to ensure more precise diagnoses, more individualized therapies, and better prevention in the healthcare sector? With our Master's degree in Digital Health, you will learn to develop technical innovations in hardware and software to actively shape the healthcare of tomorrow. In our program in Digital Health, you actively drive the digitalization in healthcare forward, without losing sight of ethical and moral issues.
+Apply here
+Quick access
+Study contents
+Scope of degree
+Career prospects
+Admission requirements
+Application
+FAQ
+HPI in three words? For me, that would be fun, interdisciplinary, and concrete. It offers you all the resources and support to bring your ideas to life and do your thing.
+Get to know HPI alumnus Andrea
+Master's Info Sessions
+At our Master’s Info Sessions, you’ll learn everything you need to know about our innovative Master’s program in Digital Health. Our Program Managers will answer your questions about the curriculum, application process, and campus life. Participation is free of charge.
+Next info session: January 13, 2027, 3:00 PM (Find all upcoming dates here.)
+Where: Online
+Duration: 60 minutes
+Register here
+Your Benefits at HPI
+Work with like-minded individuals in small teams with intensive supervision
+Study in the attractive city of Potsdam and in close proximity to Berlin
+Attractive job prospects where you can really make a difference
+Benefit from cooperation with business and industry
+Facts about the program
+Application deadline: June 1*
+Start of studies: Winter semester**
+No tuition fees (only semester fees***)
+Credits: 120
+Language: English (at least C1)
+Standard study period: 4 semesters****
+* Winter semester's application period 1st semester: from April 1 to June 1; ** also possible for advanced semesters in the summer semester: more information; *** University of Potsdam semester fees; **** suitable for part-time study (more info here)
+Apply Here
+HPI Digital Health Cluster
+With the work of the Digital Health Cluster (DHC), we combine research and teaching and bring together scientists and actors from the fields of medicine and IT at the HPI.
+Learn more about the DHC
+Study contents: Digital Health (M.Sc.)
+In the Digital Health Master’s program, you will acquire skills to analyze, design, and implement complex and secure IT systems and infrastructures, enabling you to shape the healthcare of the future.
+In addition to excellent technical training in IT Systems Engineering, HPI places great emphasis on imparting interdisciplinary key competencies (soft skills), which play a crucial role in the successful management of large and interconnected IT projects. You can also individually take courses in Entrepreneurship and the innovation method Design Thinking in the Digital Health Master’s program.
+Module groups
+In the Master's program, you can flexibly design your schedule. Choose your individual areas of specialization from a wide variety of subjects:
+Bridge Modules
+Principles of IT Systems
+Fundamentals of Programming
+Introduction to Principles in Medicine
+Fundamentals of Healthcare Systems
+Compulsory Modules
+Health Systems and Sciences for Digital Health
+Software Architectures for Digital Health
+Ethics, Law and Compliance for Digital Health
+Data Science for Digital Health
+Digital Health Project Lab
+1st Specialization Area
+Scalable Computing and Algorithms for Digital Health
+Digitalization of Clinical and Research Processes
+Acquisition, Processing and Analysis of Health Data
+Health Data Security
+2nd Specialization Area
+Communication Skills
+Management and Leadership
+Design Thinking Basics & Advanced
+Master's Thesis
+An overview of all modules can be found in the module catalog of the Digital Health Master's degree.
+Bridge Modules
+Module Principles of IT-Systems (DHBM-IT)
+Students from the health sciences learn the necessary basic knowledge of complex IT systems, operating systems, the Internet, and the WWW required in the field of Digital Health in this bridging module.
+Module Fundamentals of Programming (DHBM-PR)
+This bridging module imparts fundamental knowledge of the programming languages, development tools, strategies, and selected aspects of programming complex software systems required in the field of Digital Health.
+Module Introduction to Principles in Medicine (DHBM-PM)
+The focus of this module is on presenting selected fundamentals and concepts, selected areas of medicine, and imparting competencies for documenting medical issues in the field of Digital Health.
+Module Fundamentals of Healthcare Systems (DHBM-HS)
+This module provides the necessary fundamentals for working in international healthcare systems with their specific requirements and characteristics.
+Compulsory modules
+Module Health Systems and Sciences for Digital Health (DH-HS)
+The module provides a comprehensive overview of selected areas of Digital Health in both national and international contexts. It closely examines the processes, stakeholders, and care objectives of Digital Health, as well as current standards in healthcare, research, and patient-centered treatment. The focus is on the introduction, integration, and monitoring of digital solutions.
+Module Software Architectures for Digital Health (DH-SW)
+This module imparts detailed knowledge of complex digital systems, networked software infrastructures, and interoperable applications in Digital Health. The focus is on specific concepts and procedures of the software development process for applications in the life sciences.
+Module Data Science for Digital Health (DH-DS)
+The module provides an overview and understanding of the relevant subfields of Data Science concerning data generated in Digital Health and study designs, as well as their analysis and evaluation. It also covers the basics of statistical methods and data management in the field of Digital Health.
+Module Ethics, Law and Compliance for Digital Health (DH-EC)
+The module defines the ethical and legal frameworks that must be considered when designing and implementing software systems and handling data in the healthcare sector. Topics such as Good Clinical Practices, handling study data, legal requirements (e.g., eHealth legislation), and recommendations (e.g., from the German Ethics Council) are discussed. The goal is to assess risks in the use of health data, ethically and legally evaluate conflict situations in business and society, and preventively avoid them through legally compliant actions.
+Areas of specialization
+Each divided into the modules Concepts and Methods, Technologies and Tools & Specialization:
+Scalable Computing and Algorithms for Digital Health (SCAD- C/T/S)
+Technical concepts and innovations and their translation into daily routine in areas such as telemedicine, wearables, big data technologies, and cloud computing
+Digitalization of Clinical and Research Processes (DICR- C/T/S)
+Digitalization of processes from clinical and research fields with consideration of data quality, reproducibility, and stability
+Acquisition, Processing and Analysis of Health Data (ADAP- C/T/S)
+The focus of the module is on the entire process chain of data collection, processing, and analysis. It includes big data from heterogeneous data sources, data with high capture frequency, and fast processing times.
+Health Data Security (HDAS- C/T/S)
+Security-relevant aspects in the use of data in the field of digital health
+Digital Health Project Lab
+Together in a group, you work on a selected research-related question from the field of Digital Health. You actively participate in the development of new solutions, gain deep insights into current research work, and thus strengthen your scientific work and writing.
+Course Catalog
+Model study plans: Digital Health (M.Sc.)
+Model study plan for the Master’s program in Digital Health with an obligation to § 5 Admissions Regulations for DH
+Model study plan for the Master’s program in Digital Health without an obligation to § 5 Admissions Regulations DH
+Scope of degree
+To successfully complete the master's degree, 120 credits must be earned.
+24 credit points in the Digital Health module group
+12 credit points in the bridge module or other elective modules
+2 specialization areas with 3 modules each, 6 credit points per module:
+Concepts and Methods
+Techniques and Tools
+Specialization
+Credit Points in Professional Skills Modules
+Credit Points in the Digital Health Project Lab
+Career prospects
+Revolutionize the Healthcare Sector – the advancing digitalization in medicine will significantly change the healthcare system in the coming years. With a master's degree in Digital Health, you can be part of this change and help shape it.
+By enabling technical innovations in hardware and software, you facilitate personalized prevention or more individualized therapies – this prospectively improves general healthcare and reduces costs for individuals and society.
+Healthcare and the health economy thus offer exciting and future-proof career prospects. You can apply your interdisciplinary skills as a leader in research and industry with a focus on the healthcare sector, including the health economy and healthcare, in a versatile manner.
+HPI Connect job portal
+Admission requirements
+For the Master's program in Digital Health at HPI, the following admission requirements apply.
+A bachelor's degree* comprising at least 180 credit points
+in computer science or the healthcare professions
+Totaling at 12 credit points (ECTS): in the field of computer science, e.g. IT systems engineering, computer science, bioinformatics, eHealth or telemedicine, together with basic knowledge comparable to the bridge modules "Introduction to Principles in Medicine" and “Fundamentals of Healthcare Systems”
+- or -
+Totaling at 12 credit points (ECTS): in the field of study programs for healthcare professions, such as medicine, medical science or pharmacy, together with basic knowledge comparable to the bridging modules "Principles of IT Systems" and “Fundamentals of Programming”.
+Further you need to show proficiency:
+Totaling at 12 credit points:
+Proof of knowledge in Data Science, Machine Learning, Statistical Concepts and Models, or Empirical Research Processes.
+Programming skills:
+in R, Python, Matlab, C++, Java, or other suitable programming languages
+English proficiency:
+at least at the C1 level of the Common European Framework of Reference for Languages
+* or an equivalent first professional qualifying university degree
+In individual cases, the examination board may decide on comparable achievements.
+All details regarding the admission requirements can be found in the subject-specific admission and enrollment regulations.
+Application
+If you enjoy mathematics, teamwork, intellectual challenges and have a good understanding of the English language, then you will have a lot of fun developing innovations for the healthcare sector with us. You can find all information about the application process on the Master's application page.
+Apply here
+We have compiled answers to the most frequently asked questions about studying at HPI.
+FAQ Master's Degree Programs
+Contact
+Dr. Jasmin Cirillo
+Program Manager Digital Health (M.Sc.)
+Phone: +49 331 5509-167
+Mail: master-info@hpi.de
+More
+Prof. Dr. Bert Arnrich
+Advisor Digital Health
+Phone: +49 331 5509-167
+Mail: master-info@hpi.de
+More
+Related Links
+Admission regulations Digital Health
+Study and examination regulations Digital Health
+Module catalog Digital Health (document)
+Newsletter for prospective master's students
+FAQ Master's degree programs
+Student Storys: Meet Lars
+Combining medicine and computer science? It's possible! After studying medicine in Münster, HPI alumnus Lars Masanneck decided to pursue a master's degree in Digital Health at HPI—a groundbreaking combination! Here, computer scientists and medical professionals work together to master the digital challenges in medicine and healthcare. The goal: more accurate diagnoses, personalized therapies, and better prevention. He provides insights in the video.
+Last change: 08/10/2026, Geronimo Förster

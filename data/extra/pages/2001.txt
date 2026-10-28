@@ -1,0 +1,71 @@
+URL: https://uol.de/en/course-of-study/engineering-socio-technical-systems-master-610
+TITLE: Engineering of Socio-Technical Systems - Master's Programme // University of Oldenburg
+
+Student InfoPortal
+Engineering of Socio-Technical Systems - Master's Programme
+Engineering of Socio-Technical Systems - Master's Programme
+Study Infos
+How to apply
+Exams
+The English-language Master's degree programme Engineering of Socio-Technical Systems (EngSTS) is a specialized academic curriculum. To be admitted to this programme, students must have completed a Bachelor’s degree in Computing Science or Psychology (with a technical specialization) or in one of the previously mentioned subjects which are closely linked to the Master’s programme. The courses take an interdisciplinary approach to the development of safety-critical, computer-based interactive systems, and particularly focus on the interaction between humans and technology. They combine content from neuroscience with methods used by engineers to develop information systems. This Master’s degree programme offers students a unique opportunity to follow an intricate mix of Computing Science and Psychology courses, especially cognitive and perception psychology.
+During your studies, you will gain an in-depth understanding of the principles and methods of computer science and cognitive sciences, as well as their applications, which are necessary for the development of reliable socio-technical systems. By the end of the programme, you will understand the methods, problems and results of the latest research in this field. You will be able to evaluate theories and methods, process models, tools and systems according to scientific criteria and use them to solve practical problems. You will then be able to apply this knowledge to solve complex and new problems. You will gain expert knowledge about the design, specification, implementation, optimization, validation, operation, further development and safety analyses of complex socio-technical systems, and be able to apply and manage the application of this knowledge to solve problems systematically. You will learn how to work in transdisciplinary teams to determine and document the requirements of existing and new accentuation domains, to translate them into appropriate sociotechnical system solutions, to implement those solutions and assess their characteristics.
+The Master’s degree programme EngSTS consists of four semesters (two years) and offers excellent opportunities for students to specialize in various focus areas and tracks.
+Fundamental Competencies in Computer Science and Psychology (18 ECTS credits, first semester): Introduction to the relevant mathematical-logical and computer science principles and introduction to the relevant cognitive, psychological and empirical principles (compulsory modules)
+Foundations of Socio-Technical Systems Engineering (24 ECTS credits): principles of neuroscience, psychology and computer science (compulsory modules)
+Accentuation Practical (24 ECTS credits): specialization, students select specialization tracks (optional)
+Accentuation CS: specialization, students select a specialization from one of the core computer science courses (optional)
+Accentuation Domain: in-depth insights into the requirements and particularities of different accentuation domains (automation and robotics, automotive, maritime, medical technology, optional)
+Master’s thesis (30 ECTS credits) including final colloquium in the last semester
+Human Computer Interaction (HCI): This track equips students with the necessary theoretical knowledge and practical skills to design, implement and evaluate future interactive systems in the context of the design of complex technical systems. It combines basic knowledge of usability with knowledge from psychology to conceptualize and design interactions between humans and technology.
+Embedded Brain-Computer Interaction (EmbeddedBCI): This track provides students with the necessary theoretical knowledge and practical skills to design and evaluate complex technical systems with both human and technical players as well as to use brain-computer interfaces in cyber-physical systems. This course covers the principles of system design, neurocognitive psychology and signal processing as well as a wide range of accentuation domains, which emphasizes the extent to which the knowledge and skills learnt during this course can be transferred to and applied in different areas.
+Systems Engineering (SE): This track equips students with the necessary theoretical and practical knowledge to analyse, design and develop large cooperative networks of safety-critical, socio-technical systems, i.e., large systems whose limits are not bound by other systems. At the end of this course, students will be able to recognize, analyse and describe the relationships between individual subsystems in the context of an integrated system as well as the interactions between subsystem properties and integrated system properties.
+For more information about the tracks, see
+www.uni-oldenburg.de/informatik/msc/engSTS
+The degree programme is taught in English.
+German language skills are not required for admission.
+In order to study this course at the University of Oldenburg, you need an adequate knowledge of English.
+English Language Proficiency see admissions regulations
+Common European Framework of Reference for Languages (CEFR) Level C1.
+If applicants have a university degree obtained in English.
+Other forms of evidence are acceptable, provided they demonstrate sufficient language proficiency.
+The proof of language proficiency must be presented for the enrolment. Applicants may be granted provisional admission if it is expected that they will provide the required proof of language proficiency within two semesters of enrolling on the Master’s programme. For other proof possiblities see: Language requirements
+Graduates of this Master’s degree programme go on to work in many different industry areas in which interactive, cooperative and cyber-physical systems (CPS) are developed and optimized. Such systems make significant contributions to our future security, efficiency, comfort and health, and are essential technologies in the economically important domains of Smart Mobility, Smart Maritime, Smart Grid, Smart Production, Smart Home and Smart Health.
+Although interactive and collaborative CPS technologies are already being introduced in many areas, the development of such technologies often occurs on an ad hoc basis, tends to be specific to a particular domain and focuses more on the technology itself. This area is yet to reach the same level of maturity as the established engineering sciences, which have progressed from domain-specific to general technology design principles, thus facilitating the development of products such as general-purpose programming languages, hardware platforms and operating systems. As such, specialists in this area are in high demand; graduates have excellent career prospects in both the fundamental development of CPS and in their domain-specific applications.
+Graduates of this Master’s degree programme often go on to work as usability or safety engineers, human factors professionals, interaction developers, or developers of user interfaces and cooperation strategies for future interactive and cooperative information and cyber-physical systems. Successful students will find job opportunities in many different industry areas in which interactive, cooperative and cyber-physical systems (CPS) are developed – from mobile application development to partially autonomous technical systems, from web services, automotive and aerospace systems to the development of medical devices.
+The three tracks of the Master’s degree programme give the students the opportunity to specialize in different aspects of the design and development of socio-technical systems. Students who choose to follow the Human Computer Interaction track focus on the design of interactive systems in the context of user-centred design processes and apply the relevant methods and principles to develop usable interactive systems. Students of the Embedded Brain-Computer Interaction track often go on to develop sensors and actuators for interactions with the human brain as well as assistance systems that use brain computer interactions. Graduates of the Systems Engineering track often work in research, development and safety analysis of cyber-physical systems and have successful careers in consulting, system analysis, design, and implementation in many technical and commercial sectors.
+This programme addresses the high demand for specialists both in the fundamental development of socio-technical and safety-critical systems as well as the application of these systems in specific domains. Many graduates also choose to continue their academic research in this up-and-coming discipline by completing a PhD, either in Germany or abroad.
+Bachelor’s degree or equivalent qualification in a subject closely related to Computing Science or another related discipline, in Business Information Systems, in Psychology or Cognitive Sciences, or another subject which is closely related to the content covered in the Master’s programme and special expert knowledge (see admission regulations).
+English language proficiency at level C1 of Common European Framework of Reference for Languages (CEFR).
+If applicable, evidence of relevant professional experience or internships
+If applicable, information regarding study-related experience abroad
+Completed form for the application documents
+For more details see Foreign language skills on this page.
+There are limited places available on this degree programme. It is only possible to apply to start the programme in the winter semester.
+Detailed application deadlines for the winter semester:
+Applications with a German university entrance qualification or degree: by 15 July
+Applications from the EU: by 15 July
+Applications from third countries (non-EU): by 30 April
+Overview application deadlines Master's programmes
+Accreditation certificate Engineering of Socio-Technical Systems (Master of Science)
+Note:
+The module handbooks are created in real time, so please be patient as this may take several seconds.
+Course
+Engineering of Socio-Technical Systems
+Degree programme flyer Engineering of Socio-Technical Systems M.Sc.
+Current courses for Engineering of Socio-Technical Systems (Master's Programme)
+All questions concerning your studies:
+Study and Career Counselling Service
+All questions concerning the subject/degree:
+Student representatives of Computing Science
+Academic counselling for Engineering of Socio-Technical Systems
+Duration:
+4 Semester
+Degree Award:
+Master of Science
+Language:
+English
+admission limited
+Special admission requirements
+(Changed: 19 Sep 2026)
+| Kurz-URL:Shortlink: https://uol.de/stud/610en
+Zum Seitananfang scrollen Scroll to the top of the page

@@ -1,0 +1,131 @@
+URL: https://www.uni-bielefeld.de/fakultaeten/wirtschaftswissenschaften/studium-und-lehre/studieninteressierte/master_ds/
+TITLE: Master Data Science - Bielefeld University
+
+Disable Autoplayskip to main contentskip to main menuskip to footer
+skip to main content
+skip breadcrumb navigation to main content
+Master Data Science
+© Universität Bielefeld
+Master's degree programme in Data Science (M.Sc.)
+Due to the constant increase in data volumes and data complexity, Data Science has created a new, interdisciplinary field of work that covers a wide range of aspects of data analysis, such as handling large amounts of data, statistical modelling, visualisation, pattern recognition with machine learning methods, but also ethical and legal questions. Data Scientists are urgently needed for many socially significant developments, e.g. in the areas of intelligent vehicles or housing, artificial intelligence or social media.
+The extraction of information from data is a genuinely interdisciplinary undertaking: The data collection and the communication of the results of the analyses require a link to the domain from which the data originate. The processing and analysis of the data requires an interaction of computer algorithms with statistical methods.
+This interaction is put into practice with the Master's programme established on the initiative of the Centre for Statistics (ZeSt) and the Faculty of Technology.
+The structure of the Master's programme (taught completely in English) in Data Science is described in detail below.
+Curriculum
+The four-semester Master's programme with 120 credits/ECTS (ECTS=European Credit Transfer and Accumulation System) is divided into a socket phase (Sockelphase) and a profile phase (Profilphase). In the profile phase there is one compulsory area and three elective areas.
+Socket phase 27 ECTS
+Due to the interdisciplinary orientation of the degree programme and the different competences of beginning students associated with it, the socket phase (variant 1 and variant 2) is made up of differently oriented introductory modules.
+Variant 1 is aimed at students with a Bachelor's degree in the field of economics and statistics or comparable courses of study. The following five modules are studied:
+Modul 24-M-FStat Foundations of Statistics
+Modul 39-Inf-ML Introduction to Machine Learning
+Modul 39-Inf-AOpt Applied Optimisation
+Modul 39-Inf-Pro Programming
+Modul 39-Inf-BDA Big Data Analytics
+Variant 2 is generally aimed at students with a bachelor's degree in computer science or comparable courses of study. The following four modules are studied:
+Modul 24-M-FStat Foundations of Statistics
+Modul 31-M-ISDA Introduction to Statistical Data Analysis
+Modul 39-Inf-AOpt Applied Optimisation
+Modul 31-M-Ectr1 Econometrics 1
+Profile phase 93 ECTS
+In the profile phase, all students deal intensively with basic statistical and information technology methods and deepen their knowledge in specific areas, depending on their interests, in order to acquire a versatile spectrum of methods of statistical and information technology methods and on the other hand to adopt the special perspectives of the individual application areas. The students write their master thesis on a topic in the field of data science.
+The profile phase is divided as follows for both variants:
+Compulsory part:
+Modul 31-SW-StiP Statistics in Practice
+Modul 31-SW-StaFo Topics in Contemporary Statistics
+Modul 39-Inf-ELSI Ethical, Legal and Social Impacts
+Modul 31-M-Thesis Master's Thesis
+Electives I: Modules in the amount of 10 LP from the module pool "Advanced Machine Learning" are to be studied. Depending on the semester of enrollment, students take the modules listed under a) or b).
+a) For all enrolled students, who enrolled on a Master’s programme in Data Science at Bielefeld University from the 2018/2019 winter semester up to and including the 2026 summer semester, and who complete this programme by the end of the 2028 summer semester, the subject-specific regulations (FsB) for the Master's programme in Data Science of 6 April 2018 in conjunction with the amendments of 1 July 2019, 2 March 2020, 21 March 2023 and 10 December 2024 continue to apply. This module pool applies:
+39-Inf-AKS Applications of Cognitive Systems (5 LP)
+39-M-Inf-ADA Advanced Data Analysis (5LP)
+39-M-Inf-VDM Advanced Data Mining (5 LP)
+39-M-Inf-VML Advanced Machine Learning (5 LP)
+39-M-Inf-VKIa Vertiefung Künstliche Intelligenz (5 LP)
+39-Inf-SNLP Statistical Natural Language Processing (10 LP)
+39-M-Inf-ABDA_a Advanced Big Data Analytics / Big Data Machine Learning (5 LP)
+b) The FsB from 3 April 2026 in connection with the correction dated 3 August 2026 come into force on 1 October 2026 and will automatically apply to all students enrolling from the winter semester 2026/27. This module pool applies:
+39-M-Inf-KIDL Advanced Artificial Intelligence & Deep Learning (Basis) (5 LP)
+39-M-Inf-KIDL-x Advanced Artificial Intelligence & Deep Learning (Focus) (10 LP)
+39-M-Inf-MLDM Advanced Machine Learning and Data Science (Basis) (5 LP)
+39-M-Inf-MLDM-x Advanced Machine Learning and Data Mining (Focus) (10 LP)
+39-Inf-NN Introduction to Neural Networks (5 LP)
+Electives II:
+Modul 31-M-ASM1 Advanced Statistical Methods I or 31-M-INT1 International Courses in Data Science 1* as well as
+Modul 31-M-ASM2 Advanced Statistical Methods II or 31-M-INT2 nternational Courses in Data Science 2*
+Electives III: Modules in the amount of 20 LP from the module pool "Wahlpflicht Informatik" have to be studied. Depending on the semester of enrollment, students take the modules listed under a) or b).
+a) For all enrolled students, who enrolled on a Master’s programme in Data Science at Bielefeld University from the 2018/2019 winter semester up to and including the 2026 summer semester, and who complete this programme by the end of the 2028 summer semester, the subject-specific regulations (FsB) for the Master's programme in Data Science of 6 April 2018 in conjunction with the amendments of 1 July 2019, 2 March 2020, 21 March 2023 and 10 December 2024 continue to apply. This module pool applies:
+39-Inf-AIAI Ambient Intelligence and Auditory Interfaces
+39-Inf-AKS Applications of Cognitive Systems
+39-Inf-CG Basics of Computer Graphics (already discontinued)
+39-Inf-DI Data Integration
+39-Inf-BDA Big Data Analytics**
+39-Inf-SNLP Statistical Natural Language Processing
+39-M-Inf-ADA Advanced Data Analysis
+39-M-Inf-ASE Autonomous Systems Engineering
+39-M-Inf-CA Computer Animation (already discontinued)
+39-M-Inf-DL Deep Learning
+39-M-Inf-GMP Geometric Modeling Based on Polygonal Meshes (already discontinued)
+39-M-Inf-RDM Research Data Management
+39-M-Inf-SSV Speech Signal Processing
+39-M-Inf-Semantic Web
+39-M-Inf-VHC_a Virtual Humans and Conversational Agents
+39-M-Inf-ADS Auditory Data Science
+39-Inf-BDS Biomedical Data Science for Modern Healthcare Technology
+39-M-Inf-MBP Multimodal Behavior Processing
+39-M-INT1 International Courses in Data Science 1*
+39-M-INT2 International Courses in Data Science 2*
+39-M-INT3 International Courses in Data Science 3*
+39-M-INT4 International Courses in Data Science 4*
+39-M-INT5 International Courses in Data Science 5*
+39-M-INT6 International Courses in Data Science 6*
+b) The FsB from 3 April 2026 in connection with the correction dated 3 August 2026 come into force on 1 October 2026 and will automatically apply to all students enrolling from the winter semester 2026/27. This module pool applies:
+39-Inf-WP-CIT Cognitive Interaction Technology (Basis) (5 LP)
+39-Inf-WP-DS Data Science (Basis) (5 LP)
+39-Inf-WP-DS-x Data Science (Focus) (10 LP)
+39-Inf-WP-IS Information Systems (Basis) (5 LP)
+39-Inf-WP-KI Artificial Intelligence (Basis) (5 LP)
+39-Inf-WP-MC Media Computing (Basis) (5 LP)
+39-M-Inf-DS Advanced Data Science (Basis) (5 LP)
+39-M-Inf-DS-x Advanced Data Science (Focus) (10 LP)
+39-M-INT1 International Courses in Data Science 1*
+39-M-INT2 International Courses in Data Science 2*
+39-M-INT3 International Courses in Data Science 3*
+39-M-INT4 International Courses in Data Science 4*
+39-M-INT5 International Courses in Data Science 5*
+39-M-INT6 International Courses in Data Science 6*
+Studies abroad can be easily integrated into the Master's programme in the Electives II and/or III by prior arrangement (e.g. through a Learning Agreement).
+* by prior arrangement for stays at foreign universities
+** Module 39-Inf-BDA is compulsory for students of variant 1 (Economic Sciences/Statistics), but optional for students of variant 2 (Computer Science).
+Current information on the Master's programme in Data Sciences can also be found on the university's information pages. There you will find the subject-specific regulations (here in English) and the courses offered in the eKVV under the heading 'Navigation'. Further information can be found in the module list.
+Requirements and application
+A prerequisite for the degree programme is participation in an application procedure, in which it is determined who is suitable for the degree programme and is granted approval. As part of this procedure, it is verified whether a first university degree qualifying for the master's program is available. This is verified by means of the degree certificate and the associated documents (transcript of records, diploma supplement, etc.). To what extent further approval requirements exist or the submission of further documents is intended (language requirements, elaboration with statements on qualification, exposé, project drafts or similar), please refer to the current subject-specific regulations (here in English) of the degree programme. There you will also find regulations on how the individual criteria are evaluated and weighted.
+The application procedure takes place via the online application portal of Bielefeld University. Course start is possible in the Winter semester. You must apply online for the Master's program (usually from June 1). This is generally possible until July 15. The Student Office will inform you about the current deadlines for applications.
+Comprehensive information on the application procedure can be found on the website of the Student Office.
+Detailed information on the approval and admission procedure for the Master Data Science and the required application documents can be found here.
+This Master's program is admission restricted (local NC). For the distribution of study places (approval procedure), the overall result of the above-mentioned approval procedure is generally used and a corresponding ranking is established. In exceptional cases, further criteria are taken into account. Information on the structure of the admission procedure can also be found in the subject-specific regulations.
+Master's application step by step
+More information on numerus clausus and admission restrictions
+Additional information for international students
+If you obtained your first university degree outside Germany, you can only apply for the Master's degree programme in Data Science with a preliminary review documentation (in German: Vorprüfungsdokumentation - VPD) from uni-assist e.V.! Please note that you can request the VPD throughout the year. If the portal for the desired semester (winter semester) is not yet open at uni-assist, please select the current semester.
+Important: Due to the long processing times, the VPD should be applied for at least eight weeks before our application deadline (15 July) so that the document is available by the application deadline at the latest. Applying for a VPD via the uni-assist online portal alone does not count as an application for a study place at Bielefeld University. After receiving the VPD, you must submit a new application online via the application portal at Bielefeld University within the application deadline and upload all the necessary application documents.
+Please note: The preliminary review documentation (VPD) must be issued explicitly for Bielefeld University and cannot be replaced by an examination report from uni-assist. After the application deadline (15 July for a start of studies in the winter semester), it is unfortunately no longer possible to submit the mandatory VPD document.
+Overall, only 7% of the places on the Master's degree programmes are reserved for applicants from countries that do not belong to the European Union.
+Literature recommendations for R and Python
+The following literature can be helpful in the preparation of your studies:
+Verzani, John. (2014). Using R for introductory statistics. The R Series (2. ed.). Boca Raton, Fla. [u.a.]: CRC Press, Taylor & Francis.
+Verzani, John. (2002). “simpleR– Using R for Introductory Statistics.” http://www.math.csi.cuny.edu/Statistics/R/simpleR.
+Toomey, Dan. (2017). Jupyter for data science. Birmingham ; Mumbai: Packt.
+VanderPlas, Jake. (2016). Python data science handbook (First edition.). Beijing; Boston; Farnham; Sebastopol; Tokyo: O’Reilly.
+Doctorate
+The doctorate is particularly relevant for students who are aiming for an academic career after graduating with a Master's degree. This serves the consistent further development of innovative research and is composed of an independent scientific research work (dissertation) and an oral examination (disputation). The Faculty of Economics offers optimal conditions for this.
+General information can be found at: www.uni-bielefeld.de/nachwuchs/promovieren
+Academic counselling
+Dr. Christoph Düsing
+Dr. Nina Westerheide
+E-​Mail: datascience@uni-​bielefeld.de
+Telefon: +49 521 106-​12143 or -3822
+Büro: CITEC 2-​044 or U3-148
+Office hours: by appointment
+back to top
+Close Gallery
+Close

@@ -1,0 +1,65 @@
+URL: https://cds.math.kit.edu/english/master.php
+TITLE: KIT - Computational and Data Science - Master (M.Sc.)
+
+Computational and Data Science
+Startpage
+Master (M.Sc.)
+Startseite
+Bachelor (B.Sc.)
+Master (M.Sc.)
+Doctorate
+Master (M.Sc.)
+Admissions / Rejections -- FAQ
+International Students
+Computational and Data Science (M.Sc.)
+Discover a truly interdisciplinary mathematics program that bridges mathematics and computer science with sciences, engineering, and economics — empowering you to tackle complex challenges across diverse fields.
+The Master's degree program Computational and Data Science (M.Sc.) will begin for the first time in October 2026. The main language of instruction is English.
+About the Program
+The new degree programs in Computational and Data Science (B.Sc./M.Sc.) at KIT offer a distinctive interdisciplinary profile. While Data Science focuses on recognizing patterns and developing models by analyzing data, Computational Science uses existing models to simulate data and make predictions. Students take courses in Mathematics for Computational and Data Science and Computer Science as well as in an application discipline within the field of Sciences, Engineering, or Economics – the so-called “SEE subject.” This interdisciplinary structure equips graduates to combine mathematical models and their numerical simulation with methods from machine learning and artificial intelligence, enabling them to independently solve complex application problems using computational approaches.
+In the SEE subject, students choose one of eight different profiles, each offered by participating KIT departments. The available profiles are:
+Business and Economics (KIT Department of Economics and Management)
+Computational Chemistry (KIT Department of Chemistry and Biosciences) -- Please note: The SEE-profile Computational Chemistry is taught in German only. It cannot be studied in English.
+Computational Mechanics and Thermodynamics (KIT Department of Mechanical Engineering together with the KIT Department of Civil Engineering, Geo- and Environmental Sciences)
+Computational Physics (KIT Department of Physics)
+Computational Earth System Sciences (KIT Department of Civil Engineering, Geo and Environmental Sciences together with the KIT Department of Physics)
+Electrical Engineering and Information Technology (KIT Department of Electrical Engineering and Information Technology)
+Process Engineering (KIT Department of Chemical and Process Engineering)
+Robotics and Autonomous Systems (KIT Department of Informatics)
+Students can choose to deepen their expertise in Mathematics for CDS, Computer Science, or their selected Applied Discipline/ SEE-Profile. This structure offers a wide range of individual choices within the program.
+Important: When planning your individual choices within the program, please note that the subjects Mathematics for Computational and Data Science, Computer Science, your SEE profile and the chosen Specialization must add up to 80 Credits.
+Admission Requirements and Applications
+Early Announcement: Introduction of GRE/ GATE for Future Application Cycles
+Starting with upcoming application cycles, applicants will be required to submit either a GRE test (VR at least 151 points; QR at least 164 points, AW at least 4 Points) or a GATE score card (in Mathematics, Data Science and Artificial Intelligence, or Computer Science).
+Exceptions to this requirement will apply to applicants who have completed their university degree in a country that is a member of the European Higher Education Area (EHEA) and/or is a signatory to the Lisbon Convention. All other applicants must provide the test score as part of their application in order to participate in the admissions process.
+The legal framework governing these changes will officially come into effect and be published shortly before the start of the next application period. This note is to inform applicants early and to allow for sufficient preparation time.
+Academic Requirements
+Applicants are expected to have in-depth interdisciplinary academic knowledge obtained in a Bachelor's degree program as a prerequisite for admission. Previous knowledge is mandatory in in all subjects taught in the Bachelor's degree program Computational and Data Science at KIT. The mandatory courses in the Computational and Data Science Bachelor’s program at KIT can be viewed as a rough guide to what is expected.
+The admission regulations specify the following requirements:
+Bachelor’s Degree
+A completed bachelor’s degree (or at least an equivalent degree) in Computational and Data Science, Mathematics, Computer Science (or a program with substantially the same content), or in a bachelor’s program in the fields of Economics, Chemistry, Earth System Sciences, Mechanical Engineering, Physics, Electrical and Information Engineering, Chemical Engineering, Process Engineering, or Robotics at a university, university of applied sciences, or cooperative state university in Germany or at a foreign university. Studies must have been completed within a regular study period of at least three years and with a minimum of 180 credits.
+Bachelor’s Thesis (6 ECTS Credits)
+A bachelor's thesis (or a comparable independent academic paper) worth at least 6 credits.
+Minimum knowledge and achievements in
+Fundamentals of Mathematics, "Mathematische Grundstrukturen" in German (20 ECTS Credits)
+Prior knowledge of fundamental mathematical structures, i.e. in linear algebra and analysis or higher mathematics in the amount of at least 20 credits.
+Additional subject knowledge totaling at least 64 ECTS credits (consisting of 40 credits from one area plus at least 12 credits from each of the two remaining areas):
+Applied Mathematics or Mathematics for Computational and Data Science
+Computer Science
+The Natural Sciences, Engineering or Economics in one of the profiles of Business and Economics, Computational Chemistry, Computational Earth System Sciences, Computational Mechanics and Thermodynamics, Computational Physics, Electrical Engineering and Information Technology, Process engineering, or Robotics and Autonomous systems.
+Please note: Only the requirements listed are relevant for admission. Other aspects, such as previous job experiences or personal references / letters of recommendation, are NOT considered at all.
+In the application portal, please submit only those documents referring to the required academic achievements listed above.
+Applications
+Applications can be submitted for winter or summer term. The Master’s program in Computational and Data Science has no limited capacity.
+Application deadlines are as follows:
+German and EU nationals: September 30 (for winter term) and March 31 (for summer term)
+Applicants from outside the EU: July 15 (for winter term) and January 15 (for summer term).
+Applications are submitted via the KIT online portal.
+General information on applying for a degree program at KIT can be found in the FAQ.
+Further Information
+All details are specified in the Statutes:
+The Statutes on Admission are available in German (i.e. the legally binding version) and in English (non-binding, for information purposes).
+So are the Studies and Examination Regulations (German / English).
+A Study Plan (included in the module handbook) and Module Handbook are now available (and will be updated once more shortly after the beginning of lectures).
+Information on the most frequent reasons for rejections.
+Information for international students concerened about visa related delayed arrivals.
+A warm welcome to out first students in the CDS Master's Program! Especially if you're new to KIT, please check out our compilation of resources and services relevant for your start. Note the details concerning the profile Computational Earth Systems Sciences (obligatory course in your first semester, don't miss the first session; details enclosed).

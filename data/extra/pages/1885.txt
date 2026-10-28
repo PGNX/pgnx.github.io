@@ -1,0 +1,80 @@
+URL: https://www.hs-schmalkalden.de/en/studying/programmes/master-degree-courses/applied-computer-science-msc
+TITLE: Applied Computer Science - internationales Master-Studium
+
+Skip to content Skip to mainnavigation Skip to footer
+HomeStudyingProgrammesMaster degree coursesApplied Computer Science (M.Sc.)
+A new class of IT applications emerged gaining immense attention and substantially changed the social perception of Computer Science significantly. In the same time, new challenges arose from this class of smart systems altering methods for design, development and operation of IT systems in a fundamental way.
+The new challenges are deeply anchored with the main characteristics of these smart systems and applications:
+Mobility: Mobile systems are moving while providing or consuming services. Generally mobile users take mobile devices with them in order to utilize wireless communication services. Mobile Applications exhibit specific behaviors and are constrained in ways that were unknown in traditional IT systems. They have to be developed for economic use of scarce resources and at the same time to adapt gracefully to context changes.
+Distribution: Modern IT systems tend to be highly distributed. The adoption of mobile devices and wireless communication technology makes it possible to access services located globally. In consequence, the resulting complexity has to be met with adequate concepts, methods, and technologies.
+Contextual dependence: Due to mobility and rapidly changing environments applications have to adapt themselves to situational changes quickly. Smart applications are expected to deliver meaningful and adapted variants of their services in different type of environment (context awareness).
+Study form
+Full time
+Study duration
+4 semester
+Teaching language:
+English
+Graduation
+Master of Science
+ECTS
+120
+Study start
+In winter term
+Application period
+1st of February - 15th of April
+Brochure "Applied Computer Science (M.Sc.)"
+Module description "Applied Computer Science (M.Sc.)" (English)
+Module description "Applied Computer Science (M.Sc.)" (Old German version - for reference)
+Additional modules
+M.Sc. ACS | Study regulations |18.03.2025
+M.Sc. ACS | Study regulations | 22.12.2022
+M.Sc. ACS | Study regulations | 22.06.2022
+M.Sc. ACS | Study regulations | 05.11.2019
+M.Sc. ACS | Study regulations | 12.12.2018
+M.Sc. ACS | Study regulations | 11.01.2018
+M.Sc. ACS | Examination Regulations | 22.12.2022
+M.Sc. ACS | Examination Regulations | 19.01.2022
+M.Sc. ACS | Examination Regulations | 24.03.2020
+M.Sc. ACS | Examination Regulations | 14.11.2018
+M.Sc. ACS | Examination Regulations | 11.01.2018
+M.Sc. ACS | Examination Regulations | 26.04.2017
+Admission Requirements
+An outstanding academic degree in the fields of informatics or related areas (Bachelor degree, German "Diplom"), or equivalent which should have in general a grade better than 2.5.
+Proof of English language ability: TOEFL IBT 86 or better, or IELTS 6.5 or better. Medium of instruction during undergraduate studies is not sufficient for admission. English native speakers are exempt from this.
+Application for Admission
+To apply please fill out the following application form:
+application form
+All required documents:
+Your curriculum vitae
+Letter of motivation that states the study interest and proves practical skills in the field of software development, advanced knowledge in an object-oriented programming language (e.g. Java) as well as the obvious interest in topical questions of modern software development (max. 1 page)
+A copy of your birth certificate or a copy of your passport or identity card
+A copy of the university entrance qualification (highest school leaving certificate)
+Officially notarized copy (copies) of your university degree(s) and certified translation(s) into English or German
+One passport photo (will be requested in a later step)
+English language certificate as outlined above.
+Please note that applicants with degrees from India, Vietnam and China must also enclose a valid APS certificate with their application. Be sure to apply for your APS certificate in your home country in good time.
+Central Topics of Applied Computer Science
+Distributed and Mobile Systems. Central Topics include: Concepts and methods for the development of distributed and mobile systems, Software engineering, programming of mobile applications and communication technologies, Advanced concepts for the engineering of distributed systems as well as modern integration technologies and middleware platforms.
+Knowledge Engineering and Data Science. For knowledge engineering and data science the autonomous interactions to several kinds of environments providing data is of basic importance. The courses provides build up a deep knowledge, from basic to advanced topics as well as practical abilities in data acquisition, digital signal processing with emphasis on time series processing and prediction, feature extraction methodologies and machine learning technologies.
+Software Engineering. Central Topics include: Interdisciplinary and holistic techniques for the development of smart systems. This affects design, development, testing, and operation of these applications.
+Communication Technologies and Security: Distributed and mobile systems are highly communication intensive. A solid knowledge of underlying communication technologies is a prerequisite for the development of these systems and their security.
+Modules of Applied Computer Science
+Sebastian, 22 Jahre, Dermbach, Studiengang: Applied Computer Science
+"Studying at University of Applied Sciences Schmalkalden is pleasant and varied. In addition to theoretical content, there is a wide range of practical relevance."
+Contact Information
+Schmalkalden University of Applied Sciences
+Blechhammer
+98574 Schmalkalden
+Germany
+Do not hesitate to contact us in case of any questions. The International Office will forward your email to the responsible person at SUAS:
+International Office
+Team MACS
+E-Mail schreiben
+👋 Hello!
+I’m here to answer your questions about studying
+HS Schmalkalden Chatbot
+👋 Hello!
+This is a chatbot designed to answer questions from prospective students.
+By using the chatbot, you agree that the data you enter (e.g., questions and answers) will be transmitted to an external service provider and processed there. Data processing is carried out exclusively for the purpose of providing the chatbot function. You can object to data processing at any time. For more information, please see our privacy policy.
+Accept external content
+Close bot

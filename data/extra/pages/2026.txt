@@ -1,0 +1,8 @@
+URL: https://www.fh-aachen.de/en/studies/degree-programmes/information-systems-msc
+TITLE: 
+
+Checking Connection Security
+What happened?
+Our systems will need to verify the security of your connection before we can proceed.
+What can I do?
+Follow the instructions above.

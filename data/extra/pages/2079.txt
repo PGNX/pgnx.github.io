@@ -1,0 +1,147 @@
+URL: https://www.uni-hildesheim.de/en/studium/studieninteressierte/studiengaenge/masterstudium/software-engineering-msc/
+TITLE: Software Engineering (M.Sc.) - University of Hildesheim
+
+Software Engineering (M.Sc.)
+Internationaler Masterstudiengang
+Before your Studies
+During Studies
+After your Studies
+Degree: Master of Science (M.Sc.)
+Standard duration of study: 4 semesters
+Start of program: Summer and winter semesters
+Mode of Study: full-time study
+Language of instruction: English
+The Master’s degree programme in Software Engineering (M.Sc.) provides advanced knowledge for the development and design of complex information systems as well as the processing of large amounts of data. The focus is on methodological and algorithmic competences that reflect the current state of research and enable the adaptation of existing models to different application contexts.
+A wide range of electives allows the program to be flexibly tailored to individual interests and career goals. The Degree Programme imparts core competencies at both the technical and methodological levels. These enable students to cover the entire spectrum: from highly technical and programming-related aspects through advanced analysis and design techniques to methods and processes for coordinating and implementing large-scale software development projects. This is complemented by a team-oriented work style to continuously develop social skills.
+The program builds on existing programming knowledge and aims to bring students up to an engineering level.
+Before starting college
+Admission Requirements
+Bachelor’s degree in Computer Science, information technology, computer engineering, mathematics, or an equivalent degree in a related Degree Programme
+Strong analytical, creative, and logical competences, as well as good programming competences
+Sufficient English proficiency is required for the Degree Programme. This can be demonstrated by a certificate (TOEFL Computer-based Test – min. 61 points, IELTS – min. 6, or an equivalent certificate) or a German high school diploma. If you previously studied in English, a document from the respective university is required certifying that the program was conducted entirely in English. This document must be stamped and signed by the university.
+Further information on admission requirements can be found at the following link (electronic bulletin): Admission and Enrollment Regulations
+Application and Admission
+Application for Admission
+The Software Engineering (M.Sc.) program currently has limited enrollment, which means that you must apply for admission. Applications and admissions are processed exclusively through the Faculty 4 application portal.
+Admission Criteria
+Admission is based on the following criteria:
+Overall Grade of your bachelor’s degree (53%),
+Number and grades of Bachelor’s courses in the field of Software Engineering (including mathematics and programming, 35%),
+Previous research activities in the field of Software Engineering (6%)
+previous practical experience in the field of software engineering (6%)
+Application Documents
+The following documents are required to apply for admission to the international Master’s degree programme in Software Engineering:
+Copy of your Bachelor’s, Master’s, or diploma certificate, including a transcript of grades (all documents must be in English or accompanied by an English translation)
+Language certificate for English (or equivalent)
+Resume
+If the Bachelor’s degree was earned in one of the following countries, please upload the APS certificate in one of the sections for English language certificates (we do not yet have a separate section for the APS certificate).
+China (excluding Hong Kong and Macau)
+Vietnam
+Mongolia
+India
+Registration
+Once you have received your admission letter, there are just a few steps left to complete your enrollment. The letter contains all the important information, including the enrollment deadline, a list of required documents, bank account details for paying the semester tuition, and contact information for any questions you may have. Important: You must include your application number in all correspondence.
+Further information on enrollment and the enrollment process
+Fees and Costs
+There are no tuition fees at German universities; only the so-called social contributions are paid as a semester fee. For more information, please visit the following link in our FAQ section: FAQ – Frequently Asked Questions
+Transferring to a university in Hildesheim
+Applications must be submitted via a formal application for admission. You can find the application form and further information at the following link under the "Changing Universities" section:
+Change of Major, Change of University & Second Degree
+Consulting and Contacts
+CampusCenter
+The CampusCenter is the first point of contact for students and prospective students regarding all aspects of the university and academic life. The student staff at the CampusCenter can be found on the main campus of the University of Hildesheim in the Forum, 1st floor.
+Central Student Advisory Service (ZSB)
+The Central Student Advisory Service offers a wide range of information and events related to Degree Programs as well as academic guidance.
+Counseling Services Offered by the Central Student Counseling Service (ZSB)
+Events offered by the Central Student Advisory Service (ZSB)
+Study Information Portal (SIP)
+Academic Advising and Credit Transfer Assistance:
+Specific questions regarding:
+the structure and content of the program will be answered by the Academic Advising Office,
+and the Credit Transfer Advisory Service will answer your questions regarding credit transfer,
+Academic Advising
+Studying and Living in Hildesheim
+There are plenty of good reasons to choose to study in Hildesheim—here are four of them:
+Located in the heart of Lower Saxony, the university is a manageable size with a current enrollment of 8,000 students. This allows for a personal learning environment.
+Hildesheim offers a rich cultural scene that is recognized even beyond the region. Students can access these cultural offerings at a particularly affordable price through the Culture Ticket.
+With over 170 international partnerships, the University of Hildesheim offers you a view beyond Hildesheim’s borders.
+The University of Hildesheim supports you throughout all phases of your studies with a wide range of services and counseling options. When choosing a program, take advantage of our trial study program “Studium Live,” organized by the student counseling service Anker-Peers, or the University Information Day. At the start of your studies, you’ll begin the orientation week together with all first-year students.
+For more information, please visit the following link: Campus Life
+Our Campus and Video Galleries
+© Universität Hildesheim / Zentrale Studienberatung
+©
+Campus Gallery
+The courses in the Software Engineering Master’s degree programme are held at the Samelson Campus and the main campus. The main dining hall, the library, and the main lecture hall are located just a few minutes' walk away on the main campus.
+© Universität Hildesheim / Zentrale Studienberatung
+©
+What students say
+Course Content
+The infographics compare the various course topics. The larger the circle, the more extensively that topic is covered in the program.
+© Universität Hildesheim / Zentrale Studienberatung
+©
+During Studies
+Course Structure and Course Catalogue
+The two-year Master's degree course in Software Engineering comprises four semesters with a total of 120 credit points (CP). In terms of content, the course is divided into a methodological core area (65%), an application area (10%) and a Master's thesis (25%). The course structure varies depending on whether the course begins in the summer or winter term. Please note: "Method Specialization" and "Application" are placeholders where you can choose from the available course catalogue according to your interests.
+Software Engineering/Methodology | min. 48 CP
+(the three "Method Specialization" units can be selected individually according to the course catalogue | 6 CP each)
+Software Engineering/Practice | min. 15 CP
+(two exercises in the lab | 9 CP in total, one group project | 6 CP)
+Software Engineering/Research | min. 15 CP
+(one lab exercise | 3 CP, two projects | 12 CP in total)
+"Application" | 12 CP
+(the two "Application" units can be selected individually according to the course catalogue | 6 CP each)
+Final examination | 30 CP
+(Master's thesis 27 CP and final colloquium 3 CP)
+The Master's Examination Regulations and the Course Catalogue Software Engineering M.Sc. provide information on the exact requirements and the courses that can currently be selected.
+Research Topics and Fields of Focus
+In the elective area, students can choose from courses in computer science, business administration, information science, computer linguistics, and other areas explicitly designated as electives in the course catalogue, as well as modules explicitly designated as soft skills in the course catalogue. This allows for specialisation in the following areas, among others:
+Machine Learning
+Business Administration and Information Systems
+Information Retrieval and Information Sciences
+Natural Language Processing
+Environmental Sciences
+Psychology
+The Master's Examination Regulations and the Course Catalogue Software Engineering M.Sc. provide information on the exact requirements and the courses that can currently be selected.
+International and Stays Abroad
+Study or internship experiences abroad offer a valuable addition to your studies and can be flexibly integrated into your course of study. The European Union's ERASMUS program promotes Europe-wide student exchanges. There are also partnerships with other international universities that enable students to spend time abroad. It is also possible to organize a study place abroad independently.
+Detailed information can be found on the website of Faculty 4 or at the International Office.
+Faculty 4: Further Information
+The Master's degree program in Information Systems is part of Faculty 4: Mathematics, Natural Sciences, Economics and Computer Science. This department comprises a total of seven institutes, which are mainly located on the Samelson Campus, within walking distance of the main campus.
+Further information can be found on the website for prospective students and on the website about Faculty 4 .
+Related Degree Programs
+Does the international Master's in Software Engineering sound exciting, but isn't quite the right fit? The international Master's in Data Analytics offers an attractive alternative - depending on your individual interests and career goals:
+Data Analytics: the focus is on machine learning, big data and analysis technologies as well as the modeling and analysis of complex systems. The course is aimed in particular at people who want to expand their analytical skills and acquire knowledge of current analysis technologies in order to convert big data into meaningful business information. The course provides in-depth methodological and algorithmic knowledge in line with the current state of research. Graduates are able to apply their knowledge of machine learning in selected interdisciplinary application areas from business (e.g. marketing, logistics) and science (e.g. computer science, environmental sciences).
+Program Structure
+© Universität Hildesheim / Zentrale Studienberatung
+©
+After your Studies
+Career prospects
+The Master's degree in Software Engineering qualifies students for the following - exemplary - professional fields:
+Software Architect
+Software Development Manager
+Requirements Engineer
+Software Developer
+Product Manager
+Consultant for Software Development
+Our graduates work in these areas in a wide variety of application fields and conduct research in the field of Software Engineering on challenging topics.
+Scientific Perspective and Doctoral Degree
+Scientific work and the teaching of the underlying skills are an integral part of the Master's degree program. Students have the opportunity to participate in research projects during their studies, so that a successful career in research and science can already be embarked upon during the Master's degree.
+A follow-up doctoral degree at the Institute of Computer Science offers a wide range of opportunities for independent scientific work and innovative research.
+Anyone considering a doctoral degree will find excellent conditions and individual support at Faculty 4 of the University of Hildesheim.
+Detailed information on doctoral studies, the application process and advice and support services are available on the websites of Faculty 4 and the Graduate Center of the University of Hildesheim:
+Graduate Center University of Hildesheim
+Doctoral Degree at Faculty 4
+Goal Setting and Support
+The Career Service of the Central Student Advisory Service provides support on the path from studying to working. It's worth taking a look at the job exchange: job advertisements for students and graduates are published here:
+Career Service ZSB job board
+Frequently Asked Questions
+FAQ
+Here is a list of frequently asked questions. We recommend that you go through them.
+Click here for the FAQ list
+First point of contact: CampusCenter
+CampusCenter
+Universitätsplatz 1, 31141 Hildesheim
+05121 883 55555
+Homepage
+Write Message
+Academic Advising: Software Engineering (M.Sc.)

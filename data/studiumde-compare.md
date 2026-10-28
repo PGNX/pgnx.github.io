@@ -1,0 +1,446 @@
+# studiumde CSV vs PGNX site
+
+- CSV programmes: 435 (all Master's, English)
+- Found on PGNX site: 307
+- Not found on PGNX site: 128 (of which 33 at private universities DAAD rarely lists)
+
+## NOT FOUND
+
+- Electrical engineering and information technology | Anhalt University of Applied Sciences | Köthen/Bernburg/Dessau-Roßlau | https://www.fh-swf.de/en/studienangebot/studiengaenge/growth_hacking_und_digitales_marketing_m_a_/index.php
+- Information and Communications Engineering | Berlin University of Applied Sciences and Technology (HTW Berlin) | Berlin | https://www.fh-westkueste.de/en/study/degree-programmes/international-business-ma/
+- Data Science | Bielefeld University | Bielefeld | https://www.uni-bielefeld.de/fakultaeten/wirtschaftswissenschaften/studium-und-lehre/studieninteressierte/master_ds/
+- International Business Management | Bielefeld University of Applied Sciences and Arts | Bielefeld | https://www.hsbi.de/en/study/degree-programs/international-business-master
+- Interactive Media | Brandenburg University of Applied Sciences | Brandenburg an der Havel | https://informatik.th-brandenburg.de/studium/masterstudiengaenge/interactive-media/
+- Mechanical Engineering | Brandenburg University of Applied Sciences | Brandenburg an der Havel | https://www.bwl.uni-mannheim.de/en/programs/master-in-management/
+- Business Psychology & Management | CBS International Business School | Cologne/Brühl/Neuss/Mainz | https://www.cbs.de/en/study-programmes/master/business-management
+- Digital Marketing | CBS International Business School | Cologne/Brühl/Neuss/Mainz | https://www.cbs.de/en/study-programmes/master/digital-business
+- Global Finance | CBS International Business School | Cologne/Brühl/Neuss/Mainz | https://www.cbs.de/en/study-programmes/master/general-management/
+- International Management | CBS International Business School | Cologne/Brühl/Neuss/Mainz | https://www.cbs.de/en/study-programmes/master/international-business/
+- Engineering of Socio-Technical Systems | Carl von Ossietzky University of Oldenburg | Oldenburg | https://uol.de/en/course-of-study/engineering-socio-technical-systems-master-610
+- International Master of Business Administration | City University of Applied Sciences Bremen | Bremen | https://www.hs-bremen.de/en/study/degree-programme/international-business-master/
+- Embedded Systems Engineering | Dortmund University of Applied Sciences and Arts | Dortmund | https://www.tf.uni-freiburg.de/en/study-programs/embedded-systems-engineering/m-sc-embedded-systems-engineering
+- Sustainable Energy - Specialisation in Development | Europa-Universität Flensburg | Flensburg | 
+- Information Systems | FH Aachen | Aachen | https://www.fh-aachen.de/en/studies/degree-programmes/information-systems-msc
+- Artificial Intelligence and Data Science for Digital Business Management | FH Furtwangen | Furtwangen | https://www.hs-furtwangen.de/
+- Digital Business and Innovation Management | FH Münster | Münster | https://en.fh-muenster.de/studies/degree-programmes/data-science-master.php
+- Leadership and Psychology | Frankfurt University of Applied Sciences | Frankfurt am Main | https://www.frankfurt-university.de/en/studies/master-programs/international-business-ma/
+- Data Science | Friedrich-Alexander University Erlangen-Nürnberg | Erlangen | https://www.fau.eu/degree-program/data-science-m-sc/
+- Digital Business & AI | Friedrich-Alexander University Erlangen-Nürnberg | Erlangen | https://www.fau.eu/education/degree-programmes/culture-language-media-ma/
+- Global Business Management | Friedrich-Alexander University Erlangen-Nürnberg | Erlangen | https://www.fau.eu/education/study-programmes/masters-degree-programmes/finance-msc/
+- Media Engineering and Technology | GISMA Business School | Potsdam | https://giu-berlin.de/ProgramDetailMETMaster.aspx
+- Human Technology in Sports and Medicine | German Sport University Cologne | Cologne | https://www.dshs-koeln.de/en/studying/before-starting-university/masters-degree-programme/human-technology-in-sports-and-medicine
+- Cyber Security | HDBW University of Applied Sciences | Munich | https://www.hdbw-hochschule.com/master/cyber-security
+- Digital Business Modelling and Entrepreneurship | HDBW University of Applied Sciences | Munich | https://www.hdbw-hochschule.de/studium/master/design-enterprise/
+- Digital Factory and Operational Excellence | HDBW University of Applied Sciences | Munich | https://www.hdbw-hochschule.de/studium/master/digital-business/
+- Information and Communications Engineering | Hamburg University of Applied Sciences (HAW Hamburg) | Hamburg | https://www.haw-hamburg.de/en/master-information-and-communications-engineering/
+- Microelectronic Systems | Hamburg University of Applied Sciences (HAW Hamburg) | Hamburg | 
+- Computational Science and Engineering | Hamburg University of Technology | Hamburg | https://www.tuhh.de/tuhh/studium/vor-dem-studium/studienangebot/international-study-programs/computational-engineering
+- Computer Science | Hamburg University of Technology | Hamburg | https://www.tuhh.de/tuhh/en/studying/before-studying/degree-courses/masters-programs
+- electrical and information technology | Hamburg University of Technology | Hamburg | 
+- Data and Computer Science | Heidelberg University | Heidelberg | https://www.uni-heidelberg.de/en/study/all-subjects/computer-science/data-and-computer-science-master
+- International Master of Technical Innovation | Heilbronn University of Applied Sciences | Heilbronn (and other campuses) | https://www.hs-osnabrueck.de/en/study/study-offerings/master/management-ma/
+- Artificial Intelligence | IU International University of Applied Sciences | Erfurt (and many campuses) | https://www.iu.de/en/master/artificial-intelligence/
+- Computer Science | IU International University of Applied Sciences | Erfurt (and many campuses) | https://www.iu.de/en/master/informatik/
+- Data Science | IU International University of Applied Sciences | Erfurt (and many campuses) | https://www.iu.de/en/master/data-science/
+- DevOps and Cloud Computing | IU International University of Applied Sciences | Erfurt (and many campuses) | https://www.iu.de/en/master/devops-and-cloud-computing/
+- Digital Product Management | IU International University of Applied Sciences | Erfurt (and many campuses) | https://www.iu.org/master/digital-business-management/
+- Growth Hacking | IU International University of Applied Sciences | Erfurt (and many campuses) | https://www.iu.org/master/global-business/
+- Growth Hacking for Entrepreneurs | IU International University of Applied Sciences | Erfurt (and many campuses) | https://www.iu.org/master/global-finance/
+- Management | IU International University of Applied Sciences | Erfurt (and many campuses) | https://www.iu.org/master/logistics-international-management/
+- Global Management | Ingolstadt University of Applied Sciences (THI) | Ingolstadt | https://www.thi.de/en/studies/degree-programmes/general-management-master/
+- Non-Destructive Testing | Kaiserslautern University of Applied Sciences | Kaiserslautern (and other campuses) | 
+- Biomedical Engineering | Karlsruhe Institute of Technology (KIT) | Karlsruhe | https://www.hwr-berlin.de/en/study/degree-programmes/detail/66-business-development/
+- Computational and Data Science | Karlsruhe Institute of Technology (KIT) | Karlsruhe | https://cds.math.kit.edu/english/master.php
+- Computer Science | Karlsruhe Institute of Technology (KIT) | Karlsruhe | https://www.informatik.kit.edu/english/mastercomputerscience.php
+- Financial Engineering | Karlsruhe Institute of Technology (KIT) | Karlsruhe | https://www.hectorschool.kit.edu/master-financial-engineering.php
+- Geomatics | Karlsruhe University of Applied Sciences | Karlsruhe | https://www.h-ka.de/en/geodata-science/geomatics
+- Sustainable Transportation and Electric Power Systems (STEPS) | Kiel University | Kiel | 
+- Industrial Engineering continuing education | Kiel University of Applied Sciences | Kiel | https://www.fh-kiel.de/en/study/degree-programmes/master/global-supply-chain-management/
+- IT Law and Intellectual Property Law | Leibniz University Hannover | Hannover | https://www.goethe-university-frankfurt.de/en/master-programs/management
+- International Business Administration (IBA) | Ludwigshafen University of Applied Sciences | Ludwigshafen | https://www.hwg-lu.de/en/study/degree-programs/international-business-management
+- Business Management EN | Mannheim University of Applied Management Studies (FHM) | Mannheim | https://www.fhm.de/studiengaenge/master/business-intelligence-data-analytics
+- Biodiversity Sciences | Martin Luther University of Halle-Wittenberg | Halle | https://studienangebot.uni-halle.de/biodiversity-sciences-master-120
+- International Area Studies - Global Change Geography | Martin Luther University of Halle-Wittenberg | Halle | https://studienangebot.uni-halle.de/international-area-studies-global-change-geography-master-120
+- Information Technology â€“ Data Science (MSc) | Mediadesign University of Applied Sciences | Berlin (and other campuses) | https://www.mediadesign.de/en/master/information-technology
+- Artificial Intelligence & Robotics | Nuremberg Institute of Technology Georg Simon Ohm | Nuremberg | https://www.utn.de/en/study/ai-robotics-en/
+- Advanced Semiconductor Nanotechnologies | Otto von Guericke University Magdeburg | Magdeburg | https://www.th-owl.de/en/study/degree-programs/applied-entrepreneurship-master/
+- Electrical and Electronic Engineering and Information Engineering | RWTH Aachen University | Aachen | https://www.hs-schmalkalden.de/en/studying/degree-programs/business-and-economics-ma/entrepreneurship-ma.html
+- Simulation Sciences | RWTH Aachen University | Aachen | https://www.mss.rwth-aachen.de/cms/mss/studium/studium/masterstudiengaenge/~bfaych/sisc-masterprogramm/?lidx=1
+- AI and Advanced Information Technologies | RheinMain University of Applied Sciences | Wiesbaden (and other campuses) | https://www.ue-germany.com/programmes/master/asset-management
+- European Master's degree in Embedded Computing Systems (EMECS) | Rhineland-Palatinate TU Kaiserslautern-Landau | Kaiserslautern | https://emecs.eit.uni-kl.de/
+- Social Informatics | Rhineland-Palatinate TU Kaiserslautern-Landau | Kaiserslautern | https://www.cs.rptu.de/en/studium/studiengaenge/bm-si/
+- Health Informatics | SRH University of Applied Sciences | Heidelberg (and other campuses) | https://www.srh-university.de/en/master/health-informatics/e/
+- International Management | SRH University of Applied Sciences | Heidelberg (and other campuses) | https://www.srh-hochschule-heidelberg.de/en/master/international-business/
+- Language and Communication Technologies M.Sc./M.A. | Saarland University | Saarbrücken | https://www.uni-saarland.de/en/study/programmes/master/lct.html
+- Quantum Engineering | Saarland University | Saarbrücken | 
+- Leading Business Transformation | Saarland University of Applied Sciences (htw saar) | Saarbrücken | https://www.htwsaar.de/en/studies/degree-programs/internet-of-things-master
+- Applied Computer Science | Schmalkalden University of Applied Sciences | Schmalkalden | https://www.hs-schmalkalden.de/en/studying/programmes/master-degree-courses/applied-computer-science-msc
+- Finance | Schmalkalden University of Applied Sciences | Schmalkalden | https://www.hs-schmalkalden.de/en/studying/degree-programs/business-and-economics-ma/entrepreneurship-ma.html
+- Mechatronics and Robotics | Schmalkalden University of Applied Sciences | Schmalkalden | https://www.bwl.uni-mannheim.de/en/programs/master-in-management/
+- Applied Entrepreneurship | TH OWL ? University of Applied Sciences and Arts | Lemgo/Detmold/Höxter | https://www.th-owl.de/en/llg/study/degree-programs/detail/applied-entrepreneurship/
+- International Master of Research and Innovation | Technical University of Applied Sciences Augsburg | Augsburg | https://www.tha.de/en/university/faculties/school-of-business/academic-programs/international-master-of-research-and-innovation/
+- Communication Systems and Networks | Technische Hochschule Köln (Cologne University of Applied Sciences) | Cologne (and other campuses) | https://www.cbs.de/en/study-programmes/master/business-management
+- Geodesy and Geoinformation Science | Technische Universität Berlin | Berlin | https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/geodesy-and-geoinformation-science-m-sc
+- Innovation management, entrepreneurship and sustainability (IMES) | Technische Universität Berlin | Berlin | https://www.tu.berlin/en/studying/degree-programs/industrial-engineering-msc/
+- Intelligent Manufacturing | Technische Universität Clausthal | Clausthal-Zellerfeld | https://uni-tuebingen.de/en/study/finding-a-course/management-master/
+- Computer Science | Technische Universität Darmstadt | Darmstadt | https://www.tu-darmstadt.de/studieren/studieninteressierte/studienangebot_studiengaenge/studiengang_334656.en.jsp
+- Entrepreneurship and Innovation Management | Technische Universität Darmstadt | Darmstadt | https://www.tu-darmstadt.de/studieren/studieninteressierte/studienangebot_studiengaenge/studiengang_314816.en.jsp
+- IT Security | Technische Universität Darmstadt | Darmstadt | https://www.informatik.tu-darmstadt.de/studium_fb20/im_studium/studiengaenge_liste/itsecurity_msc.en.jsp
+- Logistics and supply chain management | Technische Universität Darmstadt | Darmstadt | https://www.tu-darmstadt.de/studieren/studieninteressierte/studienangebot_studiengaenge/studiengang_255424.en.jsp
+- Data Science in Sports and Health | Technische Universität Dortmund | Dortmund | https://sport.kmst.tu-dortmund.de/en/studies/degree-programs/master-data-science-in-sports-and-health/
+- Process Systems Engineering | Technische Universität Dortmund | Dortmund | 
+- Cartography | Technische Universität Dresden | Dresden | https://tu-dresden.de/studium/vor-dem-studium/studienangebot/sins/sins_studiengang?autoid=1898&set_language=en
+- International Business Administration | University of Applied Sciences Landshut | Landshut | https://www.haw-landshut.de/en/study/degree-programmes/international-business/
+- Business Administration (BBA) | University of Applied Sciences Mittelhessen (THM) | Gießen/Friedberg/Wetzlar | https://www.th-wildau.de/en/study/programmes/business-administration-master/
+- Geo-informatics | University of Augsburg | Augsburg | https://www.uni-augsburg.de/en/studium/studienangebot/uebersicht/geoinformatics-msc/
+- Artificial Intelligence and Intelligent Systems | University of Bremen | Bremen | https://www.uni-bremen.de/en/studies/orientation-application/offered-study-program/dbs/study/artificial-intelligence-and-intelligent-systems-master
+- Electrochemical Engineering for Sustainability | University of Bremen | Bremen | https://uni-tuebingen.de/en/study/finding-a-course/industry-40-master/
+- Business Analytics & AI | University of Cologne | Cologne | https://wiso.uni-koeln.de/en/studies/master/master-business-administration
+- Energy Science | University of Duisburg-Essen | Essen | https://www.srh-hochschule-heidelberg.de/en/master/international-business/
+- Asset Management | University of Europe for Applied Sciences | Potsdam (and other campuses) | https://www.ue-germany.com/programmes/master/asset-management
+- Data Science | University of Europe for Applied Sciences | Potsdam (and other campuses) | https://www.ue-germany.com/programmes/master/data-science
+- DevOps | University of Europe for Applied Sciences | Potsdam (and other campuses) | https://www.ue-germany.com/programmes/master/devops
+- Generative Design & AI | University of Europe for Applied Sciences | Potsdam (and other campuses) | https://www.ue-germany.com/programmes/master/generative-design-ai
+- IoT Devices & Smart Services | University of Europe for Applied Sciences | Potsdam (and other campuses) | https://www.ue-germany.com/programmes/master/iot-devices-and-smart-services
+- Sustainable Systems Engineering | University of Freiburg | Freiburg | 
+- Bioeconomy | University of Greifswald | Greifswald | https://geo.uni-greifswald.de/en/studium/master-studiengaenge/master-bioeconomy/
+- Data Science | University of Greifswald | Greifswald | https://www.uni-greifswald.de/en/study/prior-to-studies/study-opportunities/courses-and-degrees/d/data-science/
+- Software Engineering (International Masterâ€™s degree) | University of Hildesheim | Hildesheim | https://www.uni-hildesheim.de/en/studium/studieninteressierte/studiengaenge/masterstudium/software-engineering-msc/
+- Functional Safety Engineering | University of Kassel | Kassel | https://www.srh-hochschule-heidelberg.de/en/master/international-business/
+- IT Security | University of Lübeck | Lübeck | https://www2.uni-luebeck.de/en/studium/informatik-und-mathematik/it-security/masters-degree-program-it-security/
+- Robotics and Autonomous Systems | University of Lübeck | Lübeck | https://www2.uni-luebeck.de/en/study-program/technology/robotics-and-autonomous-systems/
+- Business computing | University of Mannheim | Mannheim | https://www.uni-mannheim.de/studium/vor-dem-studium/bewerbung/bewerbung-a-bis-z/auswahlsatzungen
+- Executive Master of Business Administration | University of Mannheim | Mannheim | https://www.bwl.uni-mannheim.de/en/programs/master-in-management/
+- Mannheim Master in Data Science (MMDS) | University of Mannheim | Mannheim | https://www.uni-mannheim.de/en/academics/programs/mannheim-master-in-data-science/
+- Mannheim Master of Business Administration | University of Mannheim | Mannheim | https://www.bwl.uni-mannheim.de/en/programs/master-in-management/
+- Mannheim Master's degree in Management (MMM) | University of Mannheim | Mannheim | https://www.bwl.uni-mannheim.de/en/programs/master-in-management/
+- Information Systems | University of Münster | Münster | https://www.wi.uni-muenster.de/prospective-students/our-courses-study/master-science-information-systems
+- Business Informatics (Information Systems) | University of Passau | Passau | https://www.uni-passau.de/en/msc-infosys
+- Digital Health at the Hasso Plattner Institute | University of Potsdam | Potsdam | https://hpi.de/en/studies/digital-health-msc/
+- Electrical / Electronic Engineering | University of Siegen | Siegen | https://www.hwr-berlin.de/en/study/degree-programmes/detail/71-engineering-management/
+- Engineering of Hydro-environmental Extremes | University of Siegen | Siegen | https://www.uni-siegen.de/en/study/master/engineering-of-hydro-environmental-extremes
+- Data Science in Business and Economics | University of Tübingen | Tübingen | https://uni-tuebingen.de/en/study/finding-a-course/business-psychology-master/
+- General Management | University of Tübingen | Tübingen | https://uni-tuebingen.de/en/study/finding-a-course/european-economic-studies-master/
+- International Business | University of Tübingen | Tübingen | https://uni-tuebingen.de/en/study/finding-a-course/industry-40-master/
+- Pharmaceutical and Molecular Biotechnology | University of Ulm | Ulm | https://www.uni-ulm.de/en/study/study-at-ulm-university/study-programmes/course-information/course/pharmaceutical-and-molecular-biotechnology-master/
+- Smart Materials and Systems | University of Wuppertal | Wuppertal | 
+- Satellite Technology | University of Würzburg | Würzburg | https://www.uni-wuerzburg.de/satec/
+- Data Science and Artificial Intelligence | Universität Hamburg | Hamburg | https://www.inf.uni-hamburg.de/en/studies/master/dsai.html
+- Microelectronic Systems | West Coast University of Applied Sciences | Heide | 
+- Embedded and Autonomous Systems | West Saxon University of Applied Sciences Zwickau | Zwickau | https://www.whz.de/english/study/incomings/courses-of-study/embedded-and-autonomous-systems-master/
+- Internet of Things and Smart Systems | West Saxon University of Applied Sciences Zwickau | Zwickau | https://www.whz.de/english/study/incomings/courses-of-study/internet-of-things-and-smart-systems-master/
+- Management and Information Technology | West Saxon University of Applied Sciences Zwickau | Zwickau | https://www.whz.de/english/study/incomings/courses-of-study/management-and-computer-science/
+- Data Science | XU Exponential University of Applied Sciences | Potsdam | https://xu-university.com/master-programs/data-science/
+- Digital Transformation & Sustainability | XU Exponential University of Applied Sciences | Potsdam | https://xu-university.com/master-programs/digital-transformation-sustainability/
+- Industry 4.0 | XU Exponential University of Applied Sciences | Potsdam | https://xu-university.com/en/study-programs/master/growth-hacking/
+- International MBA | XU Exponential University of Applied Sciences | Potsdam | https://xu-university.com/en/study-programs/master/international-business/
+
+## FOUND (csv title -> site listing)
+
+- Electrical Engineering (Aalen University of Applied Sciences) -> Master of Engineering in Electrical Engineering @ Aalen University
+- Industrial Artificial Intelligence (Albstadt-Sigmaringen University) -> Industrial Artificial Intelligence (IAI) @ Albstadt-Sigmaringen University
+- International Product and Service Management (Ansbach University of Applied Sciences) -> International Product and Service Management (IPM) @ Ansbach University of Applied Sciences
+- Smart Energy Systems (Ansbach University of Applied Sciences) -> Smart Energy Systems @ Ansbach University of Applied Sciences
+- Business Intelligence and Process Management (Berlin School of Economics and Law (HWR)) -> Business Intelligence and Process Management (MSc) @ HWR Berlin (Berlin School of Economics and Law)
+- Business Management - Digital Business Management (Berlin School of Economics and Law (HWR)) -> Master's in Business Management – Digital Business Management @ HWR Berlin (Berlin School of Economics and Law)
+- Business Management - Green Energy and Climate Finance (Berlin School of Economics and Law (HWR)) -> Master's in Business Management – Green Energy and Climate Finance @ HWR Berlin (Berlin School of Economics and Law)
+- FACT( Finance, Accounting, Controlling and Taxation) (Berlin School of Economics and Law (HWR)) -> FACT – Finance, Accounting, Controlling and Taxation @ HWR Berlin (Berlin School of Economics and Law)
+- Global Supply Chain and Operations Management (Berlin School of Economics and Law (HWR)) -> Global Supply Chain and Operations Management @ HWR Berlin (Berlin School of Economics and Law)
+- International Business & Consulting: Human Resource Management (Berlin School of Economics and Law (HWR)) -> International Business & Consulting – Human Resource Management @ HWR Berlin (Berlin School of Economics and Law)
+- International Business & Consulting: Strategic Management (Berlin School of Economics and Law (HWR)) -> International Business & Consulting - Strategic Management @ HWR Berlin (Berlin School of Economics and Law)
+- International Finance (Berlin School of Economics and Law (HWR)) -> International Finance @ HWR Berlin (Berlin School of Economics and Law)
+- Professional IT Business and Digitalisation (Berlin University of Applied Sciences and Technology (HTW Berlin)) -> Professional IT Business & Digitalisation @ HTW Berlin University of Applied Sciences
+- Project Management and Data Science (Berlin University of Applied Sciences and Technology (HTW Berlin)) -> Master's in Project Management & Data Science (MSc) @ HTW Berlin University of Applied Sciences
+- Data Science (Research Master) (Bielefeld University of Applied Sciences and Arts) -> MSc Data Science (Research Master's) @ Hochschule Bielefeld – University of Applied Sciences and Arts (HSBI)
+- Computer Science (Bingen Technical University of Applied Sciences) -> Master of Science in Computer Science @ Bingen University of Applied Sciences
+- Artificial Intelligence (Brandenburg University of Technology Cottbus-Senftenberg) -> Artificial Intelligence @ Brandenburg University of Technology Cottbus-Senftenberg
+- Cyber Security (Brandenburg University of Technology Cottbus-Senftenberg) -> Cyber Security @ Brandenburg University of Technology Cottbus-Senftenberg
+- Mathematical Data Science (Brandenburg University of Technology Cottbus-Senftenberg) -> Mathematical Data Science @ Brandenburg University of Technology Cottbus-Senftenberg
+- Micro and Nanoelectronics (Brandenburg University of Technology Cottbus-Senftenberg) -> Micro- and Nanoelectronics @ Brandenburg University of Technology Cottbus-Senftenberg
+- Power Engineering (Brandenburg University of Technology Cottbus-Senftenberg) -> Power Engineering @ Brandenburg University of Technology Cottbus-Senftenberg
+- Embedded Systems Design (Bremerhaven University of Applied Sciences) -> Embedded Systems Design @ Bremerhaven University of Applied Sciences
+- Data Science and Machine Learning (Carl von Ossietzky University of Oldenburg) -> Data Science and Machine Learning, MSc @ University of Oldenburg
+- Digitalised Energy Systems (Carl von Ossietzky University of Oldenburg) -> Digitalised Energy Systems @ University of Oldenburg
+- Aeronautical Management (City University of Applied Sciences Bremen) -> Master of Engineering in Aeronautical Management @ Bremen University of Applied Sciences
+- Electronics Engineering (City University of Applied Sciences Bremen) -> MSc in Electronics Engineering @ Bremen University of Applied Sciences
+- Engineering and Management of Space Systems (City University of Applied Sciences Bremen) -> Engineering and Management of Space Systems @ Bremen University of Applied Sciences
+- Analytical Instruments, Measurement and Sensor Technology (AIMS) (Coburg University of Applied Sciences) -> Analytical Instruments, Measurement and Sensor Technology (AIMS) @ Coburg University of Applied Sciences and Arts
+- Autonomous Driving (Coburg University of Applied Sciences) -> Autonomous Driving @ Coburg University of Applied Sciences and Arts
+- Industrial Management in Microelectronics(MSc) (DIU Dresden International University) -> Industrial Management in Microelectronics (MSc) @ Dresden International University
+- Electrical Engineering and Information Technology (4 semesters) (Darmstadt University of Applied Sciences) -> Electrical Engineering and Information Technology — International Master of Science @ Darmstadt University of Applied Sciences
+- Applied Artificial Intelligence for Digital Production Management (Deggendorf Institute of Technology) -> Applied AI for Digital Production Management, MEng @ Deggendorf Institute of Technology
+- Applied Computer Science (Deggendorf Institute of Technology) -> MSc Applied Computer Science @ Deggendorf Institute of Technology
+- Artificial Intelligence and Data Science (Deggendorf Institute of Technology) -> MSc Artificial Intelligence and Data Science @ Deggendorf Institute of Technology
+- Artificial Intelligence for Smart Sensors and Actuators (Deggendorf Institute of Technology) -> MEng Artificial Intelligence for Smart Sensors and Actuators @ Deggendorf Institute of Technology
+- Automotive Software Engineering (Deggendorf Institute of Technology) -> Automotive Software Engineering, MEng @ Deggendorf Institute of Technology
+- Digital Health (Deggendorf Institute of Technology) -> MSc Digital Health @ Deggendorf Institute of Technology
+- Electrical and Information Engineering (Deggendorf Institute of Technology) -> Electrical Engineering and Information Technology — International @ Deggendorf Institute of Technology
+- High performance computing / quantum computing (Deggendorf Institute of Technology) -> MSc High Performance Computing / Quantum Computing @ Deggendorf Institute of Technology
+- Life Science Informatics (Deggendorf Institute of Technology) -> MSc Life Science Informatics @ Deggendorf Institute of Technology
+- Robotics (Deggendorf Institute of Technology) -> Robotics, MEng @ Deggendorf Institute of Technology
+- Digital Transformation (Dortmund University of Applied Sciences and Arts) -> Master's in Digital Transformation (MDT) @ Dortmund University of Applied Sciences and Arts
+- Master's in Analytics and Artificial Intelligence (ESMT Berlin) -> Artificial Intelligence (AI) in Business (MSc) @ SRH University
+- Business Intelligence and Data Analytics (Emden/Leer University of Applied Sciences) -> Business Intelligence and Data Analytics @ University of Applied Sciences Emden/Leer
+- Industrial Informatics (Emden/Leer University of Applied Sciences) -> Master's in Industrial Informatics @ University of Applied Sciences Emden/Leer
+- Automotive Systems (Esslingen University of Applied Sciences) -> Automotive Systems @ Esslingen University of Applied Sciences
+- Design and Development in Automotive and Mechanical Engineering (Esslingen University of Applied Sciences) -> Design and Development in Automotive and Mechanical Engineering @ Esslingen University of Applied Sciences
+- Culture � Language � Media (Europa-Universität Flensburg) -> MA Culture – Language – Media (Kultur – Sprache – Medien, KSM) @ Europa-Universität Flensburg
+- Digital Entrepreneurship (European University Viadrina Frankfurt (Oder)) -> Digital Entrepreneurship @ European University Viadrina
+- Biomedical Engineering (FH Furtwangen) -> Master of Biomedical Engineering (BME) @ Furtwangen University
+- Business Consulting (FH Furtwangen) -> Business Consulting Master (BCM) @ Furtwangen University
+- Materials Science and Engineering (FH Münster) -> Materials Science and Engineering (MSc) @ FH Münster University of Applied Sciences
+- IT Engineering (FH Wedel) -> IT Engineering (MSc) @ Fachhochschule Wedel University of Applied Sciences
+- High Integrity Systems (Frankfurt University of Applied Sciences) -> High Integrity Systems (HIS) @ Frankfurt University of Applied Sciences
+- Information Technology (Frankfurt University of Applied Sciences) -> Information Technology (IT) @ Frankfurt University of Applied Sciences
+- Computational Sciences (Freie Universität Berlin) -> Master of Science in Computational Sciences @ Freie Universität Berlin
+- Data Science (Freie Universität Berlin) -> Master of Science in Data Science @ Freie Universität Berlin
+- Computer Science (Fresenius University of Applied Sciences) -> Computer Science (MSc) @ Hochschule Fresenius - University of Applied Sciences
+- Biochemistry (Friedrich Schiller University Jena) -> Master of Science in Biochemistry @ Friedrich Schiller University Jena
+- Mathematics (Friedrich Schiller University Jena) -> Master of Science in Business Mathematics @ Friedrich Schiller University Jena
+- Artificial Intelligence (Friedrich-Alexander University Erlangen-Nürnberg) -> Artificial Intelligence (AI), MSc @ FAU Erlangen-Nürnberg
+- Autonomy Technologies (Friedrich-Alexander University Erlangen-Nürnberg) -> MSc Autonomy Technologies @ FAU Erlangen-Nürnberg
+- Communications and Multimedia Engineering (Friedrich-Alexander University Erlangen-Nürnberg) -> Communications and Multimedia Engineering (CME) @ FAU Erlangen-Nürnberg
+- Computational Engineering (Friedrich-Alexander University Erlangen-Nürnberg) -> Computational Engineering (CE), MSc @ FAU Erlangen-Nürnberg
+- Data Science of Human Multimodal Communication (MULTICOM) (Friedrich-Alexander University Erlangen-Nürnberg) -> Data Science of Human Multimodal Communication (MA) @ FAU Erlangen-Nürnberg
+- Information and Communication Technology (Friedrich-Alexander University Erlangen-Nürnberg) -> Information and Communication Technology MSc @ FAU Erlangen-Nürnberg
+- International Information Systems (Friedrich-Alexander University Erlangen-Nürnberg) -> International Information Systems (IIS) @ FAU Erlangen-Nürnberg
+- Data Science (Fulda University of Applied Sciences) -> Data Science @ Fulda University of Applied Sciences
+- Global Software Development (Fulda University of Applied Sciences) -> Global Software Development (MSc) @ Fulda University of Applied Sciences
+- Information Engineering and Technology (German University for Applied Sciences (GU)) -> Forest Information Technology (FIT) @ Eberswalde University for Sustainable Development
+- Management Science (Goethe University Frankfurt) -> Management Science (MSc) @ Goethe University Frankfurt
+- Forest Information Technology (HNE Eberswalde ? University for Sustainable Development) -> Forest Information Technology (FIT) @ Eberswalde University for Sustainable Development
+- Data Science (Hamburg University of Technology) -> Data Science @ Hamburg University of Technology
+- Information and Communication Systems (Hamburg University of Technology) -> Information and Communication Systems @ Hamburg University of Technology
+- Microelectronics and Microsystems (Hamburg University of Technology) -> Microelectronics and Microsystems @ Hamburg University of Technology
+- Mathematics of Machine Learning and Data Science (Heidelberg University) -> Master's in Mathematics of Machine Learning and Data Science @ Heidelberg University
+- Applied Artificial Intelligence (Heilbronn University of Applied Sciences) -> Applied Artificial Intelligence (MAAI) – MSc @ Heilbronn University of Applied Sciences
+- Software Engineering (Heilbronn University of Applied Sciences) -> Software Engineering (SEM) @ Heilbronn University of Applied Sciences
+- Artificial Intelligence and Data Science (Heinrich Heine University Düsseldorf) -> Artificial Intelligence and Data Science @ Heinrich Heine University Düsseldorf
+- Autonomous Systems (Hochschule Bonn-Rhein-Sieg) -> Autonomous Systems (MSc) @ Hochschule Bonn-Rhein-Sieg
+- General Management (Hof University of Applied Sciences) -> General Management (MBA) @ Hof University of Applied Sciences
+- Software Engineering for Industrial Applications (Hof University of Applied Sciences) -> Software Engineering for Industrial Applications (MEng) @ Hof University of Applied Sciences
+- Business administration (Humboldt-Universität zu Berlin) -> International Business Administration (BA) @ SRH University
+- AI Engineering of Autonomous Systems (Ingolstadt University of Applied Sciences (THI)) -> AI Engineering of Autonomous Systems @ Technische Hochschule Ingolstadt
+- Artificial Intelligence (Ingolstadt University of Applied Sciences (THI)) -> Artificial Intelligence (MSc) @ Technische Hochschule Ingolstadt
+- Engineering and Management (Ingolstadt University of Applied Sciences (THI)) -> Engineering and Management (MSc) @ Technische Hochschule Ingolstadt
+- Entrepreneurship and Corporate Venturing (Ingolstadt University of Applied Sciences (THI)) -> Entrepreneurship and Corporate Venturing @ Technische Hochschule Ingolstadt
+- Intelligent Aerial Systems (Ingolstadt University of Applied Sciences (THI)) -> Intelligent Aerial Systems @ Technische Hochschule Ingolstadt
+- International Automotive Engineering (Ingolstadt University of Applied Sciences (THI)) -> International Automotive Engineering (MEng) @ Technische Hochschule Ingolstadt
+- Sociotechnical Cybersecurity (Ingolstadt University of Applied Sciences (THI)) -> Sociotechnical Cybersecurity @ Technische Hochschule Ingolstadt
+- User Experience Design (Ingolstadt University of Applied Sciences (THI)) -> User Experience Design @ Technische Hochschule Ingolstadt
+- Agrobioinformatics (Justus Liebig University Giessen) -> Agrobioinformatics @ Justus Liebig University Giessen
+- Insect Biotechnology and Bioresources (Justus Liebig University Giessen) -> Insect Biotechnology and Bioresources @ Justus Liebig University Giessen
+- International Management and Finance (Kaiserslautern University of Applied Sciences) -> International Management and Finance (Double Degree) @ Kaiserslautern University of Applied Sciences
+- Electrical Engineering & Information Technology (Karlsruhe Institute of Technology (KIT)) -> Electrical Engineering and Information Technology @ Karlsruhe University of Applied Sciences
+- Information Systems Engineering and Management (Karlsruhe Institute of Technology (KIT)) -> Information Systems Engineering and Management (MSc, Executive) at HECTOR School @ Karlsruhe Institute of Technology
+- Remote Sensing and Geoinformatics (Karlsruhe Institute of Technology (KIT)) -> Remote Sensing and Geoinformatics @ Karlsruhe Institute of Technology
+- Sensor Systems Technology (Karlsruhe University of Applied Sciences) -> Sensor Systems Technology (SSTM) @ Karlsruhe University of Applied Sciences
+- Electrical Engineering (Kempten University of Applied Sciences) -> Electrical Engineering @ Kempten University of Applied Sciences
+- Electric Vehicle Propulsion and Control (E-PiCo) (Kiel University) -> Electric Vehicle Propulsion and Control (E-PiCo) @ Kiel University
+- Electrical and Information Engineering (Kiel University) -> Master of Science in Electrical and Information Engineering @ Kiel University
+- Battery Technologies (Kiel University of Applied Sciences) -> Battery Technologies @ Kiel University of Applied Sciences
+- Computer Science (Kiel University of Applied Sciences) -> Computer Science @ Kiel University of Applied Sciences
+- Data Science (Kiel University of Applied Sciences) -> Data Science @ Kiel University of Applied Sciences
+- Management, Leadership, Innovation (Koblenz University of Applied Sciences) -> Management, Leadership, Innovation (MLI) @ University of Applied Sciences Koblenz
+- Computational Methods in Engineering (Leibniz University Hannover) -> Computational Methods in Engineering (CME) @ Leibniz University Hannover
+- Computer Science (Leibniz University Hannover) -> Computer Science – Master of Science @ Leibniz University Hannover
+- Geodesy and Geoinformatics (Leibniz University Hannover) -> Geodesy and Geoinformatics – Specialisation in Geomatics @ Leibniz University Hannover
+- Quantum Engineering (Leibniz University Hannover) -> Quantum Engineering (Master of Science) @ Leibniz University Hannover
+- Management & Data Science (Leuphana University Lüneburg) -> Management & Data Science @ Leuphana University Lüneburg
+- Management & Entrepreneurship (Leuphana University Lüneburg) -> Management & Entrepreneurship @ Leuphana University Lüneburg
+- Management & Sustainable Accounting and Finance (Leuphana University Lüneburg) -> Management & Sustainable Accounting and Finance @ Leuphana University Lüneburg
+- Logistics - International Management & Consulting (Ludwigshafen University of Applied Sciences) -> Logistics – International Management & Consulting (MBA) @ Ludwigshafen University of Business and Society
+- International Business (Mainz University of Applied Sciences) -> Master of Arts in International Business (MA.IB) @ Mainz University of Applied Sciences
+- Applied Mathematics for Network and Data Sciences (Mittweida University of Applied Sciences) -> Applied Mathematics for Network and Data Sciences @ Mittweida University of Applied Sciences
+- Artificial Intelligence and Data Analytics (Neu-Ulm University of Applied Sciences) -> Artificial Intelligence and Data Analytics (MSc) @ Neu-Ulm University of Applied Sciences
+- Digital Innovation Management (Neu-Ulm University of Applied Sciences) -> Digital Innovation Management (MSc) @ Neu-Ulm University of Applied Sciences
+- Digital Leadership in Information Management (Neu-Ulm University of Applied Sciences) -> Digital Leadership in Information Management (MSc) @ Neu-Ulm University of Applied Sciences
+- Digital Transformation and Global Entrepreneurship (Neu-Ulm University of Applied Sciences) -> Digital Transformation and Global Entrepreneurship (MSc) @ Neu-Ulm University of Applied Sciences
+- International Entrepreneurship, Digitisation and Sustainability (M.Sc.) (Neu-Ulm University of Applied Sciences) -> International Entrepreneurship, Digitalisation and Sustainability (MSc) @ Neu-Ulm University of Applied Sciences
+- Geomatics (Neubrandenburg University of Applied Sciences) -> Geomatics @ Neubrandenburg University of Applied Sciences
+- Computer Engineering for IOT SYSTEMS (Nordhausen University of Applied Sciences) -> Computer Engineering for IoT Systems @ Nordhausen University of Applied Sciences
+- Human & Artificial Intelligence (Nuremberg Institute of Technology Georg Simon Ohm) -> Human and Artificial Intelligence (MSc / MA) @ University of Technology Nuremberg
+- Design Entrepreneurship (Osnabrück University of Applied Sciences) -> Design Entrepreneurship @ Osnabrück University of Applied Sciences
+- International Business and Management (Osnabrück University of Applied Sciences) -> International Business and Management (MA) @ Osnabrück University of Applied Sciences
+- Management in non-profit organisations (Osnabrück University of Applied Sciences) -> Management in Non-Profit Organisations @ Osnabrück University of Applied Sciences
+- Automotive Service Technology and Processes (Ostfalia University of Applied Sciences) -> Automotive Service Technology and Processes (ASTP) @ Ostfalia University of Applied Sciences - Hochschule Braunschweig/Wolfenbüttel
+- AI and Engineering for Medical Applications (Otto von Guericke University Magdeburg) -> AI and Engineering for Medical Applications (MSc) @ Otto von Guericke University Magdeburg
+- Computational Methods in Engineering (Otto von Guericke University Magdeburg) -> Computational Methods in Engineering (CoME) @ Otto von Guericke University Magdeburg
+- Data and Knowledge Engineering (Otto von Guericke University Magdeburg) -> MSc in Data & Knowledge Engineering (MDKE) @ Otto von Guericke University Magdeburg
+- Electrical Engineering and Information Technology (Otto von Guericke University Magdeburg) -> Electrical Engineering and Information Technology @ Otto von Guericke University Magdeburg
+- International Management, Marketing, Entrepreneurship (Otto von Guericke University Magdeburg) -> International Management, Marketing, Entrepreneurship (IMME) @ Otto von Guericke University Magdeburg
+- Operations Research and Business Analytics (Otto von Guericke University Magdeburg) -> Operations Research and Business Analytics (ORBA) @ Otto von Guericke University Magdeburg
+- Visual Computing (Otto von Guericke University Magdeburg) -> Visual Computing @ Otto von Guericke University Magdeburg
+- Corporate Communication Management (Pforzheim University of Applied Sciences) -> Corporate Communication Management (MSc) @ Pforzheim University
+- Digital Business Management (Pforzheim University of Applied Sciences) -> Digital Business Management (MSc) @ Pforzheim University
+- Business Mathematics (Philipps University of Marburg) -> Business Mathematics (MSc) @ Marburg University
+- Applied Health Informatics and Digital Medicine (RWTH Aachen University) -> Master of Science in Applied Health Informatics and Digital Medicine @ RWTH Aachen University
+- Battery Science and Technology in Engineering (RWTH Aachen University) -> MSc Battery Science and Technology in Engineering @ RWTH Aachen University
+- Computer Engineering (RWTH Aachen University) -> Computer Engineering @ RWTH Aachen University
+- Data Analytics and Decision Science (RWTH Aachen University) -> MSc Data Analytics and Decision Science (DDS) @ RWTH Aachen University
+- Data Science (RWTH Aachen University) -> Data Science @ RWTH Aachen University
+- Human-Centred Intelligent System (RWTH Aachen University) -> MSc in Human-Centred Intelligent Systems (HCIS) @ RWTH Aachen University
+- Software Systems Engineering (RWTH Aachen University) -> Software Systems Engineering @ RWTH Aachen University
+- Electrical and Microsystems Engineering (Regensburg University of Applied Sciences (OTH)) -> Electrical and Microsystems Engineering @ OTH Regensburg
+- Design and Interaction (Rhine-Waal University of Applied Sciences) -> Design and Interaction, MA @ Rhine-Waal University of Applied Sciences
+- Information Engineering and Computer Science (Rhine-Waal University of Applied Sciences) -> Information Engineering and Computer Science, MSc @ Rhine-Waal University of Applied Sciences
+- Usability Engineering (Rhine-Waal University of Applied Sciences) -> Usability Engineering, MSc @ Rhine-Waal University of Applied Sciences
+- Automation and Control (A&C) (Rhineland-Palatinate TU Kaiserslautern-Landau) -> Automation & Control (A&C) @ RPTU University Kaiserslautern-Landau
+- Bioinformatics (Rhineland-Palatinate TU Kaiserslautern-Landau) -> Master's in Biology — Specialisation in Bioinformatics (Bioinf) @ RPTU University Kaiserslautern-Landau
+- Computer Science (Rhineland-Palatinate TU Kaiserslautern-Landau) -> Computer Science (Master of Science) @ RPTU University Kaiserslautern-Landau
+- Embedded Computing Systems (ESY) (Rhineland-Palatinate TU Kaiserslautern-Landau) -> Embedded Computing Systems (ESY) @ RPTU University Kaiserslautern-Landau
+- Cognitive Science (Ruhr University Bochum) -> Cognitive Science (MSc) @ Ruhr-Universität Bochum
+- Computational Engineering (Ruhr University Bochum) -> Computational Engineering (CompEng) @ Ruhr-Universität Bochum
+- Computer Science (Ruhr University Bochum) -> Computer Science MSc @ Ruhr-Universität Bochum
+- Lasers and Photonics (Ruhr University Bochum) -> Lasers and Photonics (Master of Science) @ Ruhr-Universität Bochum
+- Artificial Intelligence (AI) in Business (SRH University of Applied Sciences) -> Artificial Intelligence (AI) in Business (MSc) @ SRH University
+- Computer Science (SRH University of Applied Sciences) -> Applied Computer Science (MSc) @ SRH University
+- Computer Science - Big Data and Artificial Intelligence (SRH University of Applied Sciences) -> Computer Science – Big Data & Artificial Intelligence (MSc) @ SRH University
+- Computer Science - Cyber Security (SRH University of Applied Sciences) -> Computer Science – Cyber Security (MSc) @ SRH University
+- Engineering and Sustainable Technology Management - Industry 4.0: Automation, Robotics & 3D Manufacturing (SRH University of Applied Sciences) -> Engineering and Sustainable Technology Management – Industry 4.0: Automation, Robotics & 3D Manufacturing (MEng) @ SRH University
+- Engineering and Sustainable Technology Management - Mobility and Automotive Industry (SRH University of Applied Sciences) -> Engineering and Sustainable Technology Management – Mobility and Automotive Industry (MEng) @ SRH University
+- Hospitality Management and Leadership (SRH University of Applied Sciences) -> Hospitality Management and Leadership (MA) @ SRH University
+- Information Technology (SRH University of Applied Sciences) -> Information Technology (MEng) @ SRH University
+- Information Technology  Artificial Intelligence (SRH University of Applied Sciences) -> Artificial Intelligence (AI) in Business (MSc) @ SRH University
+- Information Technology and Business Transformation (SRH University of Applied Sciences) -> Information Technology and Business Transformation @ SRH University
+- International Business � Healthcare Management (SRH University of Applied Sciences) -> MBA Healthcare Management @ SRH University
+- Bioinformatics (Saarland University) -> Bioinformatics @ Saarland University
+- Computer science (Saarland University) -> Computer Science (MSc) @ Saarland University
+- Cybersecurity (Saarland University) -> Cybersecurity (MSc) @ Saarland University
+- Data Science and Artificial Intelligence (Saarland University) -> Data Science and Artificial Intelligence (MSc) @ Saarland University
+- Educational Technology (Saarland University) -> Master of Science in Educational Technology (EduTech) @ Saarland University
+- Embedded Systems (Saarland University) -> Embedded Systems (MSc) @ Saarland University
+- Language, Science and Technology (Saarland University) -> International Master's Programme in Language Science and Technology (LST) @ Saarland University
+- Mathematics and Computer Science (Saarland University) -> Mathematics and Computer Science (MSc) @ Saarland University
+- Media Informatics (Saarland University) -> Media Informatics (MSc) @ Saarland University
+- Quanteninformationstheorie (Saarland University) -> Quantum Information Theory @ Saarland University
+- Visual Computing (Saarland University) -> Visual Computing (MSc) @ Saarland University
+- Advanced Engineering and Engineering Management (South Westphalia University of Applied Sciences) -> MSc Advanced Engineering & Engineering Management @ South Westphalia University of Applied Sciences
+- Informatics and Business (South Westphalia University of Applied Sciences) -> Business Administration with Informatics @ South Westphalia University of Applied Sciences
+- International Management & Information Systems (South Westphalia University of Applied Sciences) -> MA International Management & Information Systems (IMIS) @ South Westphalia University of Applied Sciences
+- International Management & Information Systems-online (career-integrated continuing combined degree course) (South Westphalia University of Applied Sciences) -> MA International Management & Information Systems — Online (IMIS Online) @ South Westphalia University of Applied Sciences
+- Renewable Energy and E-Mobility (Stralsund University of Applied Sciences) -> Renewable Energy and E-Mobility (REEM) @ Stralsund University of Applied Sciences
+- Photogrammetry and Geoinformatics (Stuttgart Technical University of Applied Sciences) -> Photogrammetry and Geoinformatics @ Stuttgart Technical University of Applied Sciences
+- Software Technology (Stuttgart Technical University of Applied Sciences) -> Software Technology @ Stuttgart Technical University of Applied Sciences
+- Information Technology (TH OWL ? University of Applied Sciences and Arts) -> Information Technology @ OWL University of Applied Sciences and Arts
+- European Business Management (Technical University of Applied Sciences Wildau) -> European Business Management @ Technical University of Applied Sciences Wildau
+- Managing Global Dynamics (Technical University of Applied Sciences Würzburg-Schweinfurt) -> MA in Managing Global Dynamics @ Technical University of Applied Sciences Würzburg-Schweinfurt (THWS)
+- Communications and Electronics Engineering (Technical University of Munich) -> Master of Science in Communications and Electronics Engineering (MSCE) @ Technical University of Munich
+- Green Electronics (Technical University of Munich) -> Master of Science in Green Electronics @ Technical University of Munich
+- Integrated Circuit Design (Technical University of Munich) -> Master of Science in Integrated Circuit Design @ Technical University of Munich
+- Microelectronics and Chip Design (Technical University of Munich) -> MSc Microelectronics and Chip Design @ Technical University of Munich
+- Physics (Applied and Engineering Physics) (Technical University of Munich) -> Physics (Applied and Engineering Physics) @ Technical University of Munich
+- Power Engineering (Technical University of Munich) -> Master of Science in Power Engineering (MSC-PE) @ Technical University of Munich
+- Automation and IT (Technische Hochschule Köln (Cologne University of Applied Sciences)) -> Automation & IT (Master of Engineering) @ Technische Hochschule Köln - University of Applied Sciences
+- Digital Sciences (Technische Hochschule Köln (Cologne University of Applied Sciences)) -> Digital Sciences (Master of Science) @ Technische Hochschule Köln - University of Applied Sciences
+- International Business and Global Transformation (Technische Hochschule Köln (Cologne University of Applied Sciences)) -> International Business and Global Transformation (Master of Arts) @ Technische Hochschule Köln - University of Applied Sciences
+- Computational Neuroscience (Technische Universität Berlin) -> International Master's Programme in Computational Neuroscience @ Technische Universität Berlin
+- Computer Science (Technische Universität Berlin) -> Computer Science (MSc) @ Hochschule Fresenius - University of Applied Sciences
+- Energy Management (Technische Universität Berlin) -> Energy Management (MBA) @ Technische Universität Berlin
+- Computational science in engineering (Technische Universität Braunschweig) -> Computational Sciences in Engineering (CSE) @ Technische Universität Braunschweig
+- Data Science (Technische Universität Braunschweig) -> Data Science @ Technische Universität Braunschweig
+- Quantum Technologies in Electrical and Computer Engineering (Technische Universität Braunschweig) -> Quantum Technologies in Electrical and Computer Engineering (QTEC) @ Technische Universität Braunschweig
+- Automation, Robotics and Control (Technische Universität Chemnitz) -> Automation, Robotics and Control @ Chemnitz University of Technology
+- Automotive Software Engineering (Technische Universität Chemnitz) -> Automotive Software Engineering @ Chemnitz University of Technology
+- Business & Economics (Technische Universität Chemnitz) -> Business & Economics @ Chemnitz University of Technology
+- Design and Test for Integrated Circuits (Technische Universität Chemnitz) -> Design and Test for Integrated Circuits @ Chemnitz University of Technology
+- Embedded Systems (Technische Universität Chemnitz) -> Embedded Systems @ Chemnitz University of Technology
+- Information and Communication Systems (Technische Universität Chemnitz) -> Information and Communication Systems @ Chemnitz University of Technology
+- Micro and Nano Systems (Technische Universität Chemnitz) -> Micro and Nano Systems @ Chemnitz University of Technology
+- Web Engineering (Technische Universität Chemnitz) -> Web Engineering @ Chemnitz University of Technology
+- Artificial Intelligence and Machine Learning (Technische Universität Darmstadt) -> Master of Science in Artificial Intelligence and Machine Learning @ Technical University of Darmstadt
+- Cognitive Science (Technische Universität Darmstadt) -> Cognitive Science @ Technical University of Darmstadt
+- Data and Discourse Studies (Technische Universität Darmstadt) -> Data and Discourse Studies @ Technical University of Darmstadt
+- Information and Communication Engineering (Technische Universität Darmstadt) -> Information and Communication Engineering @ Technical University of Darmstadt
+- Automation and Robotics (Technische Universität Dortmund) -> Automation and Robotics @ TU Dortmund University
+- Data Science (Technische Universität Dortmund) -> Master of Science in Data Science @ TU Dortmund University
+- Econometrics (Technische Universität Dortmund) -> Econometrics @ TU Dortmund University
+- Air Transport and Logistics (Technische Universität Dresden) -> Air Transport and Logistics @ Dresden University of Technology
+- Nanoelectronic Systems (Technische Universität Dresden) -> Nanoelectronic Systems @ Dresden University of Technology
+- Sustainable Electronics and Photonics (Technische Universität Dresden) -> Sustainable Electronics and Photonics (SEP) @ Dresden University of Technology
+- Communications and Signal Processing (Technische Universität Ilmenau) -> Master of Science in Communications and Signal Processing @ Technische Universität Ilmenau
+- Data Science (Technische Universität Ilmenau) -> Data Science (MSc) @ Technische Universität Ilmenau
+- Research in Computer and Systems Engineering (Technische Universität Ilmenau) -> Research in Computer & Systems Engineering (RCSE) @ Technische Universität Ilmenau
+- Software Engineering (University of Applied Sciences Erfurt) -> Software Engineering @ University of Applied Sciences Erfurt
+- Control, Computer and Communications Engineering (University of Applied Sciences Mittelhessen (THM)) -> Control, Computer and Communications Engineering (CCCE) @ Technische Hochschule Mittelhessen University of Applied Sciences
+- Optical System Engineering (University of Applied Sciences Mittelhessen (THM)) -> Optical System Engineering (MSc) @ Technische Hochschule Mittelhessen University of Applied Sciences
+- Communication and Media Engineering (CME) (University of Applied Sciences Offenburg) -> Master of Science in Communication and Media Engineering (CME) @ Offenburg University of Applied Sciences
+- Enterprise and IT Security (University of Applied Sciences Offenburg) -> Master of Science in Enterprise and IT Security (ENITS) @ Offenburg University of Applied Sciences
+- Renewable Energy and Data Engineering (University of Applied Sciences Offenburg) -> Master of Science in Renewable Energy and Data Engineering @ Offenburg University of Applied Sciences
+- Electrical Engineering and Embedded Systems (University of Applied Sciences Ravensburg-Weingarten) -> Electrical Engineering and Embedded Systems @ University of Applied Sciences Ravensburg-Weingarten
+- Data Science (University of Augsburg) -> Data Science @ University of Augsburg
+- Mathematics and Computer Science (University of Augsburg) -> Mathematics and Computer Science @ University of Augsburg
+- Medical Information Sciences (University of Augsburg) -> Medical Information Sciences @ University of Augsburg
+- International Software Systems Science (University of Bamberg) -> Master of Science in International Software Systems Science @ University of Bamberg
+- Battery Materials and Technology (University of Bayreuth) -> Battery Materials and Technology (Master of Science) @ University of Bayreuth
+- Digitalisation & Sustainability in Materials Science & Engineering (University of Bayreuth) -> Digitalisation & Sustainability in Materials Science & Engineering @ University of Bayreuth
+- Philosophy & Computer Science (University of Bayreuth) -> Philosophy and Computer Science @ University of Bayreuth
+- Scientific Computing (University of Bayreuth) -> Scientific Computing @ University of Bayreuth
+- Artificial Intelligence (University of Bonn) -> Artificial Intelligence @ University of Bonn
+- Computer Science (University of Bonn) -> Computer Science @ University of Bonn
+- Life Science Informatics (University of Bonn) -> Life Science Informatics (b-it) @ University of Bonn
+- Communications and Information Technology (University of Bremen) -> Communication & Information Technology, MSc (CIT) @ University of Bremen
+- Control, Microsystems, Microelectronics (University of Bremen) -> Control, Microsystems, Microelectronics (CMM) @ University of Bremen
+- Management Information Systems (University of Bremen) -> Management Information Systems (MIS) @ University of Bremen
+- Business Administration - Corporate Development (University of Cologne) -> Business Administration (Master of Science) – Major: Accounting & Taxation, Corporate Development, Finance, Marketing, Supply Chain Management @ University of Cologne
+- Business Administration - Finance (University of Cologne) -> Business Administration (Master of Science) – Major: Accounting & Taxation, Corporate Development, Finance, Marketing, Supply Chain Management @ University of Cologne
+- Business Administration - Marketing (University of Cologne) -> Business Administration (Master of Science) – Major: Accounting & Taxation, Corporate Development, Finance, Marketing, Supply Chain Management @ University of Cologne
+- Business Administration - Supply Chain Management (University of Cologne) -> Business Administration (Master of Science) – Major: Accounting & Taxation, Corporate Development, Finance, Marketing, Supply Chain Management @ University of Cologne
+- Business Administration Double Master�s programme (University of Cologne) -> Double Master's Programme in Business Administration – Master of Science @ University of Cologne
+- Computer Science (University of Freiburg) -> Master of Science in Computer Science @ University of Freiburg
+- Embedded Systems Engineering (University of Freiburg) -> Master of Science in Embedded Systems Engineering @ University of Freiburg
+- Microsystems Engineering (University of Freiburg) -> Master of Science in Microsystems Engineering @ University of Freiburg
+- Applied Data Science (University of Göttingen) -> Applied Data Science (MSc) @ University of Göttingen
+- Computational Biology and Bioinformatics (University of Göttingen) -> Computational Biology and Bioinformatics @ University of Göttingen
+- Data Analytics (International Masterâ€™s degree) (University of Hildesheim) -> Data Analytics (MSc) @ University of Hildesheim
+- Landscape Ecology (University of Hohenheim) -> Landscape Ecology (LandEcol) @ University of Hohenheim
+- Electrical Communication Engineering (University of Kassel) -> Electrical Communication Engineering (MSc) @ University of Kassel
+- E-Government (University of Koblenz) -> E-Government (MSc) @ University of Koblenz
+- Web and Data Science (University of Koblenz) -> Web and Data Science (MSc) @ University of Koblenz
+- Computer Science for Industry and Business (COSIB) (University of Konstanz) -> Computer Science for Industry and Business (MSc COSIB) @ University of Konstanz
+- Computer and Information Science (University of Konstanz) -> Computer and Information Science (MSc CIS) @ University of Konstanz
+- Social and Economic Data Science (University of Konstanz) -> Social and Economic Data Science (SEDS) – Master of Science @ University of Konstanz
+- Mannheim Master in Finance, Accounting and Taxation (MMFACT) (University of Mannheim) -> Mannheim Master in Finance, Accounting and Taxation @ University of Mannheim
+- Business Administration (University of Münster) -> Business Administration @ University of Münster
+- Business Development (University of Münster) -> Business Development @ University of Münster
+- Data Science (University of Münster) -> Data Science @ University of Münster
+- Geoinformatics and Spatial Data Science (University of Münster) -> Geoinformatics and Spatial Data Science (MSc) @ University of Münster
+- Cognitive Computing (University of Osnabrück) -> Cognitive Computing @ Osnabrück University
+- Cognitive Science (University of Osnabrück) -> Cognitive Science (MSc) @ Osnabrück University
+- Computer Science (University of Paderborn) -> Master of Science in Computer Engineering @ Paderborn University
+- Electrical Systems Engineering (University of Paderborn) -> Master of Science in Electrical Systems Engineering @ Paderborn University
+- Artificial Intelligence Engineering (University of Passau) -> Master of Science in Artificial Intelligence Engineering @ University of Passau
+- Business Administration (University of Passau) -> Master of Science in Business Administration @ University of Passau
+- Mathematics (University of Passau) -> Master of Science in Mathematics @ University of Passau
+- Bioinformatics (University of Potsdam) -> Bioinformatics @ University of Potsdam
+- Climate, Earth, Water, Sustainability (University of Potsdam) -> Climate, Earth, Water, Sustainability (CLEWS) @ University of Potsdam
+- Cognitive Systems: Language, Learning and Reasoning (University of Potsdam) -> Cognitive Systems: Language, Learning, and Reasoning @ University of Potsdam
+- Computer Science at the Hasso Plattner Institute (University of Potsdam) -> Computer Science @ University of Potsdam
+- Computational Engineering (University of Rostock) -> Computational Science and Engineering (CSE) @ University of Rostock
+- Computer Science International (University of Rostock) -> Computer Science International (CSI) @ University of Rostock
+- Electrical Engineering (University of Rostock) -> Electrical Engineering (EE) @ University of Rostock
+- Computer Science (University of Siegen) -> Computer Science @ University of Siegen
+- European Master in Embedded Intelligence Nanosystems Engineering (EMINENT) (University of Siegen) -> European Master's in Embedded Intelligence Nanosystems Engineering (EMINENT) @ University of Siegen
+- Human-Computer Interaction (University of Siegen) -> Human Computer Interaction (HCI) @ University of Siegen
+- Quantum Science (University of Siegen) -> Quantum Science @ University of Siegen
+- Computational Linguistics (University of Stuttgart) -> Computational Linguistics @ University of Stuttgart
+- Computer Science (University of Stuttgart) -> Computer Science @ University of Stuttgart
+- Electrical Engineering (University of Stuttgart) -> Electrical Engineering @ University of Stuttgart
+- Information Technology (INFOTECH) (University of Stuttgart) -> Information Technology – INFOTECH @ University of Stuttgart
+- Data Science (University of Trier) -> Master of Science in Data Science @ Trier University
+- Geo-informatics (University of Trier) -> Master of Science in Geoinformatics @ Trier University
+- Computational Neuroscience (University of Tübingen) -> Computational Neuroscience @ University of Tübingen
+- Machine Learning (University of Tübingen) -> Machine Learning (MSc) @ University of Tübingen
+- Management and Economics (University of Tübingen) -> Management and Economics (MSc) @ University of Tübingen
+- Biophysics (University of Ulm) -> Master of Science in Biophysics @ Ulm University
+- Cognitive Systems (University of Ulm) -> Cognitive Systems (Master of Science) @ Ulm University
+- Communication and Information Technology (University of Ulm) -> Communication and Information Technology (Master of Science) @ Ulm University
+- Quantum Engineering (QE) (University of Ulm) -> Master of Science in Quantum Engineering @ Ulm University
+- Computer Simulation in Science (University of Wuppertal) -> Computer Simulation in Science (MSc) @ University of Wuppertal
+- Artificial Intelligence & Extended Reality (University of Würzburg) -> MSc in Artificial Intelligence @ Technical University of Applied Sciences Würzburg-Schweinfurt (THWS)
+- Business Administration (Universität Hamburg) -> MSc in Business Administration @ University of Hamburg
+- Intelligent Adaptive Systems (Universität Hamburg) -> Master of Science in Intelligent Adaptive Systems (IAS) @ University of Hamburg
+- Marine Ecosystem and Fisheries Science (Universität Hamburg) -> Marine Ecosystem and Fisheries Sciences @ University of Hamburg
+- Digital Farming (Weihenstephan-Triesdorf University of Applied Sciences) -> Digital Farming @ Weihenstephan-Triesdorf University of Applied Sciences
+- International Tourism Management (West Coast University of Applied Sciences) -> International Tourism Management (ITM) @ FH Westküste University of Applied Sciences
+- Business in a Digital World (West Saxon University of Applied Sciences Zwickau) -> Business in a Digital World (MBA) @ Westsächsische Hochschule Zwickau - University of Applied Sciences Zwickau

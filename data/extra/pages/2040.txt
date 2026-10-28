@@ -1,0 +1,133 @@
+URL: https://www.informatik.tu-darmstadt.de/studium_fb20/im_studium/studiengaenge_liste/itsecurity_msc.en.jsp
+TITLE: Master's degree program IT Security – Computer Science – TU Darmstadt
+
+Study Computer Science
+Master´s program IT Security
+Equip yourself with the knowledge and skills to combat cyber threats through our innovative Master of Science program. From IoT security to Artificial Intelligence and Quantum Computing, the number of IT security experts researching and teaching at the Department of Computer Science at TU Darmstadt is extraordinary. With a wide variety of courses to choose from, you can customize your learning experience. Whether you prefer a well-rounded education in all areas of IT Security or want to focus on a specialized niche, our program offers the versatility you need.
+Contact
+Overview
+Teaching language: English
+Scope: 120 credit points over four semesters (regular program duration)
+Admission: Applicants need an adequate Bachelor of Science degree (180 CP) in computer science or related subjects.
+Language requirement: Applicants must provide proof of their English skills: UNIcert level III, TOEFL test (Paper 550, CBT 213, iBT 95), IELTS 7.0, CEFR C1 or equivalent.
+Start: Winter semester recommended, Summer semester possible
+Application: Summer term: 01.12.-15.01. | Winter term: 01.06.-15.07. | Current deadline dates | Early application recommended!
+International admission information Entrance Exam
+Wide selection of courses to customize the program
+Double degree programs in cooperation with partner universities
+Content and structure
+The Master's program in IT Security provides fundamental knowledge on how to design future IT systems securely from the outset. The program is characterised by a wide range of electives. Students can either choose a comprehensive education in all areas of IT security or focus on a specific aspect of IT security. The latter is ensured by the program's strong research orientation. As a result, the Master prepares students for an academic career in the field of IT security.
+More than ten research labs at the deoartment are dedicated to IT security as a central research topic and contribute their findings to teaching. The scientists investigate all fundamental and applied aspects of designing, analysing and the entire life cycle of secure IT-based systems. Related issues of resilience and peace research are also addressed. This includes current topics such as IT security in decentralised systems, the Internet of Things, artificial intelligence and quantum computers.
+The program is structured in
+Four open electives:
+Cryptography and foundations (theory)
+Systems and Communication Security (Practice)
+Software and Application Security (practical)
+Complementary topics (including courses not directly related to IT security)
+Accompanying coursework (seminars, teaching practice, internships, etc.)
+Studium Generale, which provides interdisciplinary knowledge from the entire range of courses offered by all faculties at TU Darmstadt
+Master's thesis
+Below you will find a simplified structure plan. More detailed information on the study and examination plans can be found under “Regulations”.
+Structure overview
+Admission
+General info
+The admission requirement for the Master's degree program Informatik (M.Sc.) is the completion of a degree program that provides competences amounting to at least 180 ECTS credit points (CP). Of these, at least 60 CP must not be significantly different from the entry-level skills acquired in the Bachelor's program in Informatik (B.Sc.) at the TU Darmstadt (comparable program, see section “Formal prerequisites”).
+Formal entrance examination
+The entry-level skills are proven by the certificate of the first degree and the Diploma Supplement or comparable documents submitted with the application. You can find out more on required documents here: Application for international students and Bewerbung zum Master Studium
+Material entrance examination
+If the entry-level skills could not be clearly clarified in this way, a written examination will be conducted.
+Admission with remedial coursework
+If, after the entrance examination, it is found that the applicant lacks entry-level skills that can be compensated for by making up achievements in the amount of no more than 30 CP, admission can be made subject to remedial coursework. This must be completed within the first two semesters.
+Which modules or subject examinations are chosen as remedial coursework and by when they must be completed will be listed in the admission notification.
+Usual requirements for all study programs
+In addition, the usual requirements for all study programs apply: in particular, a timely application with complete documents (or documents submitted later within a deadline) and – after admission by the TU Darmstadt – timely transfer of the semester fee.
+Specific requirements
+The following describes in detail the expected professional entry competencies for the M.Sc. IT Security:
+Theoretical Computer Science
+Applicants should be able to use mathematical notations and methods to substantiate concepts in computer science, in particular for formal modeling and verification of software and hardware systems.
+Courses in which these introductory skills are taught in the reference program at TU Darmstadt are propositional and predicate logic; automata, formal languages and decidability; modeling, specification and semantics.)
+Applied Computer Science
+Applicants should be able to
+to select independently from a problem description the standard algorithms and data structures necessary for the solution according to the functional and non-functional requirements and/or to construct and estimate new algorithms and data structures for the problem solution on the basis of known strategies, if necessary with consideration of parallelism.
+to combine the individual components of a programming language independently and without analogous example in the context of a programming task to an overall solution.
+to solve programming tasks in different, also parallel, programming languages, which follow different paradigms, have different application areas and are located on the whole range of abstraction levels.
+ensure the quality of the created implementations through formalized testing procedures and design methods.
+to apply the above-mentioned knowledge in practically relevant areas of Computer Science such as Networks and Distributed Systems, Databases and the creation of programming tools. In doing so, non-functional aspects, in particular the security of the IT systems created, should also be taken into account.
+These introductory skills in practically relevant areas of computer science are taught in the following courses in the reference study program at TU Darmstadt: Algorithms and Data Structures; Operating Systems; Computer System Security; Computer Networks and Distributed Systems; Introduction to Compiler Construction; Introduction to Artificial Intelligence; Functional and object-oriented Programming Concepts; Formal Methods in Software Design; Information Management; Parallel Programming; Probabilistic Methods of Computer Science; Scientific Computing; Software Engineering; Visual Computing
+Technical Computer Science
+Applicants should be able to
+combine the individual design principles and basic elements of digital circuits, as introduced separately in the lectures, independently and without an analog example in the context of a hardware design task to an overall solution.
+solve design tasks at different levels of abstraction and from different application areas using structured design methods in different description languages and using a range of design tools and evaluate them with regard to suitable quality measures.
+understand the interaction of computer, processor and microarchitectures and make appropriate implementation decisions for the system and application software level.
+Courses in which these initial skills are taught in the reference program at TU Darmstadt are Digital Technology and Computer Organization.
+IT Security
+Applicants should be able to
+independently recognize that security solutions are necessary as part of an IT system and that they involve different components such as hardware, software, network, system level, and user interface. This includes, in particular, identifying and understanding possible vulnerabilities of an IT system.
+apply individual design principles and basic IT security methods, independently and without an analogous example, to protect an IT system.
+evaluate the quality of the IT security solution in terms of correctness and security at different levels of abstraction (algorithm, software, hardware, etc.).
+These competences are taught in the reference study program at the TU Darmstadt in the courses Security of Computer Systems; Algorithms and Data Structures; Probabilistic Methods in Computer Science.
+Learning outcomes
+In the research-oriented Master of Science in IT Security, students develop their specialist and interdisciplinary skills in the field of IT security, building on their previous knowledge from a previous Bachelor's program.
+These competences are characteristic of the program's aspirations and an essential prerequisite for a subsequent doctorate in the research field IT Security. After completing the degree program, graduates are able to
+use their improved methodological skills to independently analyze and work on complex IT security problems and tasks using scientific methods, taking into account various security solutions and attack scenarios,
+to apply these skills in the field of IT security even in new and unfamiliar situations with incomplete information and to think in systemic contexts,
+solve tasks and problems with a high level of abstraction and an eye for complex interrelationships,
+recognize future IT security problems, IT security technologies and scientific developments in the field of IT security and take them into account appropriately in their work,
+communicate the results of their analyses and the solutions developed to foreign-language experts and laypersons,
+organize and carry out complex projects in the field of IT security efficiently and form and lead teams in a goal-oriented manner.
+assess the social and ethical responsibility of their activities and take appropriate account of this,
+to pursue further professional training independently and to work scientifically and work independently.
+In summary, the Master's degree program in IT Security primarily develops students' competence to recognize complex problems in the field of IT security and to solve them with incomplete information.
+For this purpose, skills from theoretical and practical IT security are taught, which can be applied and further developed by students to suit the respective problem. and develop them further.
+In addition, there is an increased ability to deal with the current research literature and the ability to work scientifically in a self-selected specialization. work in a self-chosen specialization and to independently solve current problems in practice.
+Career perspectives
+Graduates of the M.Sc. in IT Security are successful in various professional fields in the higher IT sector. These include classic job profiles such as software developer for complex IT problems, consulting in the field of Cybersecurity as well as research and development.
+Teaching cooperation between TU Darmstadt's and h_da's Department of Computer Science
+Since summer semester 2010 both departments open some courses for students from the other institution. The cooperation applies to courses offered within M.Sc. IT Security at TU Darmstadt and M.Sc. Computer Science, specialisation IT Security, at h_da.
+Information about the course schedule for lectures of h_da are available from the following link:
+https://dasec.h-da.de/teaching/lehrkooperation-mit-tud-ws-21-22/https://dasec.h-da.de/teaching/lehrkooperation-mit-tud-ws-21-22/
+Here you will also find further information on enrolment and the registration link for TU students.
+Students from TU Darmstadt will be informed about admission via email before the first occurence. Failure to attend the first lecture will lead to the place being assigned to another student.
+Contact
+Admissions & Application Guide for English‑Taught Master’s Programmes
+Regulations
+Overview of the programme's implementation regulations, study and examination plans, and module manuals
+Course catalogue
+TUCaN, the organizational portal for degree programmes and teaching
+Semester dates
+Who to ask?
+Finding the right contacts for different concerns
+Examination Office
+Contact for questions regarding modules, courses, recognition of exams and grades, etc.
+Student Advisory Service
+Contact for questions regarding individual design of curriculum, possible specialization, etc.
+Application
+Info and access to the application process
+Status request
+Follow up the status of your application
+Student Commitee
+of the examination regulations 2009 and 2004
+Contact
+Office of Study Programs and Examination
+Work
+S2|02
+Hochschulstraße 10
+64289
+Darmstadt
+Contact Study Affairs
+Questions about exams
+studienbuero@informatik.tu-...
+Contact Student Advisory Service
+beratung@informatik.tu-...
+Departmental Coordinators for International Affairs
+Department of Computer Science
+ausland@dekanat.informatik.tu-...
+We would like to customise the information and usability of this website to your preferences and needs.
+To this end, we use so-called cookies. Please choose which cookies you would like to enable when visiting our webpages.
+Some of these cookies are required to load and correctly display this website on your device.
+These are strictly necessary or essential cookies and cannot be deselected.
+The preferences cookie saves your language setting and preferred search engine, while the statistics cookie regulates
+how the open-source statistical software “Matomo” analyses your visits to and activities on our website.
+For more information about cookies we use, please refer to our
+privacy policy.
+Legal note

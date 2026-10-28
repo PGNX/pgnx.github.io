@@ -1,0 +1,205 @@
+URL: https://www.inf.uni-hamburg.de/en/studies/master/dsai.html
+TITLE: Master Data Science and Artificial Intelligence : Department of Informatics : University of Hamburg
+
+Zur Metanavigation
+Zur Hauptnavigation
+Zur Suche
+Zum Inhalt
+Zur Subnavigation
+Zum Seitenfuß
+Photo: UHH/Denstorf
+Dept. of Informatics
+Master Data Science and Artificial Intelligence
+Program Application FAQ
+DSAI Application Period
+Dear applicants,
+The current application period (for all applicants) begins on February 15th 2026 and ends on March 31st 2026 (23:59 CET). Only applications fully submitted before the deadline will be considered.
+See below for more information on the application process.
+Background and Motivation
+The convergence of data science and artificial intelligence represents a pivotal advancement in technology with far-reaching implications across industries. At its core, data science harnesses the power of data to extract insights, patterns, and trends, enabling informed decision-making. Meanwhile, artificial intelligence empowers machines to mimic human intelligence, enabling automation, prediction, and problem-solving. Combined together, these two fields have already revolutionized fields such as healthcare, finance, and marketing.
+However, several challenges in data science and artificial intelligence remain to be solved. Extracting meaningful insights from vast and complex datasets requires advanced analytical skills, computational proficiency, and domain expertise. Using artificial intelligence technologies also involve studying their design through an ethical lense to guarantee privacy protection and bias mitigation. Addressing these challenges requires a multidisciplinary approach, combining expertise in statistics, computer science, mathematics, and domain-specific knowledge. Our Master of Science in Data Science and Artificial Intelligence equips students with the necessary skills and knowledge to navigate these challenges, empowering them to drive innovation, solve complex problems, and make a meaningful impact in an increasingly data-driven world.
+Upon completing the Master of Science in Data Science and Artificial Intelligence, students will be able to join leading companies and academic institutions across diverse sectors, including top research labs, tech giants, healthcare providers, environmental oragnizations and consulting agencies. Equipped with proficiency in data analysis, machine learning algorithms and practical knowledge of artificial intelligence technologies, they can endorse roles such as data scientist, machine learning engineer, AI researcher, and business analyst. With the demand for data-driven solutions continuously on the rise, graduates of this program find themselves at the forefront of the employment market.
+Course Program and Curriculum
+Program Overview
+The course program divides into the following categories:
+Mandatory modules: These modules cover knowledge specific to the Data Science and Artificial Intelligence program, and students have no choice regarding the required modules.
+Required elective modules: These are related to Data Science and Artificial Intelligence core concepts and applications. Students have to choose modules from the category “Fundamentals of Data Science and Artificial Intelligence” for a total of 24 ECTS, and modules from the category “Advanced Topics in Data Science and Artificial Intelligence” for a total of 18 ECTS.
+Domain Knowledge:
+These modules cover various application domains and transversal knowledge concepts, enabling the students to apply the core concepts learnt in the required and free modules to diverse scientific disciplines. Courses from at least two, at most four, application domains with at least 6 ECTS per domain must be selected, and students must gain in total 24 ECTS. Students can choose to study either in depth (select many courses from a few application domains) or in breadth (many application domains, with a typical 6 ECTS per module).
+Please refer to the full table-style module handbook for module pre-requirements and more details.
+For a detailed list of all modules available in each category, see Curriculum Details.
+Regulations and Further Documents
+Examination and Subject-Specific Provisions
+Subject-Specific Provisions (includes Module Table, original German Version)
+Subject-Specific Provisions (English Version )
+Examination Regulations
+Module Handbook (Original German Version); Module Handbook (Draft - English version - not legally binding)
+General Information for Students including Evaluation of Theses
+Presentation of the Academic Office (Orientation Unit)
+Application and Admission
+Next Application Period: February 15th — March 31st 2026
+Direct Link to Application Portal (STiNE)
+We can only consider your application if the following three conditions are met. Otherwise, your application will be automatically rejected, without exception.
+You meet the minimum requirements.
+Your application contains all required documents.
+You submit your application during the application period on the STiNE portal. The application period opens February 15th and closes March 31st 11:59 pm C.E.T every year.
+Minimum Requirements
+The following requirements must be met by all applicants. Applications that do not fulfill these requirements, or lack evidence in this respect, will be directly rejected.
+Note that fulfilling the requirements does not automatically lead to admission, since the number of applications generally exceeds the number of available places.
+(1) EITHER
+(1a) A Bachelor’s degree from the Faculty of Informatics, Mathematics, Natural Sciences, from the University of Hamburg, either in Informatik (Computer Science) or Computing in Science
+OR
+(1b) A Bachelor’s degree in computer science related field insofar as the following minimum ECTS credit points were obtained:
+24 ECTS credit points in mathematics, from which 6 ECTS credit points were obtained in the field of stochastics (probability, statistics);
+60 ECTS credit points in computer science, which correspond to the curriculum of the Bachelor's degree program in Informatik (Computer Science) at the Faculty of Informatics, Mathematics, Natural Sciences, University of Hamburg.
+(2) English language proficiency, attested by one of the following:
+Attestation of a C1 English level provided by a course in your university or equivalent institution.
+International English Language Testing System (IELTS ) certificate with a grade of at least 6.5.
+Test of English as a Foreign Language (TOEFL) certificate with a grade of at least 90.
+Cambridge Certificate of Advanced English (CAE).
+Cambridge Proficiency in English (CPE).
+Seven years of English courses in a German-speaking school.
+Notes
+In case (1b), please provide detailed evidence for the fulfillment of requirements regarding ECTS credit points. See the documents section below for more details.
+If you have not yet completed a Bachelor's degree program that meets the requirements listed above, you may be admitted under the following conditions (attested by official documents):
+The remaining requirements for your degree do not exceed a single semester’s content (30 ECTS or equivalent).
+You already fulfill the minimum requirement regarding ECTS credit points as listed in (1b) above.
+You are already registered as having started your Bachelor thesis or final project (if applicable).
+A degree taught in English will generally not be accepted as proof of English language proficiency.
+Admission Criteria
+If the number of applications that fulfill the minimum requirements exceeds the number of places available for the Master's degree program in Data Science and Artificial Intelligence for the selection procedure, the selection will be made based on the following criteria:
+(1) The final grade of your Bachelor’s degree (or an official preliminary final grade estimate if Bachelor’s not yet completed).
+(2) EITHER (2a) The content of your Bachelor’s degree, as compared to the equivalent Bachelor's degree program in Informatics from the MIN Faculty of the University of Hamburg OR (2b) The content of your Bachelor’s degree, as compared to the equivalent Bachelor's degree program Computing in Science from the MIN Faculty of the University of Hamburg.
+(3) Your selection of modules during your Bachelor’s degree, as relevant to the DSAI Master. This includes elective modules (including projects, seminars, etc.), as well as relevant internships, professional experience or proven open source projects.
+Notes
+Each criterion will be assigned a numerical grade on a common scale and weighted as follows:
+Criterion (1) (grade) is weighted by 30%.
+Criterion (2) (B.Sc. content) is weighted by 40%.
+Criterion (3) (module selection) is weighted by 30%.
+The grade for criterion (2) will be the best out of the grades for (2a) and (2b). In other words, the content of your Bachelor’s degree will be compared to either the Computing Science or Computing in Science B.Sc. programs in the University of Hamburg, whichever will result in a better grade.
+The grading of criteria and the selection decision are made by a selection committee consisting of three lecturers from the Master's degree program in Data Science and Artificial Intelligence, two of whom are qualified examiners.
+Required Documents
+Note: All documents must be in English or in German. If your original documents are in a different language, please provide the original along with a certified translation to either English or German. Scanned documents must be in a high enough quality to be readable. Low-quality scans may lead to rejection if the selection committee can not properly read their contents. Scans and other PDF files should be uploaded in the correct orientation.
+Important: Documents not listed here are not required and will be ignored. This includes motivational letters and irrelevant recommendation letters. Please consult the FAQ before submitting your documents.
+The filled-in cover form listing personal information, information on your Bachelor’s degree and required modules, as well as information regarding internships, projects, etc. Please fill the PDF form and include all information requested. Please follow the detailed instructions given in the form. Click here for more information and a link to the cover form.
+A brief Curriculum Vitae.
+Proof of English language proficiency (see above).
+Your transcript of records, as provided by your university if in English or German, or translated to English or German if not. Relevant courses regarding the minimum requirements should be highlighted in the transcript.
+Bachelor degree certificate, as provided by your university. Alternatively, if you have not finished your degree yet: official evidence that you have no more than a single semester left, that the minimum requirements with respect to Computer Science and Mathematics courses are already met, and that you are already registered for the Bachelor’s thesis/final project (if applicable).
+A diploma supplement or a description of your Bachelor degree, preferably provided by your university. This document must contain:
+Your degree’s grading system and computational rules, if the grade is not stated in your transcript. You must at least provide the minimal, minimal passing and maximal grades.The standard duration of required for completion of your degree (in semesters or years).
+The total number of credit hours or ECTS credit points required for completion of your degree.
+The description of how many weeks of in-class (=contact hours) time with a lecturer present you have per semester.
+Your final grade, as officially provided by your university, if it is not already evident in your transcript. If your are still missing one semester to complete your degree, the preliminary final grade estimate must be computed by your university and provided in an official document.
+[Optional] Evidence of relevant elective modules, research, professional experience, internships, open source projects. Please only include evidence of experience that is strictly relevant to the DSAI Master program. Please do not include more than 5 items. More general experience should be included in your CV.
+Cover Form
+The cover form is is an important part of your application and contains a summary of your application information, especially regarding fulfillment of the minimum requirements. Having this information in a standardized manner help us ensure quick and fair processing of your application.
+Please read the instructions and notes carefully before filling the form. All parts of the form include space for comments, should you have the need to provide further explanations.
+The form must be filled in digitally using a PDF editor/viewer. It has been tested on recent versions of Acrobat, Okular, Foxit, Firefox, Chrome and Edge.
+Click here to download the DSAI Application Cover Form 2026 (PDF). After filling the form you can upload it with the rest of the documents in the STiNE application portal.
+Application Procedure
+All application must be submitted through the central STiNE platform. Please do not send applications by E-Mail or post, as these will be ignored.
+Create an account on the University of Hamburg’s STiNE platform. You will then receive the access data for the online application by e-mail. After logging into STiNE, you can access the application form via the Application menu (above), then Online application (navigation bar on the left) > Master, Semester 1, Data Science and Artificial Intelligence, Admission restricted.
+Upload all the individual documents listed above as PDF files in German or English (or a certified translation into German or English). The file upload capacity is limited to 9MB. The deadline for document upload (i.e. end of the application period) is March 31st 11:59 pm C.E.T. The documents listed as [Optional] above must be included as additional documents. All documents must be provided in the same order as above, and before the application deadline.
+The DSAI selection committee will evaluate your application. If you meet the minimum requirements and have sent a complete application, your application will be ranked according to the admission criteria. The selection committee only evaluates the final uploaded PDF files. Emails to the DSAI Team or links to more information or official documents will not be followed or read. Make sure to thoroughly check the content and format of your final application PDF before applying.
+The selection committee sends the ranked list and the list of rejections to the university’ central administration (CampusCenter). The CampusCenter then checks and evaluates this list and then decides how many of the top-ranked applicants will receive a letter of acceptance and who is put on the waiting list.
+The admission notification is sent to you. Please refer to the information in the online application platform (STiNE) for the exact date of publication of the notifications. The notifications will be made available to you electronically in your applicant account in STiNE under the heading "Documents" on the dates specified in the application information. The registration period is 7 days. You should therefore check your account regularly (at least once a week), even if you are rejected in the initial round, so that you do not miss any deadlines if you are admitted in potential later rounds. Please note that you must accept your study place within the deadline stated in the letter of admission, otherwise it will be awarded to the next applicant in the ranking procedure.
+Further Information
+For any questions regarding the application and admission process, please first consult the FAQ (to follow).
+If your question is not answered by the FAQ, please contact the DSAI Team at dsai-info.inf"AT"uni-hamburg.de. Please be aware that we receive many inquiries and it might take us a few days to answer, especially during the application period.
+For technical assistance with the STiNE application portal, please contact the Campus Center using their contact form.
+Frequently Asked Questions
+General Questions
+Is the DSAI program open to international students?
+The DSAI program is taught completely in English and is open to international students. The application procedure for all students is identical, regardless of their nationality, residency, or the country in which they received their Bachelor's degree. Please note: Some international Master's programs at the University of Hamburg follow a different application cycle. This does not currently apply to DSAI, which follows the standard application cycle with application period between February 15th and March 31st.
+Are there any tuition fees?
+The University of Hamburg does not currently levy tuition fees. However, each student must pay a semester contribution towards student organizations and services, and for the public transport ticket. More information is available here.
+What are the chances of admission?
+In the previous application period we received around 1700 applications. Currently the program admits about 20 students every year. We expect a similar number of applications in the coming application period.
+Do you offer scholarships or other funding options?
+We do not currently offer any program-specific scholarships. General information on funding options in the University of Hamburg can be found here.
+Who can I contact for more information?
+For questions on the application process, required documents and regarding the program structure, please contact the DSAI Team: dsai-info.inf@uni-hamburg.de. Before contacting us, please make sure you have properly read through the information provided on our web pages, including this FAQ. Due to the large volume of incoming inquiries, it might take us a few days to answer.
+For technical problems with the application portal (STiNE), please contact the Campus Center using their contact form.
+Application
+When can I apply to the DSAI program?
+The application period starts on February 15th and ends on March 31st of each year. We only offer a single application period each year, with admission to the winter semester (beginning in October).
+Do I require an APS certificate for the application?
+No.
+Should I use uni-assist for the application?
+No. Applications for the DSAI program can only be submitted through the University of Hamburg’s STiNE portal.
+Is there an application fee?
+No.
+When can I expect the notification regarding admission or rejection?
+Notifications will be sent around mid-May.
+How can I prevent my application from being rejected?
+Besides fulfilling the minimum requirements (and providing the relevant evidence), please take note of these important points:
+Only applications fully submitted before the deadline will be considered.
+All required documents must be uploaded using the STiNE application portal. Documents sent by E-Mail or by Post will not be considered. Missing documents may lead to rejection of your application.
+All documents must be in English or in German. If your original documents are in a different language, please provide the original along with a certified translation to either English or German.
+Scanned documents must be in a high enough quality to be readable. Low-quality scans may lead to rejection if the selection committee can not properly read their contents.
+Scans and other PDF files should be uploaded in the correct orientation.
+Please refrain from submitting any documents not listed under Required Documents. This specifically includes motivational letters, irrelevant certificates, awards and irrelevant recommendation letters.
+All information included in the application should be clear and easily accessible. The selection committe must review hundreds of applications in a short time and will not go out of its way to decipher obscure applications.
+Where can I find my application number?
+After registering in the STiNE application portal and starting the online application, select "Application -> Online Application" from the main menu, then click "Edit" next to your ongoing application. This will lead you to the application summary, where will you find the application number down the page.
+Minimum Requirements
+What are ECTS credits? How can I convert my credits to ECTS?
+The European Credit Transfer and Accumulation System (ECTS) is a standardized systems for comparing academic workload across countries, used mainly in Europe. In Germany, a standard academic year consists of 60 ECTS credits (or 30 ECTS credits per semester). If your country or your university has an official conversion ratio between local credits and ECTS, please use it. Otherwise you may convert your local credits to ECTS based on the total number of local credits and the duration of your study program.
+If the conversion to ECTS results in a non-integer number of ECTS credits, we allow rounding up to the next integer for each course separately (for example, if after converting a course has 5.4 ECTS credits, you may count it as having 6 ECTS credits in the application).
+I do not fulfill the minimum requirements regarding coursework in Mathematics or Computer Science. Can professional experience or online courses count towards these requirements instead?
+No. Only courses taken and passed in a university can count towards the coursework requirements. You can, however, include courses that were not taken as part of your Bachelor’s degree (examples: a second Bachelor’s degree, a Master’s degree you have already started).
+I do not fulfill the minimum requirements regarding coursework in Mathematics or Computer Science. Can I compensate by taking extra courses at the University of Hamburg after being admitted?
+No, this option is not offered. Failure to fulfill the minimum requirements will result in direct rejection of your application, therefore making admission impossible.
+What courses count towards the “Stochastics” requirement?
+Courses covering subjects such as: Probability, Statistics, Statistical Methods, Random Processes, Bayesian Methods, Bayesian Estimation and similar.
+What courses count towards the “Computer Science” requirement?
+In general we accept courses with subjects similar to those offered in the "required" and "required elective" (Pflicht/Wahlpflicht) sections of the B.Sc. Informatik (Computer Science) degree at the University of Hamburg (see regulations in German).
+These subjects include:
+Software development / Programming
+Software engineering / Software design
+Theoretical computer science
+Distributed systems
+Privacy / Security
+Alogrithms / Data structures
+Computation theory
+Approximation theory
+Computer architecture
+Operating systems
+Image processing
+Computer networks
+Intelligent systems
+Data visualization
+Embedded systems
+Machine learning
+Digital signal processing
+Big data
+Databases
+High performance computing
+Computer graphics
+Complex systems
+Course Catalog
+Online-Course Catalog University of Hamburg
+Each semester, the STiNE-Online-Catalog offers an annotated catalog and up-to-date overview of all course offerings, lectures, and seminars held at the University of Hamburg. The STiNE online course catalog is activated on August 1st for the winter semester and on February 1st for the summer semester. Registration for modules and courses is possible during the STiNE registration phases.
+In the following schedules you will find the recommended courses for your DSAI Master's Program.
+DSAI course catalog for winter semester 2026/27:
+1. Semester schedule
+DSAI STiNE Online Course Catalog
+DSAI course catalog for summer semester 2026:
+2. Semester schedule
+DSAI STiNE Online Course Catalog
+Your contact persons
+You can direct your queries via e-mail at any time to:
+DSAI-Team(dsai-info.inf"AT"uni-hamburg.de)
+studienbuero.inf"AT"uni-hamburg.de.
+Program Manager:
+Prof. Dr. Timo Gerkmann
+Head of Examinations Board:
+Prof. Dr. Timo Gerkmann
+Please note that applications to the Examinations Board must be sent via the Academic Office Informatics!
+Academic Advisor: DSAI-Team(dsai-info.inf"AT"uni-hamburg.de)
+Study Coordinator DSAI-Team: Dr. Maurício do Vale Madeira da Costa
+Examination Management: N.N.
+Course Management: Silke Peters
+Departmental student representative committee:
+Informatics

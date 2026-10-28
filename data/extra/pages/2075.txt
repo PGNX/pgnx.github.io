@@ -1,0 +1,61 @@
+URL: https://aalab.cs.rptu.de/sozioinformatik-studieren
+TITLE: Sozioinformatik studieren: Digitalisierung verstehen & die Zukunft entwickeln. - RPTU
+
+Hauptnavigation
+Inhalt
+AG Algorithm Accountability Lab
+Software und Technik sind heute aus unserer Gesellschaft nicht mehr wegzudenken. Generative Sprachmodelle wie ChatGPT werden überall genutzt, nicht nur um Hausaufgaben zu lösen oder Rezepte zu generieren, sondern auch bei der Reiseplanung, als Übersetzer oder in der Entwicklung großer Softwaresysteme. Unternehmen setzen Künstliche Intelligenz sowohl zur Qualitätssicherung als auch zur Unterstützung bei Personalentscheidungen ein. Und während TikTok und andere soziale Medien um unsere Aufmerksamkeit konkurrieren, beeinflussen ihre Algorithmen zunehmend, welche Informationen wir wahrnehmen und wie öffentliche Debatten geführt werden. Wer diese Entwicklungen verstehen will, braucht mehr als technisches Wissen allein.
+Genau hier setzt die Sozioinformatik an. Statt Technik und Menschen getrennt zu betrachten, beschäftigt sie sich damit, wie beide zusammenhängen und sich gegenseitig beeinflussen können. Im Rahmen des Studiums ergeben sich daraus unter anderem folgende Fragen:
+Welche gesellschaftlichen Auswirkungen kann die Einführung neuer Technologien mit sich bringen?
+Wie lassen sich Phänomene wie Filterblasen, Doomscrolling oder AI Slop erklären?
+Was kann man tun, damit Software nicht nur technisch funktioniert, sondern auch die gewünschte Wirkung entfaltet?
+Das Studium setzt sich zusammen aus Softwareentwicklung und Grundlagenwissen in den Fächern Wirtschaft, Recht, Ethik, Soziologie und Psychologie. Ein Abschluss in der Sozioinformatik bietet daher viele Möglichkeiten für die spätere Berufswahl. Die meisten Absolvent:innen gehen in die Softwareentwicklung; Sozioinformatiker:innen sind aber dank ihrer interdisziplinären Ausbildung auch in Politik, Verwaltung und Wirtschaft sehr gefragt, weil sie gut mit komplexen Systemen und Problemen umgehen können. So kann man zum Beispiel statt in der Softwareentwicklung zu arbeiten, auch Behörden beraten, den Einsatz von KI-Systemen prüfen oder in Unternehmen die Einführung neuer Technologien begleiten.
+Der Studiengang Sozioinformatik ist bisher deutschlandweit einzigartig. Um die komplexen Wechselwirkungen zwischen Technik und Menschen verstehen zu können, vermittelt das Studium:
+die notwendigen Grundlagen der Informatik, insbesondere der Softwareentwicklung,
+Methoden aus der empirischen Sozialforschung und der Psychologie,
+ökonomische und spieltheoretische Modelle aus den Wirtschaftswissenschaften,
+ein grundlegendes Verständnis der relevanten Rechtslage,
+einen profunden ethischen Standpunkt im Dialog mit der Philosophie,
+sowie Kompetenzen im systemischen Denken und in der Modellierung komplexer Probleme. Hier wird die sozioinformatische Kompetenz ausgebildet, Softwareentwicklung und gesellschaftliche Einbettung gemeinsam zu denken.
+Studierende können durch zahlreiche Wahlmöglichkeiten ihren eigenen Schwerpunkt innerhalb der Sozioinformatik setzen und so ein individuelles Profil entwickeln. So ist es beispielsweise möglich, sich im Laufe des Studiums zur gefragten KI-Expertin, zum flexiblen Software Engineer, zur informierten Wissenschaftskommunikatorin im Bereich Digitalisierung, zum analytischen Politikberater oder zum fachkundigen Business Consultant zu entwickeln.
+Du bist bereits überzeugt und möchtest mehr Informationen zum Aufbau des Studiums?
+Weitere Informationen zum Bachelor und Master findest du weiter unten auf der Seite.
+... für Algorithmen, Apps und moderne Software sowie die Technik dahinter?
+Als Sozioinformatiker:in erwirbst du fundierte Grundlagen in der Informatik. Du lernst, wie Algorithmen funktionieren, wie Software entwickelt wird und wie du eigene Anwendungen programmierst. Dabei verstehst du nicht nur den Aufbau moderner digitaler Systeme, sondern setzt auch eigene Programmierprojekte in die Praxis um.
+… für Menschen und gesellschaftlichen Wandel?
+Die Sozioinformatik ermöglicht dir spannende Einblicke in ein breites Spektrum gesellschaftswissenschaftlicher Themen. Du beschäftigst dich sowohl mit individuellen Perspektiven aus Psychologie und Philosophie als auch mit dem Verhalten von Menschen in Gruppen und Gesellschaften – etwa aus der Soziologie und den Wirtschaftswissenschaften. So verstehst du, wie menschliches Handeln und gesellschaftliche Strukturen zusammenhängen und sich gegenseitig beeinflussen.
+... dafür, wie alles im Großen und Kleinen miteinander zusammenhängt?
+Um zu verstehen, wie sich menschliches Verhalten und Veränderungen durch moderne Technologien gegenseitig beeinflussen können, lernst du, in Systemen zu denken. Dabei geht es vor allem darum, den Umgang mit Komplexität zu erlernen. Mithilfe von Modellen und Methoden der Sozioinformatik übst du dich darin, komplexe Systeme zu strukturieren und zu analysieren.
+... neugierig und offen für das Unbekannte?
+Durch den breiten Fächermix lernst du im Studium viele unterschiedliche Themen und Perspektiven kennen. So entdeckst du ständig Neues und kannst dich zugleich in ausgewählte Bereiche besonders vertiefen.
+... gerne daran beteiligt, Dinge aktiv mitzugestalten?
+Das Studium lebt auch davon, was du selbst einbringst. Die interaktiven Lehrformate der Sozioinformatik werden regelmäßig weiterentwickelt und profitieren von deinem Feedback und deiner Beteiligung. Auch in Seminaren und Projekten hast du viel Raum für eigene Ideen. Der Austausch mit anderen Studierenden und den Dozierenden hält das Studium dabei lebendig und praxisnah.
+... bereit für neue Herausforderungen?
+Ein Studium der Sozioinformatik bietet dir viele Gestaltungsmöglichkeiten, stellt dich aber auch vor neue Herausforderungen und erfordert Eigeninitiative und Durchhaltevermögen. Ob in anspruchsvollen Prüfungen, bei der Entwicklung deines eigenen Profils oder in einem möglichen Auslandssemester – du wirst immer wieder über dich hinauswachsen, ohne dabei je allein gelassen zu werden.
+Werde Teil einer Gemeinschaft.
+Auch außerhalb der Lehrveranstaltungen gibt es viele Möglichkeiten, sich mit anderen Studierenden auszutauschen. Das „Lunch für Sozioinformatiker:innen“ ist ein Beispiel dafür. Hier treffen sich Studierende, um über Vorlesungen, Projekte oder Fragen rund um das Studium ins Gespräch zu kommen.
+Entdecke neue Länder.
+Die Sozioinformatik bietet dir die Möglichkeit, während des Studiums internationale Erfahrungen zu sammeln. Ein Auslandssemester lässt sich gut in den Studienverlauf integrieren. Bisherige Studierende haben beispielsweise bereits Finnland, Schweden, Spanien und Neuseeland bereist. Wohin wird es dich treiben?
+Profitiere vom engen Austausch.
+Die überschaubare Größe des Studiengangs ermöglicht einen engen Austausch zwischen Studierenden und Dozierenden. Du kannst Fragen direkt besprechen, eigene Interessen einbringen und wirst gleichzeitig dazu ermutigt, selbstständig zu arbeiten und dein eigenes Profil zu entwickeln.
+Ein Bachelor in Sozioinformatik vermittelt die notwendigen Kompetenzen, um Softwaresysteme sicher, verantwortungsvoll und skalierbar zu entwickeln. Darüber hinaus wirst du in der Lage sein sozioinformatische Systeme zu identifizieren, zu modellieren und zu analysieren, sowie das grundlegene Handwerk zum wissenschaftlichen Arbeiten erlangen.
+Das Studium setzt sich aus den Abschnitten: Informatik, Gesellschaft, Sozioinformatik sowie einem frei wählbaren Ergänzungsteil und der Abschlussarbeit zusammen.
+Mehr Informationen zum Bachelor
+Direkt bewerben
+Im Master werden die Kompetenzen aus dem Bachelor vertieft und näher an den aktuellen Stand der Forschung gebracht. Wissenschaftliches Arbeiten und die kritische Auseinandersetzung mit sozioinformatischen Methoden spielen hierbei eine besondere Rolle.
+Das Studium besteht aus je einer Vertiefung in Informatik und Sozioinformatik, sowie aus den Abschnitten Gesellschaft und Fortgeschrittenes Software Engineering. Darüber hinaus gibt es einen umfangreichen Ergänzungsteil und die Masterarbeit.
+Mehr Informationen zum Master
+Direkt bewerben
+Julian Pelloth
+E-Mail: julian.pelloth[at]cs.rptu.de
+Dipl.-Päd. Christian Bogner
+Tel.: +49 631 205 2572
+E-Mail: christian.bogner[at]cs.rptu.de
+Prof. Dr. Katharina Zweig
+E-Mail: zweig[at]cs.rptu.de
+Studienberatung des Fachbereich Informatik
+Studienberatung der RPTU
+Sozioinformatik: Ein Studiengang, der Technologie und Gesellschaft zusammenbringt
+Studiengang Sozioinformatik: Brückenbauen zwischen Algorithmen und Gesellschaft
+Katharina Zweig: Die Sozioinformatikerin sieht den Faktor Mensch
+Prof. Dr. Katharina Zweig

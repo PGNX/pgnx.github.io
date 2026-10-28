@@ -1,0 +1,9 @@
+{
+  "_readme": "PGNX volunteer corrections. Key = DAAD programme id (see the number at the end of the DAAD listing URL). Any field from src/data/programs.json can be overridden. Run `npm run data` after editing.",
+  "_example": {
+    "verifiedAt": "2026-10-28",
+    "verifiedBy": "Volunteer name",
+    "notes": "Deadline for non-EU applicants confirmed on the university site on 28 Oct 2026.",
+    "courseWebsite": "https://example.university.de/programme"
+  }
+}

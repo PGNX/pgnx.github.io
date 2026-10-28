@@ -1,0 +1,72 @@
+URL: https://www.mss.rwth-aachen.de/cms/mss/studium/studium/masterstudiengaenge/~bfaych/sisc-masterprogramm/?lidx=1
+TITLE: Master's Program Simulation Sciences (SiSc) | MSS | RWTH Aachen University | EN
+
+Master's Program Simulation Sciences (SiSc)
+Course Information
+Admission
+the joint RWTH Aachen and FZ Jülich activities in the area of computational science and engineering are undergoing reorganization. The German Research School for Simulation Science has been merged with the graduate school AICES and will form a School for Simulation and Data Science (SSD).
+If you have further questions regarding the SiSc Master's Program or if you need further advice regarding the application process, please contact Dr. Nicole Faber.
+Contact
+Nicole Faber
+Image © Nicole Faber
+WorkSend Email
+Concept
+• Master of Science (M.Sc.) in Simulation Sciences
+• Duration: 2 years (4 semesters)
+• All courses will be given in English
+• Start: each winter semester
+• Admission: students with a bachelor's degree in science, engineering, mathematics, or informatics are invited to apply
+SiSc is an interdisciplinary Master’s program taught in English for holders of a Bachelor’s degree in a science or engineering subject. The course is offered by RWTH Aachen University and Forschungszentrum Jülich.
+Simulation Sciences is taken to mean those disciplines which, on the one hand, deal with basic methodological principles (e.g., numerical analysis) and, on the other hand, with applications of computer simulation in science and engineering. Due to the exponential development of modern high-performance computers, these disciplines are gaining ever-greater significance and now represent the third pillar of research complementing experiment and theory. Well-known areas in which computer simulations are extensively used are, for instance, climate research, materials science and biotechnology.
+The special feature of the interdisciplinary Simulation Sciences Program is the training of scientists and engineers enabling them to handle the continuously growing applications of high-performance computers in science and engineering. Students will be given basic training in the methodological principles of computer simulation and, depending on their personal choice, will then complete an application-oriented or methodology-oriented program. In the field of applications, a selection can be made from a broad spectrum of courses, which can either be combined in an interdisciplinary manner or focused on one priority. This concept permits students to extend their knowledge of the discipline of their bachelor’s degree or to change their field. For example, a Bachelor’s in physics could be followed by a Master’s in Simulation Sciences with a focus on engineering. In the course of the program, students will be granted access to the supercomputer and visualization resources of RWTH Aachen University and Forschungszentrum Jülich.
+Career opportunities in numerous professional fields are open to graduates of the Master’s program in Simulation Sciences. Due to its interdisciplinarity, the program addresses the areas of methodology, basic principles and applications of simulation sciences that are currently in great demand. Potential employers are found in both research and industry. For example, efforts to reduce costs mean that computer simulations now replace expensive experiments, which makes it attractive for industry to employ well-qualified experts in the field. Since the program is taught in English, the graduates are moreover well qualified for the international market.
+Modul Overview
+Previous item
+Next item
+Modul Overview
+Original Photo (png: 279 kB)
+Modul Overview
+Original Photo (png: 279 kB)
+Previous item
+1/1
+Next item
+FAQ
+I am very much interested in the Master's program Simulation Sciences, but I do not know if I meet the requirements.
+With our Master's program we address very well-qualified students with a substantial background in the fundamentals of a natural science, engineering, computer science or applied mathematics. You should have a Bachelor's degree in one of the above mentioned fields of study with grades substantially above average. Also a good command of English (see below under "Language") as well as knowledge in at least one programming language such as C or Fortran is required.
+Can I apply even if I do not have my Bachelor's degree yet?
+Yes, this is possible in case you will be finishing your Bachelor studies within the current year and as long as you provide us with your transcripts obtained so far.
+How can I apply?
+We only accept applications which meet the described requirements. Please make sure that you provide us with all necessary documents.
+My home university does not provide ECTS credits. How do I fill the supplementary form?
+Simply fill in your credit points or leave the corresponding cells blank.
+There is not enough room for all my courses in the supplementary form. What do I do?
+Simply group your courses according to the subject and list more than one course per line.
+Do I need to provide originals or will copies suffice?
+For a first evaluation of your application copies are sufficient. In case your application is successful and you are going to enrol yourself at RWTH Aachen University, you will have to present your original documents.
+How long does the evaluation process take?
+We start processing your application as soon as the documents are complete (i.e. when we have received your application documents and the reference letters) but not before March 1. We cannot give you exact times and dates.
+What stages do I have to go through if my application is rated positively?
+First your application documents will be pre-evaluated. In addition you may be asked for an interview with one of our faculty members. Finally the evaluation committee will check your documents and decide about admission. The committee meets about once a month. Once this decision has been made you will receive an official answer by RWTH Aachen University.
+How long does the Master's program take and what does it consist of?
+The Master's program comprises four semesters. The first semester covers the mandatory courses Numerical Methods for Partial Differential Equations, From Quantum to Continuum Physics I, Applied Quantum Mechanics, Data Analysis and Visualisation and Parallel Programming I. In the second semester you will attend the mandatory courses Fast Iterative Solvers, Parallel Computing in Simulation Sciences, From Quantum to Continuum Physics II OR Computational Many-Body Theory, Model Based Estimation Methods OR Quantum Theory of Materials plus a number of elective courses of your choice. In the mandatory SiSc-Laboratory of the third semester you will apply the knowledge you have gained in the first two semesters. By individually selecting additional elective courses you determine the main focus of your studies. The fourth semester is dedicated to your Master's thesis. The Master's thesis is a document written in English in which you demonstrate your ability to work independently and scientifically on a problem from the field of simulation sciences within a given time frame of 22 weeks. The entire program is meant to last four semesters, and 120 credit points have to be obtained (roughly 30 credit points per semester).
+When does the course start and are there any deadlines to consider?
+The course starts in winter semester (October 1).
+What is the difference between mandatory and elective courses?
+Mandatory courses are those courses which have to be taken by all students regardless of their individual background and specialization. From the second semester on you have the possibility to choose, according to your individual interests, elective courses from a wide variety of fields such as: energy engineering, process engineering, control engineering, fluid mechanics, structural mechanics, biomedical engineering, production engineering, communication engineering, materials science, physics, chemistry, geoscience, computer sciences and mathematics.
+How do I set up my study plan?
+A scientific and an administrative advisor will discuss and set up the study plan with you. Special attention will be paid to your academic background and to the scientific focus you are aiming at.
+How much does the Master's program cost?
+Currently, there is no tuition fee. Students have to pay a student services fee per semester (more information here). As an enrolled student you will benefit from reduced prices for public transport, access to museums, etc.
+How much are the living costs in Aachen and Jülich?
+The cost of living in Aachen and Jülich varies greatly. RWTH Aachen University provides a good overview table.
+Do I need to have knowledge of the German language?
+It is not mandatory that you speak German as the courses and exams of our Master's program in Simulation Sciences are held in English. However, we encourage our students to learn German as it will help them in their daily life. There is the possibility to learn German at the language centre of RWTH Aachen University or at private institutions.
+How do I know if my English is good enough?
+We ask our students to provide an official English test (e.g. TOEFL or IELTS). In the course-specific examination regulations you will find detailed information on wether or which proof must be provided.
+Can I hand in the English test result later?
+Yes, in case you do not have your results yet, you can hand them in later.
+Will I get help regarding organizational matters when coming to Germany?
+Yes, the service team will assist you regarding e.g. insurance matters, getting familiar with Germany and especially Aachen and Jülich. On request, there is also a handbook available with helpful information. You will also be assisted regarding finding accommodation - however, it is each student's responsibility to find accommodation. If you want to get a room in one of the student dorms run by the Studentenwerk you should apply for accommodation as early as possible (e.g. January / February to get accommodation in September / October). For more information see here. It is not necessary to be enrolled, you should start to apply for a room as soon as you know that you are going to study in Aachen.
+What are my career opportunities when studying "Simulation Sciences"?
+Career opportunities in numerous professional fields are open to graduates of the Master’s program in Simulation Sciences. Due to its interdisciplinarity, the program addresses the areas of methodology, basic principles and applications of simulation sciences that are currently in very great demand.
+Potential employers can be found in both research and industry. For example, cost cutting means that computer simulations now replace expensive experiments, which makes it attractive for industry to employ well-qualified experts in the field. Since the program is taught in English, the graduates are moreover well qualified for the international market.

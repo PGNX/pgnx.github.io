@@ -1,0 +1,33 @@
+URL: https://www.frankfurt-university.de/en/studies/master-programs/international-business-ma/
+TITLE: Status der Hochschul Webservices – Frankfurt UAS
+
+Globale Sicherheitslücken in PHP: Webseite der Frankfurt UAS vorübergehend nicht erreichbar
+Aufgrund einer am 21. Oktober 2026 bekannt gewordenen kritischen Sicherheitslücke in der weltweit eingesetzten Web-Programmiersprache PHP hat die Frankfurt University of Applied Sciences (Frankfurt UAS) vorsorglich Maßnahmen zum Schutz ihrer IT-Infrastruktur ergriffen. In diesem Zusammenhang wurden potenziell betroffene Systeme vorübergehend vom Netz genommen oder ihre Erreichbarkeit eingeschränkt. Aktuell ist noch die Hochschulwebseite betroffen.
+Dies ist eine reine Vorsichtsmaßnahme und dient dem Schutz der hochschulischen Systeme und Daten.
+Die Frankfurt UAS hat sich entschieden, aufgrund der Sicherheitslücke den seit längerer Zeit in Vorbereitung befindlichen Web-Relaunch vorzuziehen. Dies bietet in der aktuellen Situation die Chance, die Hochschulwebseite auf eine moderne und zukunftsfähige technische Plattform zu überführen. In Kürze wird schrittweise ein zunächst reduzierter Webauftritt bereitgestellt, der kontinuierlich erweitert wird.
+Bitte versuchen Sie es zu einem späteren Zeitpunkt erneut.
+Wichtige Kontakte der Frankfurt UAS im Überblick:
+Studienbüro: studienbuero@fra-uas.de
+Studienberatung: studienberatung@fra-uas.de
+International Office: info.io@fra-uas.de
+Hochschulleitung: hochschulleitung@fra-uas.de
+Pressestelle: pressestelle@fra-uas.de
+Betriebssicherheit: betriebssicherheit@fra-uas.de
+Internationale Zulassung: international.admission@fra-uas.de
+Studierendenportal FranCa: frankfurt-university.hispro.de
+Bibliothek: Hier klicken
+Global Security Vulnerabilities in PHP: Frankfurt UAS Website Temporarily Unavailable
+Due to a critical security vulnerability in PHP—a web programming language used worldwide—that came to light on October 21, 2026, the Frankfurt University of Applied Sciences (Frankfurt UAS) has taken precautionary measures to protect its IT infrastructure. In this context, potentially affected systems have been temporarily taken offline or their accessibility restricted. Currently, the university’s website is still affected.
+This is purely a precautionary measure intended to protect the university’s systems and data.
+Due to the security vulnerability, Frankfurt UAS has decided to move up the website relaunch, which has been in the works for some time. In the current situation, this provides an opportunity to migrate the university website to a modern and future-proof technical platform. Soon, a initially scaled-down website will be rolled out in phases and will be continuously expanded.
+Please try again later.
+Overview of important contacts at Frankfurt UAS:
+Academic Affairs Office: studienbuero@fra-uas.de
+Student Advising: studienberatung@fra-uas.de
+International Office: info.io@fra-uas.de
+University Administration: hochschulleitung@fra-uas.de
+Press Office: pressestelle@fra-uas.de
+Operational Safety: betriebssicherheit@fra-uas.de
+International Admission: international.admission@fra-uas.de
+Student Portal: frankfurt-university.hispro.de
+Library: Click here

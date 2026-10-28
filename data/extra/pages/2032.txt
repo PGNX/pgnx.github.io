@@ -1,0 +1,141 @@
+URL: https://informatik.th-brandenburg.de/studium/masterstudiengaenge/interactive-media/
+TITLE: Interactive Media›Technische Hochschule Brandenburg
+
+Direkt zur Hauptnavigation
+Direkt zum Inhalt
+Direkt zur Suche
+Fachbereich Informatik und Medien
+Studium
+Masterstudiengänge
+Interactive Media
+The Master's programme Interactive Media
+new from summersemester 2026
+Concept and design // Media technology // Interdisciplinary cooperation
+Whether smartphone, website, computer game or smart home: all these products and applications not only have to work optimally, they also have to be intuitive to use and communicate seamlessly with each other. This requires creative minds that can build a bridge between design and computer science during the development process. With the Master's programme in Interactive Media, you will deepen your knowledge of computer science, design and media technologies and expand your expertise in all relevant areas to help shape our digital future.
+Quick overview
+Application periodfor national students: winter term till 15.10., summer term till 30.03.,
+for international students: winter term 01.04.-15.05. via uni‑assist*
+* Information for international applicants
+Academic degreeMaster of Science (120 CP)
+Form of studyFull time or part time
+DurationFull time: 4 semesters
+Part time: 6 semesters (or individual)
+AccreditationYes (ASIIN e.V.)
+Language of instructionEnglish
+Admission requirements
+Bachelor's degree with at least 180 ECTS which includes a specialisation in either media informatics, media design or media technology. Typically, but not exclusively, these are degree programmes such as media informatics, computer science with the study profile digital media, interaction design, interface design or comparable degree programmes. Degree programmes that contain computer science qualifications and media-related qualifications totalling 60 ECTS credits are recognised as comparable. Of these, at least 20 ECTS credits must be allocated to computer science qualifications and at least 20 ECTS credits to media-related qualifications.
+proof of sufficient English B2 language skills are required: TOEFL iBT (minimum 85), IELTS Academic (minimum 6.0), Cambridge English: Advanced (CAE) with at least grade B, UniCert (minimum level 2), or a higher education entrance qualification from Germany, Austria, Switzerland, the United Kingdom, Ireland, the USA, Canada, Australia, or New Zealand
+Portfolio (10 pages, pdf): Applicants must demonstrate sound analytical, conceptual, and technical media skills. This will be demonstrated through a project portfolio focusing on: UI/UX Design / Web and App Development/Programming / AR, VR, and Mixed Reality / 3D and Interactive Environments / Game Design and Game Development / Tangible Interaction and Physical Computing / Other relevant interactive media projects. Please add the following information for each project: A short description of the project, including the title, the year of creation, and the context of development. Highlight your coding skills. Group projects must be clearly identified. Your individual contribution must be explicitly described. Please ensure that only royalty-free stock images are used. Any AI-generated content must be clearly labeled. Only submit projects for which you are the original author/creator.
+Prior to arrival: For details how to prepare your stay in Germany, see Prior to arrival information.
+Content
+The English-language Master's programme in Interactive Media expected to start from summersemester 2026 and teaches you in-depth theories, principles, and expertise at the intersection of media design, computer science, media science and media management (start-ups, leadership). You will learn how to develop these independently and apply them in practice to find creative solutions to complex problems. Our areas of teaching include interaction design for two- and three-dimensional spaces, human-computer interaction, generative design, game design and development, computation design, time-based media, artificial intelligence, computer graphics, sensor technology, data visualization, and natural language interaction.
+Practice-oriented work
+The course of study is characterized by a wide range of teaching methods: modern and classic study formats such as projects, group work, lectures, exercises, study trips to partner universities, conference trips and research projects complement each other. This makes the course particularly varied and application-oriented.
+The Department of Computer Science and Media has 19 special laboratories with 150 computer workstations and modern technology for practical work, including:
+an AV laboratory,
+a media production laboratory,
+a recording studio with speaker's booth,
+a physical computing lab with a wide variety of micro electronics
+a capturing studio with a video production environment,
+a Motion Capture system,
+an extensive selection of video production equipment,
+VR and MR glasses
+And many more
+We are also equipped with the state-of-the-art software suites for:
+Media production (Adobe, Affinity)
+3D production (Cinema 4D, Blender, Maya)
+Game production (Unity, Unreal)
+Video production (DaVinci Resolve Pro)
+Photogrammetry (Reality Capture, Metashape)
+Generative AI (Stable Diffusion)
+The master's programme is characterized by a consistent project and research orientation. The following topics are of particular relevance:
+Web and app development
+Virtual and augmented reality
+Game design
+3D design
+Artificial intelligence and design
+Interfaces of the future with sensor technology and gestures
+Visual effects (VFX) and compositing
+Film production
+Motion capture
+In addition, we cooperate with different universities like the Film University Babelsberg Konrad Wolf and other international universities, such as the University of Tallinn.
+This is how your studies are structured
+First semester
+Second semester
+Third semester
+Fourth semester
+Elective courses
+Course Semester hours ECTS
+Media theories 4 6
+Creative technologies 4 6
+Elective I 4 6
+Elective II 4 6
+Project I 3 4,5
+Project Management 1 1,5
+German course 1,3 2
+Course Semester hours ECTS
+Media research 4 6
+Immersive media 4 6
+Mobile user experience 4 6
+Elective III 4 6
+Project II 3 4,5
+Scientific writing 1 1,5
+German course 1,3 2
+Course Semester hours ECTS
+Media communication 4 6
+Interface design 4 6
+Elective IV 4 6
+Elective V 4 6
+Project III 3 4,5
+Entrepreneurship 1 1,5
+German course 1,3 2
+Course ECTS
+Master thesis with colloquium 30
+Applied Design Science Research
+Business Innovation Design
+German for foreign students/Deutsch für ausländische Studierende
+Digital Film Production
+Digital Photography
+GameLab
+Generative AI in Visual Computing
+Interactive Environments
+Interactive Products and services
+IT- and Media Forensic
+Mathematical-algorithmic methods of computer graphics
+Media security
+Motion Graphics
+Please note that not all elective courses will be available in every term.
+How you can specialize
+To deepen your knowledge, a wide range of compulsory and elective modules await you in specialized areas of interactive media. Each semester, the department decides which elective modules will be offered. You can find the current range of modules in the lecture directory.
+The programme focuses on multiple areas that are increasingly converging and cross-pollinating with innovative developments.
+These areas include:
+Interaction design for two- and three-dimensional rooms
+Human Computer Interaction
+Interactive virtual worlds (e.g., Game Design & Development, VR, AR)
+Artificial Intelligence, Computation Design, Generative Design
+Time-Based Media (e.g., film, animation, audio)
+How to enrol
+You can enrol online for the Master's programme in Interactive Media directly on the THB myCampus portal.
+As an international student please apply via uni-assist. All information about the requirements and the application process via uni-assist can be found on the website of our International Office.
+Print this pageDownload this page as PDF
+Studienfachberatung
+Prof. Dr. Jessica BroscheitProfessorin für Digitale Medien, insbesondere Mediengestaltung
+T +49 3381 355-438
+jessica.broscheit@th-brandenburg.de
+Allgemeine Studienberatung
+T+ 49 3381 355 - 124
+studienberatung(at)th-brandenburg.de
+Dana VoigtLeitung Allgemeine Studienberatung und Duales Studium | Hochschulzentrum Studierendenservice
+Franciska LückAllgemeine Studienberatung | Hochschulzentrum Studierendenservice
+further information / weitere Informationen / Downloads
+Study and examination regulations/ Studien- und Prüfungsordnung
+module manual / Modulhandbuch
+Wir verwenden Cookies
+Funktional
+Analyse
+Auf unserer Webseite werden Cookies verwendet. Einige sind notwendig, während es uns andere ermöglichen, unsere Webseite zu verbessern.
+Alle akzeptieren
+Nur essentielle Cookies akzeptieren
+Speichern und schließen
+Mehr über die genutzten Cookies erfahren
+Cookie optin by Olli machts

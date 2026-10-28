@@ -386,6 +386,50 @@ function highlightsFor(p) {
   return out;
 }
 
+// ---------- ECTS requirements: "at least 30 ECTS in Mathematics" -> { credits, subject } ----------
+const E_UNIT = "(?:ECTS(?:\\s*(?:credit\\s*)?points?|\\s*credits?)?|credit\\s*points?|credits?|\\bCP\\b|\\bLP\\b)";
+const E_QUAL = "(?:at\\s+least|minimum\\s+of|a\\s+minimum\\s+of|minimum|min\\.?|no\\s+fewer\\s+than|more\\s+than|≥|>=)?\\s*";
+const E_STOP = "(?=,|;|\\.|•|\\(|\\)|\\s+(?:and|or)\\s+(?:at\\s+least|min|a\\s+minimum|\\d)|\\s+of\\s+which|\\s+(?:is|are|must|should|has|have|will)\\b|$)";
+const E_GENERIC = /^(total|overall|in total|credits?|ects|points?|the|a|an|which|that|them|this|these|those|it|each|per semester|semester)$/i;
+// subjects that are really clauses, not subjects
+const E_BAD_START = /^(during|by|with|without|should|must|shall|these|those|the (bachelor|master|first|previous|prior|entire|whole)|a larger|a total|across|earned|taken|acquired|completed|obtained|which|that|per|in total|within the|after|before|prior|over|throughout|towards|to be|have|has|had|is|are|was|were|will|can|may|or|and|at|if|when|where|while|as|so|than|then|there|here|your|his|her|their|our|you|we|they|at least|minimum|about|approximately|roughly|more|less|not|no|only|also|plus|including|e\.g|i\.e|for example|such as|equivalent)\b/i;
+function cleanSubject(x) {
+  x = x.replace(/^(the\s+)?(fields?|areas?|subjects?|modules?|courses?|topics?|disciplines?)\s+(of|in)\s+/i, "")
+       .replace(/^(in|of|from|for|on|covering|related\s+to|within)\s+/i, "")
+       .replace(/\s+(or|and|and\/or|in|of)\s*$/i, "").replace(/[\s,;:.]+$/, "").replace(/^[\s,;:.]+/, "").replace(/\s+/g, " ").trim();
+  if (x.length > 70) x = x.slice(0, 67).replace(/\s+\S*$/, "") + "…";
+  return x;
+}
+function parseEcts(text) {
+  if (!text) return { items: [], total: null };
+  const t = text.replace(/\s+/g, " ");
+  const items = []; const seen = new Set();
+  const push = (credits, subject, src) => {
+    const sub = cleanSubject(subject); const n = Number(credits);
+    if (!sub || sub.length < 3 || E_GENERIC.test(sub) || E_BAD_START.test(sub) || /^\d/.test(sub) || !n || n > 150) return;
+    if (!/[a-z]{3}/i.test(sub) || /\b(semester|studies|programme|program|degree|course of study)\b$/i.test(sub) && !/\b(in|of)\b/i.test(sub)) return;
+    const k = `${n}|${sub.toLowerCase()}`; if (seen.has(k)) return; seen.add(k);
+    items.push({ credits: n, subject: sub, text: src.trim().slice(0, 200) });
+  };
+  let m;
+  // A: "at least 30 ECTS in Business Administration", "28 ECTS mathematics"
+  const rA = new RegExp(`${E_QUAL}(\\d{1,3})\\s*${E_UNIT}\\s*(?:credits?|points?)?\\s*(?:in|of|from|for|on|covering|related\\s+to|within)?\\s+([A-Za-z][^.;•(),]{2,70}?)${E_STOP}`, "gi");
+  while ((m = rA.exec(t))) push(m[1], m[2], m[0]);
+  // B: "Mathematics: 28 ECTS", "Mechanics (18 CP)"
+  const rB = new RegExp(`([A-Z][A-Za-z&/\\- ]{2,60}?)\\s*[:(]\\s*${E_QUAL}(\\d{1,3})\\s*${E_UNIT}`, "g");
+  while ((m = rB.exec(t))) push(m[2], m[1], m[0]);
+  // C: "Chemistry (min. 4)" when the surrounding text talks about credits
+  if (/credits?|ECTS/i.test(t)) {
+    const rC = /([A-Z][A-Za-z&/\- ]{2,40}?)\s*\(\s*(?:min\.?|at least|minimum)\s*(\d{1,3})\s*\)/g;
+    while ((m = rC.exec(t))) push(m[2], m[1], m[0]);
+  }
+  // total size of the prior degree: "180 ECTS", "at least 210 credits"
+  let total = null;
+  const rT = new RegExp(`${E_QUAL}(1[5-9]\\d|2[0-4]\\d)\\s*${E_UNIT}`, "gi");
+  while ((m = rT.exec(t))) { const n = Number(m[1]); if (!total || n < total) total = n; }
+  return { items: items.slice(0, 10), total };
+}
+
 function main() {
   const raw = JSON.parse(fs.readFileSync(RAW, "utf8"));
   const overridesRaw = fs.existsSync(OVERRIDES) ? JSON.parse(fs.readFileSync(OVERRIDES, "utf8")) : {};
@@ -463,7 +507,7 @@ function main() {
   const extras = loadExtra(now, slugs);
   programmes.push(...extras);
   console.log(`university-verified extras: ${extras.length}`);
-  for (const p of programmes) p.highlights = highlightsFor(p);
+  for (const p of programmes) { p.highlights = highlightsFor(p); p.ects = parseEcts(p.admissionRequirements); }
   programmes.sort((a, b) => a.name.localeCompare(b.name));
   const counts = {};
   for (const p of programmes) for (const c of p.categories) counts[c] = (counts[c] || 0) + 1;

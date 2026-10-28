@@ -16,6 +16,9 @@ export interface ApplicationPeriod {
   dates: { day: number; month: number; year: number | null }[];
 }
 
+export interface EctsItem { credits: number; subject: string; text: string }
+export interface EctsInfo { items: EctsItem[]; total: number | null }
+
 export interface Highlight { level: "red" | "amber" | "green" | "neutral"; label: string; detail: string | null }
 
 export interface Programme {
@@ -70,6 +73,7 @@ export interface Programme {
   sources?: string[];
   confidence?: "high" | "medium" | "low";
   highlights: Highlight[];
+  ects?: EctsInfo;
   fetchedAt: string;
   verifiedAt: string | null;
   verifiedBy: string | null;

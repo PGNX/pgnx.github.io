@@ -9,7 +9,7 @@ export function Header() {
         <Link href="/" className="flex items-center gap-3 min-w-0">
           <Image src={asset("/logo.png")} alt="" width={36} height={36} priority className="shrink-0 rounded-full bg-white" />
           <span className="flex flex-col leading-tight min-w-0">
-            <span className="text-[15px] font-semibold tracking-tight truncate text-white">{site.name}</span>
+            <span className="font-heading text-[15px] tracking-tight truncate text-white">{site.name}</span>
             <span className="text-[11px] uppercase tracking-[0.12em] text-white/70">{site.org}</span>
           </span>
         </Link>

@@ -10,11 +10,18 @@ type BadgeInput = { deadlines: Deadline[]; noDeadline: boolean };
  *   Apply by 15 Nov 2026 · 18 days left
  *   Summer 2027 intake, starts April 2027
  */
-export function DeadlineBadge({ p, align = "left" }: { p: BadgeInput; align?: "left" | "right" }) {
+export function DeadlineBadge({ p, align = "left", compact = false }: { p: BadgeInput; align?: "left" | "right"; compact?: boolean }) {
   const today = useToday();
   const nd = nextDeadline(p, today);
   const cls = align === "right" ? "md:items-end md:text-right" : "";
   if (!nd) {
+    if (compact) {
+      return (
+        <span className="deadline deadline-unknown inline-flex items-center gap-2 text-sm">
+          <span className="dot dot-unknown" />{p.noDeadline ? "Rolling admission" : "See official page"}
+        </span>
+      );
+    }
     return (
       <div className={`flex flex-col gap-0.5 ${cls}`}>
         <span className="deadline deadline-unknown inline-flex items-center gap-2 text-sm">
@@ -29,6 +36,18 @@ export function DeadlineBadge({ p, align = "left" }: { p: BadgeInput; align?: "l
   const left = days === 0 ? "closes today" : days === 1 ? "1 day left" : `${days} days left`;
   const intake = intakeLabel(nd.semester, nd.date);
   const euOnly = isEuOnlyAudience(nd.audience);
+  if (compact) {
+    const intakeShort = nd.semester ? intake?.split(" intake")[0] : null; // "Summer 2027"
+    return (
+      <div className="flex flex-col">
+        <span className={`deadline deadline-${u} inline-flex items-center gap-2`}>
+          <span className={`dot dot-${u}`} />
+          <span className="font-heading text-base font-bold leading-tight">{formatDate(nd.date)}</span>
+        </span>
+        <span className="text-xs text-muted pl-4 leading-snug">{left}{intakeShort ? ` · ${intakeShort}` : ""}{euOnly ? " · EU date" : ""}</span>
+      </div>
+    );
+  }
   return (
     <div className={`flex flex-col gap-0.5 ${cls}`}>
       <span className={`deadline deadline-${u} inline-flex items-center gap-2 text-sm`}>

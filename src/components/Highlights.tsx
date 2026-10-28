@@ -9,7 +9,7 @@ export function Highlights({ items }: { items: Highlight[] }) {
     <section className="panel">
       <div className="flex items-baseline justify-between gap-4 pb-2 border-b border-line">
         <h2 className="text-lg">At a glance</h2>
-        <span className="text-xs text-muted">Picked out of the official text. Red = must have.</span>
+        <span className="text-xs text-muted">Red = must have · amber = condition or cost · green = good news</span>
       </div>
       <ul className="mt-4 space-y-2">
         {sorted.map((h) => (

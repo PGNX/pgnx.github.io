@@ -6,7 +6,7 @@ import { Highlights } from "@/components/Highlights";
 import { RichText } from "@/components/RichText";
 import { VerifyNotice } from "@/components/VerifyNotice";
 import { categoryName, formatDate, getProgrammeBySlug, getProgrammes, isEuOnlyAudience, type Programme } from "@/lib/data";
-import { site } from "@/lib/site";
+import { reportLink, site } from "@/lib/site";
 
 export const dynamicParams = false;
 
@@ -26,7 +26,7 @@ export default async function ProgrammePage({ params }: { params: Promise<{ slug
   const nonEuPeriods = p.applicationPeriods.filter((ap) => !isEuOnlyAudience(ap.audience));
   const euPeriods = p.applicationPeriods.filter((ap) => isEuOnlyAudience(ap.audience));
   const reportHref = site.reportUrl
-    ? site.reportUrl
+    ? reportLink(`${p.name} – ${p.university}`)
     : site.contactEmail
       ? `mailto:${site.contactEmail}?subject=${encodeURIComponent(`Wrong info: ${p.name} (${p.university}) #${p.id}`)}`
       : "";

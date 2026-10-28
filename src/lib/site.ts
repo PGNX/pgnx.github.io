@@ -14,6 +14,17 @@ export const site = {
     { name: "Facebook group", url: "https://www.facebook.com/share/g/1ZfriCNBoe/" },
     { name: "YouTube", url: "https://www.youtube.com/@PAKGERMANNEXUS" },
   ],
-  reportUrl: process.env.NEXT_PUBLIC_REPORT_URL || "",
+  // Google Form for "report wrong information" / general feedback. Responses go to the PGNX Google Sheet.
+  reportUrl: process.env.NEXT_PUBLIC_REPORT_URL || "https://docs.google.com/forms/d/e/1FAIpQLSep-hVMvtX_sVAovdWw9mKk7YUAiZsAKrW3oBdDd-GyJEs3UQ/viewform",
+  // entry id of the form's first question, used to pre-fill the programme name
+  reportProgrammeField: "entry.1892240521",
   contactEmail: process.env.NEXT_PUBLIC_CONTACT_EMAIL || "",
 };
+
+/** Report-form link with the programme name pre-filled. */
+export function reportLink(programme?: string): string {
+  if (!site.reportUrl) return "";
+  if (!programme) return site.reportUrl;
+  const sep = site.reportUrl.includes("?") ? "&" : "?";
+  return `${site.reportUrl}${sep}usp=pp_url&${site.reportProgrammeField}=${encodeURIComponent(programme)}`;
+}

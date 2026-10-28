@@ -85,7 +85,7 @@ export default function About() {
               <h2 className="text-xl">Found a mistake?</h2>
               <p className="mt-3 text-ink-2">
                 {site.reportUrl ? (
-                  <>Use the <a href={site.reportUrl} target="_blank" rel="noopener" className="underline">report form</a> and name the programme. A volunteer checks the official page and fixes the listing.</>
+                  <>Use the <a href={site.reportUrl} target="_blank" rel="noopener" className="underline">feedback form</a> (no login needed) and name the programme. A volunteer checks the official page and fixes the listing. General suggestions are welcome there too.</>
                 ) : site.contactEmail ? (
                   <>Email <a href={`mailto:${site.contactEmail}`} className="underline">{site.contactEmail}</a> with the programme name. A volunteer checks the official page and fixes the listing.</>
                 ) : (

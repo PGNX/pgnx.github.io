@@ -29,6 +29,7 @@ export function Footer() {
           <ul className="mt-2 space-y-1">
             <li><Link href="/programs" className="hover:underline">All programmes</Link></li>
             <li><Link href="/gpa" className="hover:underline">German grade calculator</Link></li>
+            {site.reportUrl && <li><a href={site.reportUrl} target="_blank" rel="noopener" className="hover:underline">Give feedback / report an error</a></li>}
             <li><Link href="/about" className="hover:underline">About this site</Link></li>
             <li><a href="https://www2.daad.de/deutschland/studienangebote/international-programmes/en/" target="_blank" rel="noopener" className="hover:underline">DAAD database</a></li>
             <li><a href="https://www.hochschulkompass.de/en/" target="_blank" rel="noopener" className="hover:underline">Hochschulkompass</a></li>

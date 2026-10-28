@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { Suspense } from "react";
 import { BavarianCalculator } from "@/components/BavarianCalculator";
 
 export const metadata: Metadata = {
@@ -7,8 +8,7 @@ export const metadata: Metadata = {
   description: "Convert your Pakistani CGPA or percentage to the German grading scale with the modified Bavarian formula.",
 };
 
-export default async function GpaPage({ searchParams }: { searchParams: Promise<{ g?: string }> }) {
-  const { g } = await searchParams;
+export default function GpaPage() {
   return (
     <div>
       <section className="band band-pattern">
@@ -22,7 +22,7 @@ export default async function GpaPage({ searchParams }: { searchParams: Promise<
       </section>
 
       <div className="mx-auto max-w-6xl px-4 py-8 space-y-6">
-        <BavarianCalculator initialGrade={typeof g === "string" && /^\d+([.,]\d+)?$/.test(g) ? g : ""} />
+        <Suspense fallback={null}><BavarianCalculator /></Suspense>
 
         <div className="grid gap-4 md:grid-cols-2 text-sm text-ink-2">
           <div className="panel">

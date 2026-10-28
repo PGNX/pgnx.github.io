@@ -1,13 +1,13 @@
 import Link from "next/link";
 import Image from "next/image";
-import { site } from "@/lib/site";
+import { asset, site } from "@/lib/site";
 
 export function Header() {
   return (
     <header className="bg-green text-white">
       <div className="mx-auto max-w-6xl px-4 h-14 flex items-center justify-between gap-6">
         <Link href="/" className="flex items-center gap-3 min-w-0">
-          <Image src="/logo.png" alt="" width={36} height={36} priority className="shrink-0 rounded-full bg-white" />
+          <Image src={asset("/logo.png")} alt="" width={36} height={36} priority className="shrink-0 rounded-full bg-white" />
           <span className="flex flex-col leading-tight min-w-0">
             <span className="text-[15px] font-semibold tracking-tight truncate text-white">{site.name}</span>
             <span className="text-[11px] uppercase tracking-[0.12em] text-white/70">{site.org}</span>

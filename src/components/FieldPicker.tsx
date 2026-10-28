@@ -39,7 +39,7 @@ export function FieldPicker({ fields, totals }: { fields: FieldInfo[]; totals: {
       <ul className="mt-4 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
         {fields.map((f) => (
           <li key={f.id} className="card shadow-sm">
-            <Link href={`/programs?degree=${degree}&field=${f.id}`} className="group block p-4 h-full rounded-md hover:border-green-mid hover:bg-paper-2 transition-colors">
+            <Link href={`/programs/?degree=${degree}&field=${f.id}`} className="group block p-4 h-full rounded-md hover:border-green-mid hover:bg-paper-2 transition-colors">
               <div className="flex items-baseline justify-between gap-3">
                 <span className="font-semibold group-hover:underline">{f.name}</span>
                 <span className="text-sm text-muted tabular-nums shrink-0">{f[key]}</span>
@@ -49,7 +49,7 @@ export function FieldPicker({ fields, totals }: { fields: FieldInfo[]; totals: {
           </li>
         ))}
         <li className="card bg-paper-2">
-          <Link href={`/programs?degree=${degree}`} className="group block p-4 h-full rounded-md hover:bg-paper-3 transition-colors">
+          <Link href={`/programs/?degree=${degree}`} className="group block p-4 h-full rounded-md hover:bg-paper-3 transition-colors">
             <div className="flex items-baseline justify-between gap-3">
               <span className="font-medium group-hover:underline">All {degree === "Master" ? "Master's" : "Bachelor's"} programmes</span>
               <span className="text-sm text-muted tabular-nums shrink-0">{totals[key]}</span>

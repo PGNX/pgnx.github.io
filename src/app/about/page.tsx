@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 import { formatDate, getData, stats } from "@/lib/data";
-import { site } from "@/lib/site";
+import { asset, site } from "@/lib/site";
 
 export const metadata: Metadata = { title: "About" };
 
@@ -31,7 +31,7 @@ export default function About() {
     <div>
       <section className="band band-pattern">
         <div className="mx-auto max-w-6xl px-4 py-12 md:py-16 flex flex-col md:flex-row md:items-center gap-8">
-          <Image src="/logo.png" alt="Pak-German Nexus" width={120} height={120} className="rounded-full bg-white shrink-0 ring-4 ring-white/20" />
+          <Image src={asset("/logo.png")} alt="Pak-German Nexus" width={120} height={120} className="rounded-full bg-white shrink-0 ring-4 ring-white/20" />
           <div>
             <div className="eyebrow text-white/60">About</div>
             <h1 className="mt-2 text-3xl md:text-4xl font-semibold text-white">{site.org}</h1>

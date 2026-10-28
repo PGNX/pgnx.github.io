@@ -45,9 +45,15 @@ Copy `.env.example` to `.env.local` and fill in:
 - `NEXT_PUBLIC_REPORT_URL` – Google Form (or similar) for "Report wrong information"
 - `NEXT_PUBLIC_CONTACT_EMAIL` – fallback contact if no report form
 
-## Deploy
+## Deploy (GitHub Pages)
 
-Vercel free tier works out of the box (`vercel` or connect the Git repo). Set the three env vars in the Vercel project settings.
+The site is a fully static export (`output: "export"`). `.github/workflows/deploy.yml` builds it and publishes to GitHub Pages on every push to `main`.
+
+One-time setup on GitHub: repository **Settings → Pages → Build and deployment → Source: GitHub Actions**.
+
+The workflow picks the base path automatically: a repo named `<user>.github.io` (for example `pgnx.github.io`) is served at the root, any other repo at `https://<user>.github.io/<repo-name>/`. A custom domain works by adding a `public/CNAME` file.
+
+Day-to-day: change code or data, run `npm run data` if the data changed, commit, push. The Actions tab shows the build; the site updates about two minutes after the push.
 
 ## Structure
 

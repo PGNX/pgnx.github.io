@@ -5,10 +5,10 @@ import { DeadlineBadge } from "@/components/DeadlineBadge";
 import { Highlights } from "@/components/Highlights";
 import { RichText } from "@/components/RichText";
 import { VerifyNotice } from "@/components/VerifyNotice";
-import { categoryName, formatDate, getProgrammeBySlug, getProgrammes, isEuOnlyAudience, todayISO, type Programme } from "@/lib/data";
+import { categoryName, formatDate, getProgrammeBySlug, getProgrammes, isEuOnlyAudience, type Programme } from "@/lib/data";
 import { site } from "@/lib/site";
 
-export const revalidate = 86400;
+export const dynamicParams = false;
 
 export function generateStaticParams() {
   return getProgrammes().map((p) => ({ slug: p.slug }));
@@ -23,7 +23,6 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 export default async function ProgrammePage({ params }: { params: Promise<{ slug: string }> }) {
   const p = getProgrammeBySlug((await params).slug);
   if (!p) notFound();
-  const today = todayISO();
   const nonEuPeriods = p.applicationPeriods.filter((ap) => !isEuOnlyAudience(ap.audience));
   const euPeriods = p.applicationPeriods.filter((ap) => isEuOnlyAudience(ap.audience));
   const reportHref = site.reportUrl
@@ -36,8 +35,8 @@ export default async function ProgrammePage({ params }: { params: Promise<{ slug
     <div className="mx-auto max-w-6xl px-4 py-8">
       <nav className="text-sm text-muted flex flex-wrap gap-1">
         <Link href="/" className="hover:underline">Home</Link><span>/</span>
-        <Link href={`/programs?degree=${p.degree}`} className="hover:underline">{p.degree}&rsquo;s</Link><span>/</span>
-        <Link href={`/programs?degree=${p.degree}&field=${p.categories[0]}`} className="hover:underline">{categoryName(p.categories[0])}</Link>
+        <Link href={`/programs/?degree=${p.degree}`} className="hover:underline">{p.degree}&rsquo;s</Link><span>/</span>
+        <Link href={`/programs/?degree=${p.degree}&field=${p.categories[0]}`} className="hover:underline">{categoryName(p.categories[0])}</Link>
       </nav>
 
       <header className="mt-3 pb-6">
@@ -78,7 +77,7 @@ export default async function ProgrammePage({ params }: { params: Promise<{ slug
           <Section title="Application deadlines">
             <div className="flex flex-wrap items-start gap-3">
               <span className="text-sm text-muted pt-0.5">Next deadline:</span>
-              <DeadlineBadge p={p} today={today} />
+              <DeadlineBadge p={{ deadlines: p.deadlines, noDeadline: /no deadline/i.test(p.daadDeadlineSummary || "") }} />
             </div>
             {nonEuPeriods.length > 0 ? (
               <PeriodList periods={nonEuPeriods} />

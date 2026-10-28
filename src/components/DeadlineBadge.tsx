@@ -1,20 +1,25 @@
-import { daysUntil, formatDate, intakeLabel, isEuOnlyAudience, nextDeadline, urgency, type Programme } from "@/lib/data";
+"use client";
+
+import { daysUntil, formatDate, intakeLabel, isEuOnlyAudience, nextDeadline, urgency, type Deadline } from "@/lib/filters";
+import { useToday } from "@/lib/useToday";
+
+type BadgeInput = { deadlines: Deadline[]; noDeadline: boolean };
 
 /**
  * Shows the next application deadline in plain words:
  *   Apply by 15 Nov 2026 · 18 days left
  *   Summer 2027 intake, starts April 2027
  */
-export function DeadlineBadge({ p, today, align = "left" }: { p: Programme; today: string; align?: "left" | "right" }) {
+export function DeadlineBadge({ p, align = "left" }: { p: BadgeInput; align?: "left" | "right" }) {
+  const today = useToday();
   const nd = nextDeadline(p, today);
   const cls = align === "right" ? "md:items-end md:text-right" : "";
   if (!nd) {
-    const noDeadline = /no deadline/i.test(p.daadDeadlineSummary);
     return (
       <div className={`flex flex-col gap-0.5 ${cls}`}>
         <span className="deadline deadline-unknown inline-flex items-center gap-2 text-sm">
           <span className="dot dot-unknown" />
-          {noDeadline ? "No fixed deadline (rolling admission)" : "Deadline: check official page"}
+          {p.noDeadline ? "No fixed deadline (rolling admission)" : "Deadline: check official page"}
         </span>
       </div>
     );

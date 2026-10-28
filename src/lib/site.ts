@@ -1,3 +1,7 @@
+/** Prefix for static files in /public when the site is served under a sub-path (GitHub Pages). */
+export const BASE_PATH = process.env.NEXT_PUBLIC_BASE_PATH || "";
+export const asset = (p: string) => `${BASE_PATH}${p}`;
+
 export const site = {
   name: "PGNX Programmes",
   org: "Pak-German Nexus",

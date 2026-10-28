@@ -1,6 +1,7 @@
 "use client";
 
 import { useMemo, useState } from "react";
+import { useSearchParams } from "next/navigation";
 
 /**
  * Modified Bavarian formula:  German grade = 1 + 3 × (Nmax − Nd) / (Nmax − Nmin)
@@ -34,7 +35,10 @@ const CUTOFFS = [
   { g: 3.0, who: "Many programmes with a basic cut-off" },
 ];
 
-export function BavarianCalculator({ initialGrade = "" }: { initialGrade?: string }) {
+export function BavarianCalculator() {
+  const sp = useSearchParams();
+  const g = sp.get("g") ?? "";
+  const initialGrade = /^\d+([.,]\d+)?$/.test(g) ? g : "";
   const [presetId, setPresetId] = useState(PRESETS[0].id);
   const preset = PRESETS.find((p) => p.id === presetId)!;
   const [max, setMax] = useState(String(preset.max));

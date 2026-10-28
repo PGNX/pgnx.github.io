@@ -4,15 +4,11 @@ import { useEffect, useId, useMemo, useRef, useState } from "react";
 
 export interface UniOption { name: string; count: number }
 
-/**
- * University-only search with suggestions. Lives inside a GET form: on pick it sets the hidden
- * `uni` field and submits the form. Shows a few popular universities as quick picks.
- */
-export function UniversitySearch({ universities, quickPicks, selected }: { universities: UniOption[]; quickPicks: UniOption[]; selected: string[] }) {
+/** University-only multi-select with suggestions and quick picks. Calls onChange with the new list. */
+export function UniversitySearch({ universities, quickPicks, selected, onChange }: { universities: UniOption[]; quickPicks: UniOption[]; selected: string[]; onChange: (list: string[]) => void }) {
   const [text, setText] = useState("");
   const [open, setOpen] = useState(false);
   const [active, setActive] = useState(0);
-  const formRef = useRef<HTMLFormElement | null>(null);
   const wrap = useRef<HTMLDivElement>(null);
   const listId = useId();
 
@@ -36,32 +32,11 @@ export function UniversitySearch({ universities, quickPicks, selected }: { unive
     return [...starts, ...word, ...contains].slice(0, 8);
   }, [text, universities, quickPicks, selected]);
 
-  /** Submit the surrounding form with the given university list. */
-  function submitWith(list: string[]) {
-    const form = formRef.current ?? wrap.current?.closest("form");
-    if (!form) return;
-    form.querySelectorAll<HTMLInputElement>("input[name='uni']").forEach((el) => el.remove());
-    for (const name of list) {
-      const el = document.createElement("input");
-      el.type = "hidden"; el.name = "uni"; el.value = name;
-      form.appendChild(el);
-    }
-    form.requestSubmit();
-  }
-
-  function pick(name: string) {
-    setText("");
-    setOpen(false);
-    submitWith([...selected, name]);
-  }
-
-  function remove(name: string) {
-    submitWith(selected.filter((x) => x !== name));
-  }
+  function pick(name: string) { setText(""); setOpen(false); onChange([...selected, name]); }
+  function remove(name: string) { onChange(selected.filter((x) => x !== name)); }
 
   return (
     <div ref={wrap} className="relative">
-      {selected.map((name) => <input key={name} type="hidden" name="uni" value={name} readOnly />)}
       {selected.length > 0 && (
         <ul className="mb-2 flex flex-wrap gap-1.5">
           {selected.map((name) => (
@@ -74,40 +49,32 @@ export function UniversitySearch({ universities, quickPicks, selected }: { unive
           ))}
         </ul>
       )}
-      <div className="relative">
-        <input
-          type="text"
-          role="combobox"
-          aria-expanded={open}
-          aria-controls={listId}
-          aria-autocomplete="list"
-          value={text}
-          placeholder={selected.length ? "Add another university" : "e.g. Paderborn"}
-          autoComplete="off"
-          className="control pr-8"
-          onFocus={() => { setOpen(true); setActive(0); }}
-          onChange={(e) => { setText(e.target.value); setOpen(true); setActive(0); }}
-          onKeyDown={(e) => {
-            if (e.key === "ArrowDown") { e.preventDefault(); setOpen(true); setActive((a) => Math.min(a + 1, matches.length - 1)); }
-            else if (e.key === "ArrowUp") { e.preventDefault(); setActive((a) => Math.max(a - 1, 0)); }
-            else if (e.key === "Enter") { e.preventDefault(); if (matches[active]) pick(matches[active].name); }
-            else if (e.key === "Escape") setOpen(false);
-          }}
-        />
-      </div>
+      <input
+        type="text"
+        role="combobox"
+        aria-expanded={open}
+        aria-controls={listId}
+        aria-autocomplete="list"
+        value={text}
+        placeholder={selected.length ? "Add another university" : "e.g. Paderborn"}
+        autoComplete="off"
+        className="control"
+        onFocus={() => { setOpen(true); setActive(0); }}
+        onChange={(e) => { setText(e.target.value); setOpen(true); setActive(0); }}
+        onKeyDown={(e) => {
+          if (e.key === "ArrowDown") { e.preventDefault(); setOpen(true); setActive((a) => Math.min(a + 1, matches.length - 1)); }
+          else if (e.key === "ArrowUp") { e.preventDefault(); setActive((a) => Math.max(a - 1, 0)); }
+          else if (e.key === "Enter") { e.preventDefault(); if (matches[active]) pick(matches[active].name); }
+          else if (e.key === "Escape") setOpen(false);
+        }}
+      />
 
       {open && matches.length > 0 && (
         <ul id={listId} role="listbox" className="absolute z-20 mt-1 w-full max-h-72 overflow-auto card shadow-md py-1 text-sm">
           {!text.trim() && <li className="px-3 py-1.5 eyebrow">{selected.length ? "Add another" : "Popular"}</li>}
           {matches.map((u, i) => (
-            <li
-              key={u.name}
-              role="option"
-              aria-selected={i === active}
-              onMouseEnter={() => setActive(i)}
-              onMouseDown={(e) => { e.preventDefault(); pick(u.name); }}
-              className={`px-3 py-2 cursor-pointer flex justify-between gap-3 ${i === active ? "bg-green-soft" : ""}`}
-            >
+            <li key={u.name} role="option" aria-selected={i === active} onMouseEnter={() => setActive(i)} onMouseDown={(e) => { e.preventDefault(); pick(u.name); }}
+              className={`px-3 py-2 cursor-pointer flex justify-between gap-3 ${i === active ? "bg-green-soft" : ""}`}>
               <span className="truncate">{highlight(u.name, text)}</span>
               <span className="text-muted tabular-nums shrink-0">{u.count}</span>
             </li>

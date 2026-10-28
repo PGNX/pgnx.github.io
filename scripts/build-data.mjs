@@ -469,7 +469,19 @@ function main() {
   for (const p of programmes) for (const c of p.categories) counts[c] = (counts[c] || 0) + 1;
   fs.mkdirSync(path.dirname(OUT), { recursive: true });
   fs.writeFileSync(OUT, JSON.stringify({ builtAt: now.toISOString(), source: "DAAD International Programmes in Germany + university websites", categories: CATEGORIES.map(({ id, name }) => ({ id, name, count: counts[id] || 0 })), programmes }));
-  console.log(`built ${programmes.length} programmes -> ${OUT}`);
+  // slim index for the client-side list (GitHub Pages has no server)
+  const INDEX = path.resolve("public/data/programs-index.json");
+  fs.mkdirSync(path.dirname(INDEX), { recursive: true });
+  const index = programmes.map((p) => ({
+    id: p.id, slug: p.slug, name: p.name, university: p.university, city: p.city, degree: p.degree,
+    languageGroup: p.languageGroup, beginning: p.beginning, tuition: { free: p.tuition.free, unknown: p.tuition.unknown || undefined },
+    uniAssist: p.uniAssist, categories: p.categories, deadlines: p.deadlines,
+    noDeadline: /no deadline/i.test(p.daadDeadlineSummary || ""),
+    redFlags: (p.highlights || []).filter((h) => h.level === "red").map((h) => h.label),
+    source: p.source, subject: p.subject, fieldsOfStudy: p.fieldsOfStudy,
+  }));
+  fs.writeFileSync(INDEX, JSON.stringify({ builtAt: now.toISOString(), programmes: index }));
+  console.log(`built ${programmes.length} programmes -> ${OUT}; client index -> ${INDEX} (${Math.round(fs.statSync(INDEX).size / 1024)} KB)`);
   console.log(counts);
   const withDl = programmes.filter((p) => p.deadlines.length).length;
   console.log(`with parsed deadline: ${withDl}; with course website: ${programmes.filter((p) => p.courseWebsite).length}; uni-assist: ${programmes.filter((p) => p.uniAssist).length}`);

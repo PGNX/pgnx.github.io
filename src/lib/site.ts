@@ -2,6 +2,12 @@
 export const BASE_PATH = process.env.NEXT_PUBLIC_BASE_PATH || "";
 export const asset = (p: string) => `${BASE_PATH}${p}`;
 
+/** Umami analytics (privacy-friendly, no cookies). Leave `umamiWebsiteId` empty to disable. */
+export const analytics = {
+  umamiSrc: process.env.NEXT_PUBLIC_UMAMI_SRC || "https://cloud.umami.is/script.js",
+  umamiWebsiteId: process.env.NEXT_PUBLIC_UMAMI_ID || "7d45fd9d-eda9-4c7b-b1b2-ef982ba99221",
+};
+
 export const site = {
   name: "PGNX Programmes",
   org: "Pak-German Nexus",

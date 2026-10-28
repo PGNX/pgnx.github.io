@@ -3,7 +3,7 @@ import { IBM_Plex_Sans, Plus_Jakarta_Sans } from "next/font/google";
 import "./globals.css";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
-import { site } from "@/lib/site";
+import { analytics, site } from "@/lib/site";
 
 const plex = IBM_Plex_Sans({
   variable: "--font-plex",
@@ -25,6 +25,12 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en" className={`${plex.variable} ${heading.variable} h-full`}>
+      <head>
+        {analytics.umamiWebsiteId && (
+          // Umami: privacy-friendly analytics, no cookies. Plain script tag so it works in the static export.
+          <script defer src={analytics.umamiSrc} data-website-id={analytics.umamiWebsiteId} />
+        )}
+      </head>
       <body className="min-h-full flex flex-col">
         <Header />
         <main className="flex-1">{children}</main>

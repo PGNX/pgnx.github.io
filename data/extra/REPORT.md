@@ -106,3 +106,11 @@ Checked: 99 | Added to site: 73 | Excluded: 26
 - General Management | University of Tübingen | german-taught
 - International Business | University of Tübingen | german-taught
 - Leading Business Transformation | Saarland University of Applied Sciences (htw saar) | other: part-time 100% online distance MBA (with zfh) costing EUR 12,000 (EUR 2,400 per semester) plus semester fee; not a campus programme
+
+## Added 2026-10-29 (from community trackers)
+
+- M.Sc. Computer Science | TU Clausthal | added | confidence medium | https://www.studiengaenge.tu-clausthal.de/en/study-at-the-tu-clausthal/masters-programs/computer-science-master
+- M.Sc. Computer Science | University of Bremen | excluded: german-taught | confidence medium | https://www.uni-bremen.de/en/studies/orientation-application/offered-study-program/dbs/study/computer-science-master
+- M.Sc. Computer Science | University of Kassel | added | confidence medium | https://www.uni-kassel.de/uni/en/studium/informatik-master
+- M.Sc. Computer Science | University of Würzburg | added | confidence medium | https://www.informatik.uni-wuerzburg.de/en/studies/degree-programmes/master-computer-science/
+- M.Sc. Computer Science Artificial Intelligence Specialization | University of Freiburg | added | confidence high | https://www.tf.uni-freiburg.de/en/study-programs/computer-science/m-sc-computer-science

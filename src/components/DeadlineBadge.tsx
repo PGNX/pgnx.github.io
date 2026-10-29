@@ -12,7 +12,7 @@ type BadgeInput = { deadlines: Deadline[]; noDeadline: boolean };
  */
 export function DeadlineBadge({ p, align = "left", compact = false }: { p: BadgeInput; align?: "left" | "right"; compact?: boolean }) {
   const today = useToday();
-  const nd = nextDeadline(p, today);
+  const nd = nextDeadline(p, today ?? "2000-01-01");
   const cls = align === "right" ? "md:items-end md:text-right" : "";
   if (!nd) {
     if (compact) {
@@ -31,9 +31,9 @@ export function DeadlineBadge({ p, align = "left", compact = false }: { p: Badge
       </div>
     );
   }
-  const days = daysUntil(nd.date, today);
+  const days = today ? daysUntil(nd.date, today) : null;
   const u = urgency(days);
-  const left = days === 0 ? "closes today" : days === 1 ? "1 day left" : `${days} days left`;
+  const left = days === null ? "" : days === 0 ? "closes today" : days === 1 ? "1 day left" : `${days} days left`;
   const intake = intakeLabel(nd.semester, nd.date);
   const euOnly = isEuOnlyAudience(nd.audience);
   if (compact) {
@@ -44,7 +44,7 @@ export function DeadlineBadge({ p, align = "left", compact = false }: { p: Badge
           <span className={`dot dot-${u}`} />
           <span className="font-heading text-base font-bold leading-tight">{formatDate(nd.date)}</span>
         </span>
-        <span className="text-xs text-muted pl-4 leading-snug">{left}{intakeShort ? ` · ${intakeShort}` : ""}{euOnly ? " · EU date" : ""}</span>
+        <span className="text-xs text-muted pl-4 leading-snug">{[left, intakeShort, euOnly ? "EU date" : ""].filter(Boolean).join(" · ")}</span>
       </div>
     );
   }
@@ -55,7 +55,7 @@ export function DeadlineBadge({ p, align = "left", compact = false }: { p: Badge
         <span>
           <span className="text-muted">{euOnly ? "EU deadline " : "Apply by "}</span>
           <span className="font-semibold">{formatDate(nd.date)}</span>
-          <span className="text-muted"> · {left}</span>
+          {left && <span className="text-muted"> · {left}</span>}
         </span>
       </span>
       {(intake || euOnly) && (

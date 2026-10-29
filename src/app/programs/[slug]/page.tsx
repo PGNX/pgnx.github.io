@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { DeadlineBadge } from "@/components/DeadlineBadge";
 import { DeadlineCards } from "@/components/DeadlineCards";
+import { SaveButton } from "@/components/SaveButton";
 import { Highlights } from "@/components/Highlights";
 import { EctsPanel } from "@/components/EctsPanel";
 import { RichText } from "@/components/RichText";
@@ -69,6 +70,7 @@ export default async function ProgrammePage({ params }: { params: Promise<{ slug
             {p.courseWebsite && <a href={p.courseWebsite} target="_blank" rel="noopener" className="btn btn-primary">Official programme page <ExtIcon /></a>}
             {applyHref && <a href={applyHref} target="_blank" rel="noopener" className="btn btn-secondary">{p.uniAssist ? "Apply via uni-assist" : "Application portal"} <ExtIcon /></a>}
             {p.daadUrl && <a href={p.daadUrl} target="_blank" rel="noopener" className="btn btn-secondary">DAAD listing <ExtIcon /></a>}
+            <SaveButton slug={p.slug} variant="button" />
             <span className="text-xs text-muted sm:ml-auto">
               Collected from {p.source === "daad" ? "DAAD" : "the university website"}, {formatDate(p.fetchedAt.slice(0, 10))}. Always confirm on the official page before applying.
             </span>

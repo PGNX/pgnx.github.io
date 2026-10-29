@@ -2,36 +2,22 @@
 
 import Link from "next/link";
 import { useRouter, useSearchParams } from "next/navigation";
-import { useEffect, useMemo, useState } from "react";
+import { useMemo } from "react";
 import { FilterForm } from "@/components/FilterForm";
 import { ProgramRow } from "@/components/ProgramRow";
 import { VerifyNotice } from "@/components/VerifyNotice";
-import { PAGE_SIZES, buildQuery, categoryNameFrom, filterProgrammes, pageSize, parseFiltersFromSearch, topCities, topUniversities, universities, type Category, type Filters, type ProgrammeIndex } from "@/lib/filters";
+import { PAGE_SIZES, buildQuery, categoryNameFrom, filterProgrammes, pageSize, parseFiltersFromSearch, topCities, topUniversities, universities, type Category, type Filters } from "@/lib/filters";
 import { useToday } from "@/lib/useToday";
-
-const BASE = process.env.NEXT_PUBLIC_BASE_PATH || "";
-
-type Index = { builtAt: string; programmes: ProgrammeIndex[] };
-let cached: Index | null = null;
+import { useProgrammeIndex } from "@/lib/useProgrammeIndex";
 
 /** Client-side programme list for the static site: loads the slim index once and filters in the browser. */
 export function ProgramsClient({ cats, total }: { cats: Category[]; total: number }) {
   const router = useRouter();
   const sp = useSearchParams();
-  const today = useToday();
+  const todayLive = useToday();
   const f = useMemo(() => parseFiltersFromSearch(new URLSearchParams(sp.toString())), [sp]);
-  const [index, setIndex] = useState<Index | null>(cached);
-  const [error, setError] = useState(false);
-
-  useEffect(() => {
-    if (cached) return;
-    let alive = true;
-    fetch(`${BASE}/data/programs-index.json`)
-      .then((r) => { if (!r.ok) throw new Error(String(r.status)); return r.json() as Promise<Index>; })
-      .then((d) => { cached = d; if (alive) setIndex(d); })
-      .catch(() => { if (alive) setError(true); });
-    return () => { alive = false; };
-  }, []);
+  const { index, error } = useProgrammeIndex();
+  const today = todayLive ?? (index?.builtAt.slice(0, 10) ?? "2000-01-01");
 
   const all = useMemo(() => index?.programmes ?? [], [index]);
   const results = useMemo(() => filterProgrammes(all, f, today), [all, f, today]);

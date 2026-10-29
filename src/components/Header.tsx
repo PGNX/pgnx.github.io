@@ -1,6 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import { asset, site } from "@/lib/site";
+import { ShortlistLink } from "./ShortlistLink";
 
 export function Header() {
   return (
@@ -18,10 +19,13 @@ export function Header() {
             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden><path d="m3 11 9-8 9 8"/><path d="M5 10v10h5v-6h4v6h5V10"/></svg>
             <span className="hidden sm:inline">Home</span>
           </Link>
+          <ShortlistLink />
           <span className="hidden sm:flex items-center gap-1">
-            <Link href="/programs" className="btn btn-header">All programmes</Link>
-            <Link href="/gpa" className="btn btn-header">Grade calculator</Link>
-            <Link href="/about" className="btn btn-header">About</Link>
+            <Link href="/programs/" className="btn btn-header">Programmes</Link>
+            <Link href="/map/" className="btn btn-header">Map</Link>
+            <Link href="/faq/" className="btn btn-header">FAQ</Link>
+            <Link href="/gpa/" className="btn btn-header">Grade calculator</Link>
+            <Link href="/about/" className="btn btn-header">About</Link>
           </span>
           {site.communityUrl ? (
             <a href={site.communityUrl} target="_blank" rel="noopener" className="btn btn-header-solid"><span className="sm:hidden">Join</span><span className="hidden sm:inline">Join community</span></a>

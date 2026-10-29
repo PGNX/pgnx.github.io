@@ -20,7 +20,8 @@ const SEM = {
 
 /** Colour-coded deadline cards for the programme page. Dates are computed in the browser so "days left" is always current. */
 export function DeadlineCards({ deadlines, periods, noDeadline, note }: { deadlines: Deadline[]; periods: ApplicationPeriod[]; noDeadline: boolean; note?: string | null }) {
-  const today = useToday();
+  const today = useToday() ?? "2000-01-01"; // before hydration: show stored dates, no countdown
+  const live = today !== "2000-01-01";
   const dated = deadlines
     .filter((d) => !isEuOnlyAudience(d.audience))
     .map((d) => ({ ...d, date: upcoming(d.date, today) }))
@@ -43,20 +44,20 @@ export function DeadlineCards({ deadlines, periods, noDeadline, note }: { deadli
       {cards.length > 0 && (
         <ul className="grid gap-3 sm:grid-cols-2">
           {cards.map((d, i) => {
-            const days = daysUntil(d.date, today);
+            const days = live ? daysUntil(d.date, today) : null;
             const u = urgency(days);
             const sem = SEM[d.semester ?? "none"];
             const intake = intakeLabel(d.semester, d.date);
-            const left = days === 0 ? "Closes today" : days === 1 ? "1 day left" : `${days} days left`;
+            const left = days === null ? "" : days === 0 ? "Closes today" : days === 1 ? "1 day left" : `${days} days left`;
             const pill = u === "urgent" ? "bg-red text-white" : u === "soon" ? "bg-amber text-white" : "bg-green-soft text-green";
             return (
               <li key={`${d.semester}-${d.date}`} className={`relative rounded-md border border-line border-l-4 ${sem.card} p-4`}>
-                {i === 0 && <span className="absolute -top-2.5 right-3 text-[10px] font-bold uppercase tracking-wider bg-ink text-white rounded-full px-2 py-0.5">Next</span>}
+                {i === 0 && live && <span className="absolute -top-2.5 right-3 text-[10px] font-bold uppercase tracking-wider bg-ink text-white rounded-full px-2 py-0.5">Next</span>}
                 <div className="flex items-center justify-between gap-3">
                   <span className={`inline-flex items-center gap-1.5 text-xs font-semibold rounded-full px-2 py-0.5 ${sem.chip}`}>
                     <span aria-hidden>{sem.icon}</span>{sem.label}
                   </span>
-                  <span className={`text-xs font-semibold rounded-full px-2 py-0.5 tabular-nums ${pill}`}>{left}</span>
+                  {left && <span className={`text-xs font-semibold rounded-full px-2 py-0.5 tabular-nums ${pill}`}>{left}</span>}
                 </div>
                 <div className="mt-3 text-xs uppercase tracking-wide text-muted">Apply by</div>
                 <div className="font-heading text-2xl font-bold leading-tight tabular-nums">{formatDate(d.date)}</div>

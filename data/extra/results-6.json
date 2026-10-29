@@ -1,0 +1,222 @@
+[
+ {
+  "include": true,
+  "excludeReason": null,
+  "degreeTitle": "Master of Science (M.Sc.)",
+  "duration": "4 semesters",
+  "beginning": "Winter (summer admission also possible)",
+  "languageNote": "Official page says language of instruction is German or English; no further detail on the page.",
+  "tuitionNonEuPerSemester": null,
+  "tuitionText": "Not stated on the programme page (not verified).",
+  "semesterContribution": null,
+  "deadlines": [],
+  "deadlineNote": "No deadlines on the official programme page; check the TU Clausthal application portal.",
+  "applyVia": "university portal",
+  "applyUrl": "https://tuc.hispro.de",
+  "englishRequirement": null,
+  "germanRequirement": null,
+  "admissionRequirements": "Bachelor's in Computer Science or closely related field (e.g. Computer Engineering, Software Engineering); graduates of Business Informatics or (Business/Industrial) Mathematics may apply and make up missing CS courses.",
+  "description": "Research-oriented, international Master's with advanced courses, a compulsory research methods seminar, electives such as AI and data science, and a thesis in semester 4. A Research Track and part-time study are available.",
+  "daadUrl": null,
+  "confidence": "medium",
+  "sources": [
+   "https://www.studiengaenge.tu-clausthal.de/en/study-at-the-tu-clausthal/masters-programs/computer-science-master"
+  ],
+  "id": "3024",
+  "name": "M.Sc. Computer Science",
+  "university": "TU Clausthal",
+  "city": "Clausthal-Zellerfeld",
+  "courseWebsite": "https://www.studiengaenge.tu-clausthal.de/en/study-at-the-tu-clausthal/masters-programs/computer-science-master",
+  "uniWebsite": "https://www.tu-clausthal.de"
+ },
+ {
+  "include": false,
+  "excludeReason": "german-taught",
+  "degreeTitle": "Master of Science (M.Sc.)",
+  "duration": "4 semesters (120 ECTS)",
+  "beginning": "Winter and Summer",
+  "languageNote": "Official page lists German as language of instruction; no English option listed.",
+  "tuitionNonEuPerSemester": null,
+  "tuitionText": null,
+  "semesterContribution": "About 425 EUR incl. semester ticket",
+  "deadlines": [
+   {
+    "semester": "winter",
+    "audience": "all",
+    "day": null,
+    "month": null,
+    "year": null,
+    "text": "01.04. to 31.05."
+   },
+   {
+    "semester": "summer",
+    "audience": "all",
+    "day": null,
+    "month": null,
+    "year": null,
+    "text": "01.12. to 15.01."
+   }
+  ],
+  "deadlineNote": null,
+  "applyVia": "university portal",
+  "applyUrl": "https://moin.uni-bremen.de",
+  "englishRequirement": null,
+  "germanRequirement": null,
+  "admissionRequirements": null,
+  "description": "German-taught Computer Science Master with specialisations in Security and Quality, AI, Digital Media, and Visual and Medical Computing.",
+  "daadUrl": null,
+  "confidence": "medium",
+  "sources": [
+   "https://www.uni-bremen.de/en/studies/orientation-application/offered-study-program/dbs/study/computer-science-master"
+  ],
+  "id": "3035",
+  "name": "M.Sc. Computer Science",
+  "university": "University of Bremen",
+  "city": "Bremen",
+  "courseWebsite": "https://www.uni-bremen.de/en/studies/orientation-application/offered-study-program/dbs/study/computer-science-master",
+  "uniWebsite": "https://www.uni-bremen.de"
+ },
+ {
+  "include": true,
+  "excludeReason": null,
+  "degreeTitle": "Master's in Computer Science (M.Sc.)",
+  "duration": null,
+  "beginning": "Winter and Summer (applications open for both)",
+  "languageNote": "Official page: programme continues as an English-language Master's from winter semester 2026/27; previously German-language.",
+  "tuitionNonEuPerSemester": null,
+  "tuitionText": "Not stated on the pages seen.",
+  "semesterContribution": null,
+  "deadlines": [
+   {
+    "semester": "summer",
+    "audience": "non-EU",
+    "day": 15,
+    "month": 1,
+    "year": null,
+    "text": "Applicants with foreign certificates: 01.09. - 15.01. annually"
+   },
+   {
+    "semester": "winter",
+    "audience": "non-EU",
+    "day": 15,
+    "month": 7,
+    "year": null,
+    "text": "Applicants with foreign certificates: 01.03. - 15.07. annually"
+   }
+  ],
+  "deadlineNote": "Deadline read from a search snippet of the official Kassel page for foreign certificates; the page itself said deadlines are on the course website. Year not stated.",
+  "applyVia": "uni-assist",
+  "applyUrl": "https://www.uni-assist.de",
+  "englishRequirement": "B2 (CEFR)",
+  "germanRequirement": "Only if applicable per programme; not required for English-taught per page seen (not confirmed).",
+  "admissionRequirements": "Bachelor's in Computer Science or equivalent (at least 6 semesters/180 credits), supplementary form, and GRE scores (160 Quant, 155 Verbal, 3.5 Analytic Writing) for Bachelor's degrees from outside the EU.",
+  "description": "Computer Science Master at Kassel, being continued as an English-language programme from WS 2026/27.",
+  "daadUrl": null,
+  "confidence": "medium",
+  "sources": [
+   "https://uni-kassel.de/uni/en/studium/informatik-master",
+   "https://www.uni-kassel.de/uni/en/studium/computer-science-master/bewerbung-und-zulassung/bewerbung-mit-auslaendischen-zeugnissen.html"
+  ],
+  "id": "3040",
+  "name": "M.Sc. Computer Science",
+  "university": "University of Kassel",
+  "city": "Kassel",
+  "courseWebsite": "https://www.uni-kassel.de/uni/en/studium/informatik-master",
+  "uniWebsite": "https://www.uni-kassel.de"
+ },
+ {
+  "include": true,
+  "excludeReason": null,
+  "degreeTitle": "Master of Science (M.Sc.)",
+  "duration": "4 semesters (120 ECTS)",
+  "beginning": "Winter and Summer",
+  "languageNote": "German or English per programme page.",
+  "tuitionNonEuPerSemester": null,
+  "tuitionText": "Not stated; page says semester fees are not tuition fees.",
+  "semesterContribution": "Amount not stated on page.",
+  "deadlines": [
+   {
+    "semester": "summer",
+    "audience": "all",
+    "day": 31,
+    "month": 10,
+    "year": null,
+    "text": "Summer semester: end of August to 31 October (from 2025)"
+   },
+   {
+    "semester": "winter",
+    "audience": "all",
+    "day": 15,
+    "month": 3,
+    "year": null,
+    "text": "Winter semester: end of January to 15 March"
+   }
+  ],
+  "deadlineNote": "Same deadlines for all applicants; no separate non-EU dates.",
+  "applyVia": "university portal",
+  "applyUrl": "https://wuestudy.uni-wuerzburg.de/",
+  "englishRequirement": "C1 English (e.g. IELTS) or proof Bachelor's was taught in English/German",
+  "germanRequirement": "B2 German, alternative to C1 English",
+  "admissionRequirements": "180 ECTS Bachelor's with at least 100 ECTS in CS and mathematics (25 in theoretical CS) and a 10 ECTS CS thesis; grade 2.5 or better gives direct admission, otherwise an oral aptitude test. International applicants also need uni-assist VPD (if no German Bachelor's) and APS for China, India, Vietnam.",
+  "description": "Computer Science Master at Würzburg with aptitude-based admission and semester abroad support.",
+  "daadUrl": null,
+  "confidence": "medium",
+  "sources": [
+   "https://www.informatik.uni-wuerzburg.de/en/studies/degree-programmes/master-computer-science/",
+   "https://www.informatik.uni-wuerzburg.de/en/studies/degree-programmes/master-computer-science/application/"
+  ],
+  "id": "3051",
+  "name": "M.Sc. Computer Science",
+  "university": "University of Würzburg",
+  "city": "Würzburg",
+  "courseWebsite": "https://www.informatik.uni-wuerzburg.de/en/studies/degree-programmes/master-computer-science/",
+  "uniWebsite": "https://www.uni-wuerzburg.de"
+ },
+ {
+  "include": true,
+  "excludeReason": null,
+  "degreeTitle": "Master of Science Informatik / Computer Science (optional specialization in Artificial Intelligence or Cyber-Physical Systems)",
+  "duration": "4 semesters (120 ECTS)",
+  "beginning": "Winter (October) and Summer (April)",
+  "languageNote": "Taught in English.",
+  "tuitionNonEuPerSemester": 1500,
+  "tuitionText": "1,500 EUR tuition plus 190 EUR semester fees = 1,690 EUR per semester for non-EU",
+  "semesterContribution": "190 EUR per semester",
+  "deadlines": [
+   {
+    "semester": "winter",
+    "audience": "non-EU",
+    "day": 31,
+    "month": 5,
+    "year": null,
+    "text": "April 15 - May 31"
+   },
+   {
+    "semester": "summer",
+    "audience": "non-EU",
+    "day": 15,
+    "month": 12,
+    "year": null,
+    "text": "November 1 - December 15"
+   }
+  ],
+  "deadlineNote": "Years not stated on the page.",
+  "applyVia": "university portal",
+  "applyUrl": "https://campus.uni-freiburg.de",
+  "englishRequirement": "C1: IELTS Academic 7.0, TOEFL iBT 95, Cambridge CAE/CPE, PTE 76, telc, TOEIC, OOPT",
+  "germanRequirement": "None listed",
+  "admissionRequirements": "Bachelor's in computer science, mathematics or closely related field with strong maths and theoretical CS background; APS certificate for applicants from China, India, Vietnam.",
+  "description": "International English-taught Master with a flexible curriculum with no required courses; students may choose an Open Curriculum or specialise in AI or Cyber-Physical Systems.",
+  "daadUrl": null,
+  "confidence": "high",
+  "sources": [
+   "https://www.tf.uni-freiburg.de/en/study-programs/computer-science/m-sc-computer-science"
+  ],
+  "id": "3057",
+  "name": "M.Sc. Computer Science Artificial Intelligence Specialization",
+  "university": "University of Freiburg",
+  "city": "Freiburg",
+  "courseWebsite": "https://www.tf.uni-freiburg.de/en/study-programs/computer-science/m-sc-computer-science",
+  "uniWebsite": "https://uni-freiburg.de"
+ }
+]

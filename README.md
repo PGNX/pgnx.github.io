@@ -58,7 +58,9 @@ Day-to-day: change code or data, run `npm run data` if the data changed, commit,
 ## Structure
 
 - `scripts/scrape-daad.mjs` – DAAD scraper (list API + detail HTML parsing)
-- `scripts/build-data.mjs` – normalises data, parses deadlines, maps DAAD subjects to PGNX fields, applies overrides
+- `scripts/build-data.mjs` – normalises data, parses deadlines, maps DAAD subjects to PGNX fields, applies overrides, writes the client index and the city map data
+- `scripts/geocode-cities.mjs` – geocodes new cities with OpenStreetMap (cached in `data/geo/cities.json`; run after a data refresh if new cities appear)
+- `src/data/faq.ts` – FAQ content (edit directly; research notes in `data/faq-research.md`)
 - `src/lib/data.ts` – types, filtering, deadline helpers
 - `src/app/` – pages: home, `/programs` (filterable list), `/programs/[slug]`, `/about`
 

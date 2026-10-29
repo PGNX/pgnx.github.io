@@ -3,10 +3,12 @@
 import { useSyncExternalStore } from "react";
 import { todayISO } from "./filters";
 
-const BUILD_TODAY = todayISO();
 const subscribe = () => () => {};
 
-/** Today's date as YYYY-MM-DD, computed in the browser so static pages never show stale "days left". */
-export function useToday(): string {
-  return useSyncExternalStore(subscribe, () => todayISO(), () => BUILD_TODAY);
+/**
+ * Today's date as YYYY-MM-DD, known only in the browser. Returns null during server rendering and hydration,
+ * so static HTML never shows a "days left" that could disagree with the visitor's clock.
+ */
+export function useToday(): string | null {
+  return useSyncExternalStore(subscribe, () => todayISO(), () => null);
 }

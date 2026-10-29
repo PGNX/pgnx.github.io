@@ -1,20 +1,15 @@
 import type { Metadata } from "next";
-import { IBM_Plex_Sans, Plus_Jakarta_Sans } from "next/font/google";
+import { Plus_Jakarta_Sans } from "next/font/google";
 import "./globals.css";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
+import Script from "next/script";
 import { analytics, site } from "@/lib/site";
 
-const plex = IBM_Plex_Sans({
-  variable: "--font-plex",
-  subsets: ["latin"],
-  weight: ["400", "500", "600", "700"],
-});
-
-const heading = Plus_Jakarta_Sans({
+const jakarta = Plus_Jakarta_Sans({
   variable: "--font-jakarta",
   subsets: ["latin"],
-  weight: ["600", "700", "800"],
+  weight: ["400", "500", "600", "700", "800"],
 });
 
 export const metadata: Metadata = {
@@ -24,14 +19,12 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en" className={`${plex.variable} ${heading.variable} h-full`}>
-      <head>
-        {analytics.umamiWebsiteId && (
-          // Umami: privacy-friendly analytics, no cookies. Plain script tag so it works in the static export.
-          <script defer src={analytics.umamiSrc} data-website-id={analytics.umamiWebsiteId} />
-        )}
-      </head>
+    <html lang="en" className={`${jakarta.variable} h-full`}>
       <body className="min-h-full flex flex-col">
+        {analytics.umamiWebsiteId && (
+          // Umami: privacy-friendly analytics, no cookies. Injected into the static HTML at build time.
+          <Script src={analytics.umamiSrc} data-website-id={analytics.umamiWebsiteId} strategy="beforeInteractive" />
+        )}
         <Header />
         <main className="flex-1">{children}</main>
         <Footer />

@@ -47,6 +47,9 @@ export function Footer() {
                 <li><Link href="/programs/?degree=Bachelor" className="text-white/85 hover:text-white hover:underline">Bachelor&rsquo;s programmes</Link></li>
                 <li><Link href="/programs/?tuition=free&sort=deadline" className="text-white/85 hover:text-white hover:underline">No tuition fee, by deadline</Link></li>
                 <li><Link href="/gpa/" className="text-white/85 hover:text-white hover:underline">German grade calculator</Link></li>
+                <li><Link href="/shortlist/" className="text-white/85 hover:text-white hover:underline">My shortlist</Link></li>
+                <li><Link href="/map/" className="text-white/85 hover:text-white hover:underline">Map of universities</Link></li>
+                <li><Link href="/faq/" className="text-white/85 hover:text-white hover:underline">FAQ for Pakistani students</Link></li>
               </ul>
             </div>
 

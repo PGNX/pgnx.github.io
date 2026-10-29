@@ -513,6 +513,24 @@ function main() {
   for (const p of programmes) for (const c of p.categories) counts[c] = (counts[c] || 0) + 1;
   fs.mkdirSync(path.dirname(OUT), { recursive: true });
   fs.writeFileSync(OUT, JSON.stringify({ builtAt: now.toISOString(), source: "DAAD International Programmes in Germany + university websites", categories: CATEGORIES.map(({ id, name }) => ({ id, name, count: counts[id] || 0 })), programmes }));
+  // city map data (coordinates from data/geo/cities.json, produced by scripts/geocode-cities.mjs)
+  const GEO = path.resolve("data/geo/cities.json");
+  if (fs.existsSync(GEO)) {
+    const geo = JSON.parse(fs.readFileSync(GEO, "utf8"));
+    const byCity = {};
+    for (const p of programmes) {
+      const c = byCity[p.city] ??= { city: p.city, count: 0, free: 0, masters: 0, bachelors: 0, universities: {} };
+      c.count++; if (p.tuition.free) c.free++; if (p.degree === "Master") c.masters++; else c.bachelors++;
+      c.universities[p.university] = (c.universities[p.university] || 0) + 1;
+    }
+    const cities = Object.values(byCity).filter((c) => geo[c.city]).map((c) => ({
+      ...c, lat: geo[c.city].lat, lon: geo[c.city].lon, state: geo[c.city].state || null,
+      universities: Object.entries(c.universities).sort((a, b) => b[1] - a[1]).map(([name, n]) => ({ name, n })),
+    })).sort((a, b) => b.count - a.count);
+    fs.writeFileSync(path.resolve("public/data/cities.json"), JSON.stringify({ builtAt: now.toISOString(), cities }));
+    console.log(`city map: ${cities.length} cities with coordinates (${Object.keys(byCity).length - cities.length} without)`);
+  }
+
   // slim index for the client-side list (GitHub Pages has no server)
   const INDEX = path.resolve("public/data/programs-index.json");
   fs.mkdirSync(path.dirname(INDEX), { recursive: true });

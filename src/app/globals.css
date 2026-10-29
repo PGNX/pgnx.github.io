@@ -5,9 +5,9 @@
   --color-paper-2: #f7f8fa;
   --color-paper-3: #e6e9ed;
   --color-white: #ffffff;
-  --color-ink: #111827;
-  --color-ink-2: #374151;
-  --color-muted: #6b7280;
+  --color-ink: #0f172a;
+  --color-ink-2: #334155;
+  --color-muted: #5b6577;
   --color-line: #e5e7eb;
   --color-line-2: #cfd4db;
 
@@ -22,7 +22,7 @@
   --color-amber: #92400e;
   --color-amber-soft: #fef3c7;
 
-  --font-sans: var(--font-plex), "IBM Plex Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-sans: var(--font-jakarta), "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
   --font-heading: var(--font-jakarta), "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
 
   --radius-sm: 4px;
@@ -35,11 +35,13 @@ html { background: var(--color-paper); }
 .band::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 4px; background: var(--color-gold); }
 .band-pattern { background-image: radial-gradient(rgba(255,255,255,.07) 1px, transparent 1px); background-size: 18px 18px; }
 
+html { font-size: 16px; }
 body {
   background: var(--color-paper);
   color: var(--color-ink);
   font-family: var(--font-sans);
   font-feature-settings: "tnum" 1;
+  line-height: 1.6;
   -webkit-font-smoothing: antialiased;
 }
 
